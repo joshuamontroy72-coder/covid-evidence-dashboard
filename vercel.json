@@ -1,0 +1,8 @@
+{
+  "framework": null,
+  "outputDirectory": ".",
+  "routes": [
+    { "src": "/data/(.*)", "dest": "/data/$1" },
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
+}
