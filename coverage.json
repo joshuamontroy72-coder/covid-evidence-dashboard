@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-06T19:06:33.061837+00:00",
-  "total": 14,
+  "updated_at": "2026-10-07T18:44:56.232288+00:00",
+  "total": 229,
   "channels": [
     {
       "id": "journals",
       "label": "Journals (PubMed / Europe PMC)",
       "icon": "📄",
-      "count": 6
+      "count": 40
     },
     {
       "id": "preprints",
       "label": "Preprints (medRxiv / bioRxiv)",
       "icon": "📋",
-      "count": 0
+      "count": 55
     },
     {
       "id": "trials",
       "label": "ClinicalTrials.gov",
       "icon": "🔬",
-      "count": 0
+      "count": 75
     },
     {
       "id": "who_sage",
@@ -30,7 +30,7 @@
       "id": "nitag",
       "label": "National NITAG guidance",
       "icon": "🏛",
-      "count": 4
+      "count": 11
     },
     {
       "id": "surveillance",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 0
+      "count": 44
     },
     {
       "id": "press",
@@ -55,23 +55,66 @@
     {
       "id": "booster_frequency",
       "label": "Booster frequency & intervals",
-      "count": 8
+      "count": 56
     },
     {
       "id": "population_targeting",
       "label": "Population targeting",
-      "count": 6
+      "count": 75
     },
     {
       "id": "strain_selection",
       "label": "Vaccine strain selection",
-      "count": 6
+      "count": 42
     },
     {
       "id": "general_covid",
       "label": "General COVID-19 vaccines",
-      "count": 2
+      "count": 104
     }
   ],
-  "fetcher_log": []
+  "fetcher_log": [
+    {
+      "source": "Europe PMC (journals)",
+      "fetched": 119,
+      "kept": 34,
+      "error": null,
+      "fetched_at": "2026-10-07T18:39:42.199252+00:00"
+    },
+    {
+      "source": "medRxiv / bioRxiv preprints",
+      "fetched": 80,
+      "kept": 55,
+      "error": null,
+      "fetched_at": "2026-10-07T18:39:43.111000+00:00"
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "fetched": 80,
+      "kept": 75,
+      "error": null,
+      "fetched_at": "2026-10-07T18:39:43.380652+00:00"
+    },
+    {
+      "source": "WHO IRIS",
+      "fetched": 0,
+      "kept": 0,
+      "error": null,
+      "fetched_at": "2026-10-07T18:39:44.145234+00:00"
+    },
+    {
+      "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
+      "fetched": 35,
+      "kept": 7,
+      "error": null,
+      "fetched_at": "2026-10-07T18:44:30.056785+00:00"
+    },
+    {
+      "source": "Google News",
+      "fetched": 89,
+      "kept": 44,
+      "error": null,
+      "fetched_at": "2026-10-07T18:44:33.721040+00:00"
+    }
+  ]
 }
