@@ -1,5 +1,55 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-08",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-08",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1335532",
+    "title": "High-Yield Production and Antigenic Profiling of a Stabilized SARS-CoV-2 S2-Fc Fusion Protein Using GlycoSwitch Pichia pastoris",
+    "authors": "Akrami M, Kolyani KA, Amini A",
+    "journal": "Research Square",
+    "published_date": "2026-10-07",
+    "url": "https://europepmc.org/article/PPR/PPR1335532",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  The continuous mutation of the SARS-CoV-2 virus drives the need for novel vaccine approaches that can effectively combat new strains. Although research has heavily focused on the spike glycoprotein's S1 domain, the S2 subunit—despite its highly conserved sequence—has received far less attention. Here, we detail the design, production, isolation, and immunological assessment of the recombinant SARS-CoV-2 S2 protein synthesized using  <italic>Pichia pastoris</italic>  . To maximize protein yield, a codon-adapted S2 sequence was integrated into a yeast vector driven ",
+    "date": "2026-10-07",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_5160d5afb60770b6",
     "title": "National flu and COVID-19 surveillance report, week 21 report: data to week 20 (data up to 23 May 2027)",
     "authors": "UKHSA",
@@ -171,6 +221,31 @@
     "species": "human",
     "channel": "nitag",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1336240",
+    "title": "Effects of XFG-adapted mRNA vaccination on SARS-CoV-2 variant neutralisation",
+    "authors": "Happle C, Hoffmann M, Stankov MV et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-06",
+    "url": "https://europepmc.org/article/PPR/PPR1336240",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 antigenic evolution continues to challenge strain-matched vaccination. For the 2026-27 season, the European Medicines Agency (EMA) identified XFG as the preferred antigen within the JN.1 family and Comirnaty XFG was authorised in the European Union in July, 2026. We studied 22 participants who received 30 microg of mRNA encoding XFG (Comirnaty XFG, BioNTech/Pfizer, Mainz, Germany) in September, 2026 and had paired serum available before vaccination and median 14 days afterwards. Median Wuhan-Hu-1 S1-specific IgG increased from 1600 BAU/mL (IQR 1118-2926) to 2914 BAU/mL (2117-4468), ",
+    "date": "2026-10-06",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -455,6 +530,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42773579",
+    "title": "Modular mRNA cocktail enables synergistic activation of antigen-specific T cells for cancer immunotherapy",
+    "authors": "Le TV, Imai S, Fujitsuka I et al.",
+    "journal": "",
+    "published_date": "2026-09-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42773579/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42773579",
+    "summary": "mRNA-based therapeutics have demonstrated notable success in SARS-CoV-2 vaccines and are emerging in cancer immunotherapy. However, conventional mRNA cancer vaccines are limited in part by the low immunogenicity of tumor-associated and neoantigens. We addressed this limitation by formulating a modular, liposome-based mRNA cocktail comprising three distinct mRNAs encoding tumor antigens, the co-stimulatory molecule CD80, and membrane-tethered IL-2. Administration of this mRNA cocktail resulted in synergistic activation of tumor antigen-specific CD8⁺ T cells and robust anti-tumor immune response",
+    "date": "2026-09-22",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1323977",
     "title": "Immune responses and predictors of SARS-CoV-2 infection following a fourth dose of mRNA or protein-based COVID-19 vaccines",
     "authors": "Licciardi P, Ong D, Mazarakis N et al.",
@@ -553,6 +654,32 @@
     "species": "animal",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42750274",
+    "title": "Global vaccine readiness: equity-by-design in pandemic preparedness and response",
+    "authors": "Ghafari M, Watson OJ, Dascalu S et al.",
+    "journal": "",
+    "published_date": "2026-09-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750274/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42750274",
+    "summary": "<h4>Introduction</h4>COVID-19 showed that rapid vaccine development and roll-out, while lifesaving, can still yield large, avoidable harms when equity is not considered from the outset. Disparities in vaccine timing and coverage, especially in low-resource settings, amplified health and economic burdens, highlighting the need for preparedness frameworks that combine speed with fairness.<h4>Areas covered</h4>We synthesize evidence from literature and policy reports regarding global vaccine roll-out, focusing on avertable mortality under alternative sharing scenarios, procurement design, pooled ",
+    "date": "2026-09-16",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -736,6 +863,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42721118",
+    "title": "More than a moment: Evolving decisions among eligible volunteers in phase 1 COVID-19 vaccine trials",
+    "authors": "Halperin DM, Selig BM, Condran BRJ et al.",
+    "journal": "",
+    "published_date": "2026-09-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42721118/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42721118",
+    "summary": "Phase 1 vaccine trials rely on healthy participants who accept uncertainty with limited or no personal health benefit. Why people join and why they stay until trial completion is underexplored. Using a modified grounded theory approach, we examined decision making among eligible individuals who enrolled (trial participants (TPs), n = 32) and those that declined enrollment (non-participants (NPs), n = 5) across two phase 1 COVID-19 vaccine trials conducted during the pandemic (Nova Scotia, Canada; 2021-2023). Semi-structured qualitative interviews were carried out at enrollment or non-enrollmen",
+    "date": "2026-09-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -2347,6 +2500,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42424692",
+    "title": "Lymph node-targeted mRNA delivery of fine-tuned peptide-nanocomplexes for SARS-CoV-2 Vaccination",
+    "authors": "Jeong H, Yoon G, Lee DW et al.",
+    "journal": "",
+    "published_date": "2026-07-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42424692/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42424692",
+    "summary": "Messenger RNA (mRNA) vaccines require efficient delivery systems to reach antigen-presenting cells (APCs). Lipid nanoparticles (LNPs) are a standard delivery carrier. However, LNPs often accumulate in the liver and exhibit transient protein expression. These limitations can restrict their safety and immunogenic potential. Here, we developed a modular, peptide-based nanocomplex to overcome the current limitations. The system comprises three functional peptides: an RNA-binding peptide (RBP) for condensation, l-polyglutamic acid (PGA) for charge modulation, and an APC-targeting cell-penetrating p",
+    "date": "2026-07-07",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_4e9178aeef9f50fe",
     "title": "Major COVID-19 vaccination changes are coming - Australian Pharmacist",
     "authors": "Australian Pharmacist",
@@ -3658,6 +3837,31 @@
     "pharma": false
   },
   {
+    "id": "news_f24435e8fedec374",
+    "title": "Quebec to stop offering free COVID-19 vaccines to the general population - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-09-19",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTmo0bktxZDRNZEZXZjNLYkRoQWxncDNEc2dGbWt5RzlIaHJSMUVVNm95RFV0d1NJQkxuaHRrMGtrd3Q4YXlDNXd0NnEyZUlURGkxX3lDdFhicnRkdkszYU1GbE02d1FiN19hTzV5Z3lNaE5qaUxyaW42dFIwTG8?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Quebec to stop offering free COVID-19 vaccines to the general population &nbsp;&nbsp; CBC",
+    "date": "2025-09-19",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_64299515877ae26c",
     "title": "COVID-19 on the upswing as concerns about Alberta's vaccine coverage linger - CBC",
     "authors": "CBC",
@@ -3915,6 +4119,31 @@
     "source_type": "news",
     "summary": "How does Alberta's new COVID-19 vaccine policy compare to other provinces? We asked &nbsp;&nbsp; CBC",
     "date": "2025-06-30",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_5223bb78035ad665",
+    "title": "What charging for COVID-19 vaccines means for Albertans going forward - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-06-28",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZE5oV1ZkelhnVzAyS05qWks5UW56X205Yk51NW9RR3BDOHgtMlU0UG1vRTFjeW9pLUNEM01Ub2J6dHFBMl9fSndCa3hIaVRWZVYyT2drdVQ2YnRiYWRiYUt5LUhMYXdqQk5DRkQxTWZheVNzd0tfTHg2VUxrZ2NJQWlqTlNnSFcyUllYbFEweFhNWDJCYU9ITWI5Q1hUS1hLSXVKZFQ3WjV2RzB5MWJ6VjUtS1Q4T3JvNnRR?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "What charging for COVID-19 vaccines means for Albertans going forward &nbsp;&nbsp; CBC",
+    "date": "2025-06-28",
     "policy_area": [
       "general_covid"
     ],
