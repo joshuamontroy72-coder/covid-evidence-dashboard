@@ -1,5 +1,30 @@
 [
   {
+    "id": "news_76d168f2248daf32",
+    "title": "Do I have to pay for the Covid-19 vaccine when it becomes part of the national immunisation schedule? - The Straits Times",
+    "authors": "The Straits Times",
+    "journal": "The Straits Times",
+    "published_date": "2026-10-09",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZEQwMjd2X2IyZ0t3UjBaSEthRE9HN0dEakZoYVcxNG1tWXVOQVc3aENZRU5JTTBLbXZ6YjZjZDhHdHc2Vm96V3lfelVqWDY1WG50YjdULXhDUXM2Q2hXZzRtVk5lRHEyVU1WOUVEM1RKMlBBYUdUY2Z4dU1GVmNsWEJZd1hNUTF2NmVQOGpnU0E4eTlTZWtRY0FPSkFVSFlNdmM4V09vWmlaa0FZN2RoSHlTdUJSSk5rY2FJT2JNOE9oZG9kSTJSSFhkeU5HU1l4ZEdzSjUzMTU2dFk?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Do I have to pay for the Covid-19 vaccine when it becomes part of the national immunisation schedule? &nbsp;&nbsp; The Straits Times",
+    "date": "2026-10-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -258,13 +283,38 @@
     "url": "https://europepmc.org/article/PPR/PPR1334334",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "<h4>Introduction: </h4> Although the COVID-19 pandemic clearly showed the potential consequences of a world without vaccinations, vaccine hesitancy is likely to be more pronounced in the post-COVID-19 era. The introduction of human papillomavirus (HPV) vaccines in this context is likely to raise particular concerns. In Tunisia, decision-makers have prioritized the introduction of HPV vaccine into the immunization schedule. This study assessed individual barriers and facilitators to HPV vaccine acceptability in Tunisia, with the aim of guiding an effective communication strategy for HPV vaccina",
+    "summary": "<h4>Introduction</h4>  Although the COVID-19 pandemic clearly showed the potential consequences of a world without vaccinations, vaccine hesitancy is likely to be more pronounced in the post-COVID-19 era. The introduction of human papillomavirus (HPV) vaccines in this context is likely to raise particular concerns. In Tunisia, decision-makers have prioritized the introduction of HPV vaccine into the immunization schedule. This study assessed individual barriers and facilitators to HPV vaccine acceptability in Tunisia, with the aim of guiding an effective communication strategy for HPV vaccinat",
     "date": "2026-10-05",
     "policy_area": [
       "general_covid"
     ],
     "policy_area_labels": [
       "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1334288",
+    "title": "Mortality and vaccine-preventable deaths from severe acute respiratory infections in Brazil in 2026",
+    "authors": "Kupek E",
+    "journal": "medRxiv",
+    "published_date": "2026-10-05",
+    "url": "https://europepmc.org/article/PPR/PPR1334288",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  A large increase in mortality from severe acute respiratory infections (SARI) in Brazil in 2025 was mainly driven by influenza A and respiratory syncytial virus (RSV) among children and the aged, but 2026 data remain largely unpublished. Methods – Secondary data on SARI by age group (<2, 2-4, 5-14, 15-49, 50-64, 65+ years) and virus (Influenza A/B, RSV, SARS-CoV-2, adenovirus, rhinovirus, bocavirus, and metapneumovirus) were retrieved for 35 weeks of 2026. Weekly variations in infection rate (IR) and mortality rate (MR) were described by virus and age group. Case fatality ",
+    "date": "2026-10-05",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
     ],
     "pregnancy_related": false,
     "canadian": false,
@@ -1127,6 +1177,31 @@
     "pharma": false
   },
   {
+    "id": "news_9042e45a181c952e",
+    "title": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall - CNN",
+    "authors": "CNN",
+    "journal": "CNN",
+    "published_date": "2026-09-02",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWGl2azFuSm5kTGpDV0J3ckc2eVl2MUhYcjN6dHNaMVc3LTlpay1MSkpPM1BaWkdZblhQTjNibGxCTHBFWTdiN193SVNYR2NkLXZrOEVtc1lXVDBvUERXNE41UTV2V0dUa0RQSjMyaw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall &nbsp;&nbsp; CNN",
+    "date": "2026-09-02",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1309141",
     "title": "Leave no one behind: Global Analysis on monitoring childhood vaccination timeliness and catch-up using data from the WHO/UNICEF joint reporting form on Immunization",
     "authors": "Danovaro-Holliday MC, Castro-Aguirre I, Koh M et al.",
@@ -1847,6 +1922,31 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_98184429491e027e",
+    "title": "EO for routine childhood vaccines, Covid-19, fire, heat, and more - Your Local Epidemiologist",
+    "authors": "Your Local Epidemiologist",
+    "journal": "Your Local Epidemiologist",
+    "published_date": "2026-08-11",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTRHRVVwOC1tOHQwaFd0ZFgxZ01zYlB1MU4zTi1BM1BJZkpFWHpEeGphNkdhZ0JFdG9wc1JXVk5nLS1PbEhsQ1JWY3pQeFF4MlpZVk92SHJMNUhQc0R4OFBjakpZT2Zua1U0WURHcV9FYXdNREh6NzBaaGc3dTZibkZnY215QlE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "EO for routine childhood vaccines, Covid-19, fire, heat, and more &nbsp;&nbsp; Your Local Epidemiologist",
+    "date": "2026-08-11",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -3855,6 +3955,31 @@
     ],
     "pregnancy_related": false,
     "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_72ad05c98ccd5d16",
+    "title": "Wastewater shows high levels of COVID-19 as provinces prep for fall vaccine rollout - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-09-14",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QbURYbFZuQVcxNGtaM2gybVZVXzhkRmM0NlFFQXNHUUQ4UUFrV1JYdFNWQWpLU3ZPOTNYcmg0Zi01bUlIZC1YSlhyNVVIdEd1bmRLWThFeGNYUQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Wastewater shows high levels of COVID-19 as provinces prep for fall vaccine rollout &nbsp;&nbsp; CBC",
+    "date": "2025-09-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
