@@ -50,6 +50,106 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1338299",
+    "title": "Epidemiology and virological characteristics of the emerging SARS-CoV-2 variant PJ.2.1",
+    "authors": "Hoffmann M, Zhang L, Chen N et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-10-08",
+    "url": "https://europepmc.org/article/PPR/PPR1338299",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 continues to circulate globally at high levels and to evolve into new variants. Recently, a new saltation variant harbouring a highly mutated spike protein, PJ.2.1, emerged in North America. Here, we provide a brief epidemiological and virological characterization of PJ.2.1 and cocirculating variants. We report that PJ.2.1 is spreading in the USA, Canada, and Spain and mainly infects individuals aged 60 years and older, as do most other variants, with the exception of BA.3.2, which preferentially infects individuals aged 0-9 years. PJ.2.1 was less susceptible to inhibition by an ant",
+    "date": "2026-10-08",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1337290",
+    "title": "Demand Promotion Interventions to Improve COVID-19 Vaccine Uptake: A Systematic Review of the Global Evidence",
+    "authors": "Wonodi CB, Nabia S, Peprah EB et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-10-08",
+    "url": "https://europepmc.org/article/PPR/PPR1337290",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> /Objectives: The global rollout of COVID-19 vaccines faced significant implementation challenges: limited adult immunization infrastructure, particularly in low- and middle-income countries; rapidly shifting viral epidemiology driven by emerging variants; and widespread vaccine misinformation that fueled hesitancy. Achieving the high coverage necessary to curb transmission required urgent attention to demand-side barriers, making the identification of effective interventions a critical public health priority. This systematic review synthesized global evidence on communica",
+    "date": "2026-10-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_23a2b9a2f610743d",
+    "title": "Staying Up to Date with COVID-19 Vaccines - Centers for Disease Control and Prevention | CDC (.gov)",
+    "authors": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "journal": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "published_date": "2026-10-08",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yZ2kyYUh4TkNWT3c4MmtnU0pjcVUxYmpWa3hkeUhhSFdXQ045Y2FodU1MWVQyTTQySGFVSHRHWi1oQk9wekp5N3ZzTWVlaEdqNS1FV1N1Z2RIN0hIcE1RWkRtcVJ2dw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Staying Up to Date with COVID-19 Vaccines &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+    "date": "2026-10-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_9d3fdb87021392cb",
+    "title": "Province opens COVID-19, flu vaccine bookings ahead of respiratory illness season - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2026-10-08",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUowcUhGVkFPZHFxSFRuaVJzREQxc3BiMkRGdXdQbXR5X1J3bDFBUUZkZlM4MWd4SC1iQWhGeTloa1BuS3JOOXFQeXlGaFVRNENxRG1OLThjaGtUVDUwRmdkRUJGaWc2UWJDUVg2MlZmdGJ6ZjJGaDFaRTk3MjVJSFlMa1dVTUF2VXBmTVdxQ1FwMWF6ekF4UnZlOA?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Province opens COVID-19, flu vaccine bookings ahead of respiratory illness season &nbsp;&nbsp; CBC",
+    "date": "2026-10-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1335532",
     "title": "High-Yield Production and Antigenic Profiling of a Stabilized SARS-CoV-2 S2-Fc Fusion Protein Using GlycoSwitch Pichia pastoris",
     "authors": "Akrami M, Kolyani KA, Amini A",
@@ -258,7 +358,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1336240",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "SARS-CoV-2 antigenic evolution continues to challenge strain-matched vaccination. For the 2026-27 season, the European Medicines Agency (EMA) identified XFG as the preferred antigen within the JN.1 family and Comirnaty XFG was authorised in the European Union in July, 2026. We studied 22 participants who received 30 microg of mRNA encoding XFG (Comirnaty XFG, BioNTech/Pfizer, Mainz, Germany) in September, 2026 and had paired serum available before vaccination and median 14 days afterwards. Median Wuhan-Hu-1 S1-specific IgG increased from 1600 BAU/mL (IQR 1118-2926) to 2914 BAU/mL (2117-4468), ",
+    "summary": "SARS-CoV-2 antigenic evolution continues to challenge strain-matched vaccination. For the 2026–27 season, the European Medicines Agency (EMA) identified XFG as the preferred antigen within the JN.1 family and Comirnaty XFG was authorised in the European Union in July, 2026. We studied 22 participants who received 30 μg of mRNA encoding XFG (Comirnaty XFG, BioNTech–Pfizer, Mainz, Germany) in September, 2026 and had paired serum available before vaccination and median 14 days afterwards. Median Wuhan-Hu-1 S1-specific IgG increased from 1600 BAU/mL (IQR 1118–2926) to 2914 BAU/mL (2117–4468), a 1·",
     "date": "2026-10-06",
     "policy_area": [
       "strain_selection"
@@ -2290,6 +2390,31 @@
     "pharma": false
   },
   {
+    "id": "news_f7900848ce81192f",
+    "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - Gavi, the Vaccine Alliance",
+    "authors": "Gavi, the Vaccine Alliance",
+    "journal": "Gavi, the Vaccine Alliance",
+    "published_date": "2026-07-27",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUItbUJYcmFYQ2w5dTZwYWZrbUN3aW1wX3FTaFBlM1h4UFJJQkZ6MkhqRmJLZ3JRb3JfNnE4OVhZbk5oSnRFLWhqbGRIc2NJeHAyWVRENDNZYTY5S1Yzem1EbXNmR2VIWkcxa1MxY0QwbHd6RlBfWHN0cll3UFNxdnVkOFRXbjFsYy1lZkNHenZyaUo3YnNqTmYyYmpWUHA4b29hNHZtMXBoS3dGeEE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "date": "2026-07-27",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42504085",
     "title": "Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study",
     "authors": "Blake A, Humphreys J, Olson K et al.",
@@ -3905,6 +4030,31 @@
     ],
     "pregnancy_related": false,
     "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_4cd3f6555d797d50",
+    "title": "Prevention -Influenza and Covid-19: a new joint vaccination campaign this autumn - Service Public",
+    "authors": "Service Public",
+    "journal": "Service Public",
+    "published_date": "2025-10-01",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QbU8zaHV1aDlPaXJSZzQzS1gtTDZlcmJUTEFlaFlrS0M4WUlaMUJVcFBvUnBiVTQwbXdKRDlmRE42RFpWZXM3UjdOX3ZvODNPVFlQaUJMdmxjbENfc1JMQWJGWVN2NVVEZWpVM0xEWE8wUks0aF9wV3ZTaHZIZw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Prevention -Influenza and Covid-19: a new joint vaccination campaign this autumn &nbsp;&nbsp; Service Public",
+    "date": "2025-10-01",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
