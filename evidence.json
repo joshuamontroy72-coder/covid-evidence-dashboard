@@ -1,5 +1,82 @@
 [
   {
+    "id": "rss_e083b3a3e2996ecc",
+    "title": "National flu and COVID-19 surveillance report, week 46 report: data to week 45 (data up to 8 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-12",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-46-report-data-to-week-45-data-up-to-8-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-12",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_181bf74efca0390c",
+    "title": "National flu and COVID-19 surveillance report, week 42 report: data to week 41 (data up to 11 October 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-12",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-42-report-data-to-week-41-data-up-to-11-october-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-12",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1338552",
+    "title": "Immunosenescence shapes the inflammatory response to viral infection in vaccinated and unvaccinated patients",
+    "authors": "Kudlinski B, Kania J, Murkos M et al.",
+    "journal": "Research Square",
+    "published_date": "2026-10-11",
+    "url": "https://europepmc.org/article/PPR/PPR1338552",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  A key feature of immunosenescence is chronic low-grade inflammation, or inflammaging, which disrupts antigen-specific signaling and limits the magnitude, quality, and durability of vaccine-induced immunity. The study aimed to characterize the inflammatory response to viral infection through a comprehensive assessment of immune cells and cytokines in unvaccinated (NVP) and vaccinated patients (VP), and to investigate the impact of immunosenescence on vaccination effectiveness. The study included 79 patients aged 61.1 ± 16.7 years with newly diagnosed COVID-19 and 4",
+    "date": "2026-10-11",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_76d168f2248daf32",
     "title": "Do I have to pay for the Covid-19 vaccine when it becomes part of the national immunisation schedule? - The Straits Times",
     "authors": "The Straits Times",
@@ -527,6 +604,31 @@
     "pharma": false
   },
   {
+    "id": "news_fceb10a5ddfb294a",
+    "title": "New Jersey Health Department Issues Executive Directives to Ensure Access to Influenza, COVID-19, RSV, and Routine Childhood Vaccines - NJ.gov",
+    "authors": "NJ.gov",
+    "journal": "NJ.gov",
+    "published_date": "2026-09-29",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VVRaUl9xVDZ0S19iMVNfREdySHhFX182aDUxb3lTMHRjRUZEOWdyS19vdjdkZDg5cjlmeFVPRHB5NC05UUlnQlp2U1dDdllFVThoUDE2WU4tbllpMkhmRzZIZDFuNGMydDktcw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "New Jersey Health Department Issues Executive Directives to Ensure Access to Influenza, COVID-19, RSV, and Routine Childhood Vaccines &nbsp;&nbsp; NJ.gov",
+    "date": "2026-09-29",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42806698",
     "title": "Comorbidities increase the severity of COVID-19: an analysis and epidemiological study conducted in Algeria",
     "authors": "Akacha M, Khenchouche A, Amrane M et al.",
@@ -587,6 +689,31 @@
     "source": "Google News",
     "source_type": "news",
     "summary": "2026–27 Flu, COVID-19 and RSV Vaccine Recommendations &nbsp;&nbsp; Johns Hopkins Medicine",
+    "date": "2026-09-25",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_ff25d99eb9595f12",
+    "title": "Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall - MPR News",
+    "authors": "MPR News",
+    "journal": "MPR News",
+    "published_date": "2026-09-25",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTRJUElRbjRnVlo5Z1R0cGhFQU4yb1BlY0VOc3c2YWp0cVp0WmZUQktQc2c3d3BzOC1HX3lqNXExdXhsVTM2YnRyMFBpeTAtQS1qSVhOV1gyRG9CaWFaR0tiODRzQm56SFR5RHh3cEtJbC1DWHZkcVBMR2ZDVmUzSmlfSGUyVjJuVVNfWEs2MGZ4MTdHcXprMFdtMGh0QTZwdTNIR05nbVl6bXBpSzNRbWo4dGgzX2gyd0dlWV9NVQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall &nbsp;&nbsp; MPR News",
     "date": "2026-09-25",
     "policy_area": [
       "general_covid"
@@ -2945,7 +3072,7 @@
     "summary": "The main purposes of this research study are to measure the safety (whether it causes any side effects), tolerability (if it does cause any side effects, how well your body is able to handle them), and reactions, both local at the injection site and systemic, that may occur in the body after receiving VYD2311, or a COVID-19 vaccine, or a combination of VYD2311 and a COVID-19 vaccine in healthy participants. This research study will measure the amount of serum virus neutralizing antibodies produced in the blood (antibodies that block a virus from infecting cells) and pharmacokinetics of VYD2311",
     "extra": {
       "nct_id": "NCT07655180",
-      "status": "RECRUITING",
+      "status": "COMPLETED",
       "phase": "PHASE3"
     },
     "date": "2026-06-08",
@@ -3391,6 +3518,31 @@
     "pharma": false
   },
   {
+    "id": "news_4aadcb9f7abf4947",
+    "title": "Updated guidelines for Covid-19 shots - The Star",
+    "authors": "The Star",
+    "journal": "The Star",
+    "published_date": "2026-03-19",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlVDMWMyRjZ4MjJuT1BaVzU5bngtTkxXemw5UmxFdDFzN2FIUXlaeV9VaVRGVlFfekUxMEdyUEptc3JXZGFKNk0zLTRETUNVVjhCNXh0WkxIYmFtWlpMbWNuWWdEMkVfY0ZKbEdyZHdDVU5lOXVybHFrcXUxSHloMGNXdjQ2OUktM3owbUZjWVU?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Updated guidelines for Covid-19 shots &nbsp;&nbsp; The Star",
+    "date": "2026-03-19",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_41841365",
     "title": "Seroprevalence of diphtheria, tetanus, pertussis among healthcare workers (HCWs) - A cross-sectional study at the National Centre for Infectious Diseases and Tan Tock Seng Hospital, Singapore",
     "authors": "Lim DW, Au AJH, Chavatte JM et al.",
@@ -3459,6 +3611,31 @@
     "source_type": "news",
     "summary": "Community pharmacies delivered nearly half of COVID-19 vaccines during autumn 2025 campaign &nbsp;&nbsp; The Pharmaceutical Journal",
     "date": "2026-03-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_685aef6e1214211a",
+    "title": "COVID-19: Who should get the new vaccine and when - Vancouver Sun",
+    "authors": "Vancouver Sun",
+    "journal": "Vancouver Sun",
+    "published_date": "2026-02-18",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTW9lM0l5QjR2b2VMSTFxODBEZ1FkWl8xaV9leXI4czNCTXRmbVAzeTJ0VkFSYXN1RDFOTmNBX081RXdNWFgyY3JDYTF2N1dvcXpBbG1EeFNFaERQSmpwaXBsNDFULU5JMGlhdUxNdlpTakltSENkbFNJM3lZOFpCUkNwSmNCZFBSOG93U212VWR1VEtVcXQtRk5vRzBQNTVramJGV0k5bXJtMFpoeC1qdEtHVUs0R1p6RDYwZ2JQa2dFSEZ2VXFFanVR?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "COVID-19: Who should get the new vaccine and when &nbsp;&nbsp; Vancouver Sun",
+    "date": "2026-02-18",
     "policy_area": [
       "general_covid"
     ],
