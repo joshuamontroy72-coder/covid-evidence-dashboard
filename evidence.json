@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-15",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-15",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_e083b3a3e2996ecc",
     "title": "National flu and COVID-19 surveillance report, week 46 report: data to week 45 (data up to 8 November 2026)",
     "authors": "UKHSA",
@@ -102,27 +127,27 @@
     "pharma": false
   },
   {
-    "id": "rss_263cc63d9a5d64b5",
-    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-10-08",
-    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-10-08",
+    "id": "news_74fb91ef07395742",
+    "title": "Prevention -Influenza and Covid-19: a new joint vaccination campaign this autumn - Service Public",
+    "authors": "Service Public",
+    "journal": "Service Public",
+    "published_date": "2026-10-09",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUh6YW5VU3ZkRVNkbjhxRVNRQmhJazFUSEUyRTVUeVdRTWF0SGdCQXBJbVdRUUV1UVQwd0p1dVhqQVB2SUF4RWxNbERfbjFFOXl3Mk1Vc2ZfUmRfekotc3lGRzJpWTJrYTU3UllrUmotNDA4MnJfUkFyTXhST29ITUJ6ZlQzNUp4NWxoekVUU0NaZmpLWlVwYmRiQ24za3JJS3Rrb3gwRE9PX1VmVTF1STF5Yks4QWhRTHRwdW5xMF9uOW91MWliZlNzcFlYYmtKejQ3QmtFUmNWQmNCdmJPWUtoSXRxUQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Prevention -Influenza and Covid-19: a new joint vaccination campaign this autumn &nbsp;&nbsp; Service Public",
+    "date": "2026-10-09",
     "policy_area": [
-      "booster_frequency"
+      "general_covid"
     ],
     "policy_area_labels": [
-      "Booster frequency & intervals"
+      "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
     "canadian": false,
     "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -578,6 +603,38 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT07861542",
+    "title": "Study of a Recombinant Spike COVID-19 Vaccine With Matrix-M in Older Adults and People at Increased Risk of Severe COVID-19",
+    "authors": "Sanofi",
+    "journal": "ClinicalTrials.gov · PHASE4",
+    "published_date": "2026-10-01",
+    "url": "https://clinicaltrials.gov/study/NCT07861542",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The purpose of this study is to evaluate the safety and immunogenicity of a single dose of Sanofi's Omicron subvariant-based Nuvaxovid in participants ≥ 65 years of age and participants 12 through 64 years of age who have at least one underlying condition that puts them at increased risk for severe outcomes of COVID-19 and who have been previously vaccinated with a COVID-19 vaccine ≥ 90 days prior to study vaccination.\n\nStudy details include:\n\n* The study duration will be approximately 3 months per participant.\n* Study intervention will be administered via a single intramuscular (IM) injection",
+    "extra": {
+      "nct_id": "NCT07861542",
+      "status": "RECRUITING",
+      "phase": "PHASE4"
+    },
+    "date": "2026-10-01",
+    "policy_area": [
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42811742",
     "title": "Real-world evaluation of 2023-2024 XBB.1.5 mRNA and protein-based COVID-19 vaccine reactogenicity from the randomized BEEHIVE trial",
     "authors": "Yoon SK, Phillips AL, Zhao H et al.",
@@ -625,6 +682,36 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT07838038",
+    "title": "Effect of Messaging on Pragmatic Outcomes Within an Integrated Healthcare System",
+    "authors": "Kaiser Permanente",
+    "journal": "ClinicalTrials.gov · NA",
+    "published_date": "2026-09-29",
+    "url": "https://clinicaltrials.gov/study/NCT07838038",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "COVID-19 vaccination among patients at high risk for severe disease has declined in the United States since 2022. Prior research, including discrete choice experiments (DCEs), has demonstrated that vaccine preferences are influenced by attributes such as effectiveness, safety, convenience, and protection against severe disease. Although DCEs provide valuable insights into stated vaccine preferences and decision-making, they rely on hypothetical scenarios and cannot directly assess how vaccine attributes influence real-world vaccine uptake. Additional research is needed to understand the relati",
+    "extra": {
+      "nct_id": "NCT07838038",
+      "status": "RECRUITING",
+      "phase": "NA"
+    },
+    "date": "2026-09-29",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
     "reviewed": false,
     "pharma": false
   },
@@ -2168,6 +2255,31 @@
     ],
     "policy_area_labels": [
       "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_5cceaa678b4c7b19",
+    "title": "Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations - Nature",
+    "authors": "Nature",
+    "journal": "Nature",
+    "published_date": "2026-08-08",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvMzhpOEZBdFlGSzVIdWw0bzdmem1nQnJIZlJLQVhlRlJ1S3JZVzhrLVEyUktVdnUyUWlEUmxRMGpzdG1PXzJfTzRHR0MtTHkwLVdMaHdSZ3BISm1xNVN3?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations &nbsp;&nbsp; Nature",
+    "date": "2026-08-08",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
     ],
     "pregnancy_related": false,
     "canadian": false,
