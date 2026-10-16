@@ -25,6 +25,131 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1343257",
+    "title": "A mosaic RBD-nanoparticle pan-sarbecovirus vaccine elicits nanobodies that target highly conserved epitopes",
+    "authors": "Malecek KE, Keeffe JR, Fan C et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-10-15",
+    "url": "https://europepmc.org/article/PPR/PPR1343257",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2, the virus that causes COVID-19, continually mutates, producing new variants of concern (VOCs). Substitutions in the SARS-CoV-2 spike protein receptor-binding domain (RBD) have resulted in reduced efficacies of vaccines and therapeutic monoclonal antibodies. Indeed, since the emergence of Omicron and earlier VOCs, most previously approved anti-RBD therapeutic monoclonal antibodies are no longer authorized as therapeutics. To address VOC substitutions effects on therapeutic antibody efficacy, we sought to identify single-domain nanobodies (VHHs) targeting RBD regions (class 4, class ",
+    "date": "2026-10-15",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_fcaeb0332d671b62",
+    "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy - CIDRAP",
+    "authors": "CIDRAP",
+    "journal": "CIDRAP",
+    "published_date": "2026-10-15",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlJJNGhsei03SHFldUdGUERFUlN6ZDBRa1RYR3NzQ0pORW13X0FSOFVzcDZXU2dRa1hFWkVUeWdIZHhFS1FaNWZUYkQtOUZ4THZZWEVoLUhxNHpOYWlFUzJIaXEyQ1JqTXJVaHJyVDE0LURua0pvYjZNd0x6V2NFRUctODlWbkpfN2I3dXRaSFZxRXg1QnU1ZjFfU3pqY1NQSzdGaVlVWFRRc0xuSHk5YXo2dVVMQ293eVctZGpLRFAxSjQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy &nbsp;&nbsp; CIDRAP",
+    "date": "2026-10-15",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1342271",
+    "title": "Informing risk stratification and vaccine policy via a predictive mathematical model of SARS-COV-2 infection",
+    "authors": "Chain B, Callan C, Scobie D et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-14",
+    "url": "https://europepmc.org/article/PPR/PPR1342271",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 human challenge studies enabled unprecedented high frequency temporal measurements of immune determinants of viral control. We integrated prior knowledge of SARS-CoV-2 replication, innate, cytotoxic T cell and antibody responses into a dynamic model which captured viral-load kinetics in seronegative volunteers challenged with wildtype virus. The model predicted measured innate and adaptive immune dynamics. Perturbation analyses indicated that innate immunity limits peak viral load, whereas antibodies principally mediate clearance while cytotoxic T cells become critical in antibody d",
+    "date": "2026-10-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1342223",
+    "title": "Testing structural interpretations beyond goodness-of-fit in a phenomenological epidemic model: A reproducibility-oriented case study",
+    "authors": "Umeno Y",
+    "journal": "medRxiv",
+    "published_date": "2026-10-14",
+    "url": "https://europepmc.org/article/PPR/PPR1342223",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Simulation models are widely used to support counterfactual inference in settings where direct experimental validation is difficult or infeasible. However, for phenomenological models calibrated to observational time series, goodness-of-fit does not necessarily establish that the structural assumptions underlying such inferences are uniquely supported by the data. Here, we examine this issue using a published COVID-19 transmission model for Japan that incorporates empirical inputs including human mobility, variant prevalence, and vaccination and has been used to estimate the effects of alterna",
+    "date": "2026-10-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1342618",
+    "title": "The impact of COVID-19 vaccination on long COVID prevention in the Omicron era: An updated systematic review and meta-analysis",
+    "authors": "Marjenberg Z, Peluso MJ, Wynberg E et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-13",
+    "url": "https://europepmc.org/article/PPR/PPR1342618",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Objectives: </h4> To evaluate the impact of COVID-19 vaccination on the prevention of long COVID (LC) in the Omicron era through an updated systematic review and meta-analysis.  Methods We performed an update of our previously published systematic review and meta-analysis of vaccination and LC risk (searches between 1 January 2022 and 1 March 2024). Databases (Embase, MEDLINE, PubMed, Europe PMC, LILACS, Cochrane COVID-19 Study Register) were searched for studies published between 1 March 2024 and 13 July 2026. Observational studies assessing the impact of vaccination on the risk of LC fou",
+    "date": "2026-10-13",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_e083b3a3e2996ecc",
     "title": "National flu and COVID-19 surveillance report, week 46 report: data to week 45 (data up to 8 November 2026)",
     "authors": "UKHSA",
@@ -477,6 +602,58 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42836482",
+    "title": "Immune checkpoint inhibition enhances memory T-cell responses to CEF(T), SARS-CoV-2 spike proteins and ChAdOx1 nCoV-19",
+    "authors": "Grice S, Gardner J, Thomson P et al.",
+    "journal": "",
+    "published_date": "2026-10-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836482/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42836482",
+    "summary": "An extensive body of clinical and experimental evidence demonstrates that immune checkpoint blockade can invigorate recall immune responses. This phenomenon has previously been highlighted using <i>ex vivo</i> (healthy donor) and <i>in vivo</i> (immunotherapy patients) models of immune checkpoint inhibitor (ICI) administration that demonstrate an enhancement of the T-cell response to concomitant small-molecule drugs. However, the immunological and clinical impact of ICI therapy pre-ceding vaccination, where robust antigen-specific immunogenicity is essential, remains poorly defined. In this st",
+    "date": "2026-10-06",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42834877",
+    "title": "Predictors of COVID-19 vaccination status among youth in eThekwini, South Africa: results from the AYAZAZI RIGHTS study",
+    "authors": "Dietrich JJ, Pakhomova TE, Basham CA et al.",
+    "journal": "",
+    "published_date": "2026-10-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834877/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42834877",
+    "summary": "<h4>Background</h4>Understanding which factors impact vaccine uptake is important for supporting ongoing and future vaccine programmes among youth.<h4>Objective</h4>This study examined predictors of COVID-19 vaccination uptake among South African youth in the eThekwini District.<h4>Methods</h4>Cross-sectional data from an online survey (AYAZAZI RIGHTS: December 2021-May 2022) of youth aged 18-24 in the eThekwini district, South Africa, were analyzed using a gender-stratified logistic regression of vaccination status on candidate predictors of interest (k = 14). A full model with backwards sele",
+    "date": "2026-10-06",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1334334",
     "title": "Vaccine attitudes and perceptions in a post-COVID Era: what lessons can be learned in Tunisia?",
     "authors": "Ben Mansour N, Benzina BF, Fray S et al.",
@@ -528,7 +705,7 @@
   },
   {
     "id": "pubmed_42831065",
-    "title": "Prevalence of SARS-CoV2 in Communities Surrounding Bwindi-Mgahinga Mountain Gorilla Conservation Area, Uganda. ",
+    "title": "Prevalence of SARS-CoV2 in Communities Surrounding Bwindi-Mgahinga Mountain Gorilla Conservation Area, Uganda",
     "authors": "Kungu JM, Neumbe J, Kiganira DB et al.",
     "journal": "",
     "published_date": "2026-10-04",
@@ -536,7 +713,7 @@
     "source": "PubMed / Europe PMC",
     "source_type": "journal_article",
     "pmid": "42831065",
-    "summary": "Mountain gorillas are endangered primates that share approximately 99% of their DNA with humans. Consequently, they may be susceptible to infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV2), the virus that causes coronavirus disease 2019 (COVID-19). Understanding the burden of infection of human populations in the surroundings of these endangered species is critical to assess the potential risk of spillover. This study aimed to determine the prevalence of SARS-CoV2 and its associated risk factors in communities surrounding the Bwindi-Mgahinga Conservation Area in Uganda.",
+    "summary": "<h4>Background</h4>Mountain gorillas are endangered primates that share approximately 99% of their DNA with humans. Consequently, they may be susceptible to infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV2), the virus that causes coronavirus disease 2019 (COVID-19). Understanding the burden of infection of human populations in the surroundings of these endangered species is critical to assess the potential risk of spillover. This study aimed to determine the prevalence of SARS-CoV2 and its associated risk factors in communities surrounding the Bwindi-Mgahinga Conservat",
     "date": "2026-10-04",
     "policy_area": [
       "general_covid"
@@ -943,6 +1120,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42835682",
+    "title": "A vaccination model for COVID-19 with asymptomatic transmission, waning immunity, and outbreak calibration",
+    "authors": "Tan Y, Cai Y, Wang W",
+    "journal": "",
+    "published_date": "2026-09-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835682/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42835682",
+    "summary": "The COVID-19 pandemic has posed unprecedented challenges to global public health, revealing critical gaps in our understanding of transmission dynamics, particularly the roles of asymptomatic spread and waning immunity. To address these gaps, we develop a mathematical model of COVID-19 transmission that incorporates asymptomatic and symptomatic pathways, vaccination dynamics, and the waning of both vaccine-induced and naturally acquired immunity. The basic reproduction number R0 is derived and decomposed into three transmission pathways: direct asymptomatic transmission, direct symptomatic tra",
+    "date": "2026-09-21",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -1383,7 +1586,7 @@
   },
   {
     "id": "pubmed_42830752",
-    "title": "Trends in respiratory virus positivity across urban and rural hospitals in Ontario over three seasons. ",
+    "title": "Trends in respiratory virus positivity across urban and rural hospitals in Ontario over three seasons",
     "authors": "Deng R, Mendlowitz A, Katz K et al.",
     "journal": "",
     "published_date": "2026-09-04",
@@ -1391,7 +1594,7 @@
     "source": "PubMed / Europe PMC",
     "source_type": "journal_article",
     "pmid": "42830752",
-    "summary": "Respiratory viruses are a global health burden. While influenza has been a large focus of surveillance, non-influenza viruses remain understudied in Canada, leaving gaps in understanding their seasonal patterns and epidemiology. The coronavirus disease 2019 pandemic further disrupted typical virus seasonality, highlighting the urgent need for expanded surveillance to track evolving trends. A multicenter retrospective analysis of molecular testing data for 15 respiratory viruses was conducted on tests performed over three consecutive respiratory virus seasons. Hospital-level variability was ass",
+    "summary": "<h4>Objectives</h4>Respiratory viruses are a global health burden. While influenza has been a large focus of surveillance, non-influenza viruses remain understudied in Canada, leaving gaps in understanding their seasonal patterns and epidemiology. The coronavirus disease 2019 pandemic further disrupted typical virus seasonality, highlighting the urgent need for expanded surveillance to track evolving trends.<h4>Methods</h4>A multicenter retrospective analysis of molecular testing data for 15 respiratory viruses was conducted on tests performed over three consecutive respiratory virus seasons. ",
     "date": "2026-09-04",
     "policy_area": [
       "booster_frequency"
@@ -3933,6 +4136,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT07300839",
+    "title": "A Study to Learn About a COVID-19 Vaccine in Healthy Adults 50 Through 64 Years of Age",
+    "authors": "BioNTech SE",
+    "journal": "ClinicalTrials.gov · PHASE3",
+    "published_date": "2025-12-10",
+    "url": "https://clinicaltrials.gov/study/NCT07300839",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This study is designed to find out how well the COVID-19 vaccine protects people 50 to 64, who don't have any serious health problems, compared to a group that receives a vaccine that doesn't contain an ingredient to protect against COVID-19 (placebo).",
+    "extra": {
+      "nct_id": "NCT07300839",
+      "status": "COMPLETED",
+      "phase": "PHASE3"
+    },
+    "date": "2025-12-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT07266558",
     "title": "A Study to Evaluate the Efficacy and Safety of mRNA-1283 and mRNA-1273 in Participants 50 to 64 Years of Age Without High-Risk Conditions for Severe Coronavirus Disease 2019 (COVID-19)",
     "authors": "ModernaTX, Inc.",
@@ -6138,6 +6371,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT05311891",
+    "title": "Variants of SARS-CoV-2 Causing COVID-19 in Africa",
+    "authors": "ANRS, Emerging Infectious Diseases",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2022-09-30",
+    "url": "https://clinicaltrials.gov/study/NCT05311891",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The main objective of this research is to identify and characterize the different molecular variants of SARS-CoV-2, emerging and / or circulating in several countries of Sub-Saharan Africa (Burkina Faso, Côte d'Ivoire, Gabon, Mali, Chad and Republic of Congo) and determine their role in the evolution of the pandemic.",
+    "extra": {
+      "nct_id": "NCT05311891",
+      "status": "COMPLETED",
+      "phase": ""
+    },
+    "date": "2022-09-30",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT05543616",
     "title": "A Study to Learn About Variant-Adapted COVID-19 RNA Vaccine Candidate(s) in Healthy Children",
     "authors": "BioNTech SE",
@@ -6826,6 +7089,36 @@
       "phase": ""
     },
     "date": "2021-04-20",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT04824651",
+    "title": "Covid-19 Vaccine Cohort in Specific Populations",
+    "authors": "ANRS, Emerging Infectious Diseases",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2021-03-25",
+    "url": "https://clinicaltrials.gov/study/NCT04824651",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "Multicentre national cohort study with prospective data collection and biological specimen collection.\n\nAncillary study in this cohort : pediatric cohort with participants from 5 to 17 years old.\n\nEnrollment complete for adult cohort. Active recruting for ancillary pediatric cohort.",
+    "extra": {
+      "nct_id": "NCT04824651",
+      "status": "COMPLETED",
+      "phase": ""
+    },
+    "date": "2021-03-25",
     "policy_area": [
       "population_targeting"
     ],
