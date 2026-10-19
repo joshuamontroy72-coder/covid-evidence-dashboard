@@ -1,5 +1,130 @@
 [
   {
+    "id": "rss_6661563f16db199e",
+    "title": "COVID-19 vaccination: autumn programme resources",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-19",
+    "url": "https://www.gov.uk/government/publications/covid-19-vaccination-autumn-booster-resources",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "Information leaflet and sticker for the COVID-19 autumn vaccination programme.",
+    "date": "2026-10-19",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_22cf8f1a07828a55",
+    "title": "National flu and COVID-19 surveillance report, week 43 report: data to week 42 (data up to 18 October 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-19",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-43-report-data-to-week-42-data-up-to-18-october-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.…",
+    "date": "2026-10-19",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1344234",
+    "title": "The SARS-CoV-2 spike receptor-binding domain has evolved decreased inherent antigenicity in humans",
+    "authors": "Jacob-Dolan C, Boonyaratanakornkit JB, Bloom JD",
+    "journal": "bioRxiv",
+    "published_date": "2026-10-16",
+    "url": "https://europepmc.org/article/PPR/PPR1344234",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike's receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS- CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naive human B ",
+    "date": "2026-10-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1343677",
+    "title": "Germinal center dynamics in the mediastinal lymph node distinguish time-dependent and variant-specific immunity during SARS-CoV-2 secondary exposure",
+    "authors": "Kelvin A, Oludada O, Francis M et al.",
+    "journal": "Research Square",
+    "published_date": "2026-10-16",
+    "url": "https://europepmc.org/article/PPR/PPR1343677",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  SARS-CoV-2 secondary infections remain a persistent challenge even though individuals have previous immunity from natural infection or vaccination. Yet, the cellular mechanisms that determine whether a secondary exposure is rapidly controlled by pre-existing immunity and results in sterilizing protection or progresses to productive infection and disease remain poorly understood. Using homologous and heterologous secondary-challenge experimental strategies in C57BL/6J mice, we show that protection against a homologous SARS-CoV-2 Alpha secondary challenge in previou",
+    "date": "2026-10-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_562885d098da6737",
+    "title": "News Flash Archive - Public Flu and Pfizer COVID-19 Vaccination Clinic-Northfield - Rice County, MN (.gov)",
+    "authors": "Rice County, MN (.gov)",
+    "journal": "Rice County, MN (.gov)",
+    "published_date": "2026-10-16",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DazgyekswS0ZBNzJjbk1wSlB2TU45NHF5YzdUXzVkM0lEdWs1RGFNTElQYUxlR29aSERnWXZyTUVVbUpwdUlzNEpZTjRGNmhGb0hPNS1TTVBpaWpVeHVNbXVfdl9BeXo1NEFpZFl4ZVhwcGJ4VlE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "News Flash Archive - Public Flu and Pfizer COVID-19 Vaccination Clinic-Northfield &nbsp;&nbsp; Rice County, MN (.gov)",
+    "date": "2026-10-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -51,14 +176,14 @@
   },
   {
     "id": "news_fcaeb0332d671b62",
-    "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy - CIDRAP",
+    "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 vaccine guidance: The State of US Vaccine Policy - CIDRAP",
     "authors": "CIDRAP",
     "journal": "CIDRAP",
     "published_date": "2026-10-15",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlJJNGhsei03SHFldUdGUERFUlN6ZDBRa1RYR3NzQ0pORW13X0FSOFVzcDZXU2dRa1hFWkVUeWdIZHhFS1FaNWZUYkQtOUZ4THZZWEVoLUhxNHpOYWlFUzJIaXEyQ1JqTXJVaHJyVDE0LURua0pvYjZNd0x6V2NFRUctODlWbkpfN2I3dXRaSFZxRXg1QnU1ZjFfU3pqY1NQSzdGaVlVWFRRc0xuSHk5YXo2dVVMQ293eVctZGpLRFAxSjQ?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy &nbsp;&nbsp; CIDRAP",
+    "summary": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 vaccine guidance: The State of US Vaccine Policy &nbsp;&nbsp; CIDRAP",
     "date": "2026-10-15",
     "policy_area": [
       "general_covid"
@@ -133,7 +258,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1342618",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "<h4>Objectives: </h4> To evaluate the impact of COVID-19 vaccination on the prevention of long COVID (LC) in the Omicron era through an updated systematic review and meta-analysis.  Methods We performed an update of our previously published systematic review and meta-analysis of vaccination and LC risk (searches between 1 January 2022 and 1 March 2024). Databases (Embase, MEDLINE, PubMed, Europe PMC, LILACS, Cochrane COVID-19 Study Register) were searched for studies published between 1 March 2024 and 13 July 2026. Observational studies assessing the impact of vaccination on the risk of LC fou",
+    "summary": "<h4>Objectives</h4>  To evaluate the impact of COVID-19 vaccination on the prevention of long COVID (LC) in the Omicron era through an updated systematic review and meta-analysis. <h4>Methods</h4>  We performed an update of our previously published systematic review and meta-analysis of vaccination and LC risk (searches between 1 January 2022 and 1 March 2024). Databases (Embase, MEDLINE, PubMed, Europe PMC, LILACS, Cochrane COVID-19 Study Register) were searched for studies published between 1 March 2024 and 13 July 2026. Observational studies assessing the impact of vaccination on the risk o",
     "date": "2026-10-13",
     "policy_area": [
       "strain_selection"
@@ -6804,6 +6929,81 @@
     "pharma": false
   },
   {
+    "id": "rss_fedea4460744c718",
+    "title": "International organizations, vaccine manufacturers take stock of COVID-19 vaccine roll out, share views for 2022",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2021-11-10",
+    "url": "https://www.who.int/news/item/10-11-2021-international-organizations-vaccine-manufacturers-take-stock-of-covid-19-vaccine-roll-out-share-views-for-2022",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "The heads of the International Monetary Fund, World Bank Group, World Health Organization and World Trade Organization held on 9 November the 2nd High-Level Consultations with the CEOs of leading COVID-19 vaccine manufacturing companies. At the meeting, all participants agreed on the urgency of delivering more vaccine doses to low-income countries, where less than 2.5% of the population has been fully vaccinated.",
+    "date": "2021-11-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_20a3f25a9931df6b",
+    "title": "Health – A Political Choice: Solidarity, Science and Solutions",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2021-10-27",
+    "url": "https://www.who.int/news/item/27-10-2021-health-a-political-choice-solidarity-science-and-solutions",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "Ending the COVID-19 pandemic is among the world&rsquo;s most pressing priorities.   The challenges we have all faced since the beginning of the outbreak have put health centre stage, highlighting the urgent need to invest resources and effort in strengthening health systems, addressing health inequities, and embracing innovation to find solutions to old and new problems.   We will only find a way out of this crisis through science, finding solutions and by working together, in solidarity.   In this new book, key leading figures in international health and development have come together to shar",
+    "date": "2021-10-27",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_af29aaa50097190b",
+    "title": "Journalism in a pandemic: Covering COVID-19 vaccines -- What journalists need to know",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2021-10-26",
+    "url": "https://www.who.int/news/item/26-10-2021-journalism-in-a-pandemic-covering-covid-19-vaccines----what-journalists-need-to-know",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "On 29 March, the Knight Center for Journalism in the Americas at the University of Texas-Austin, in collaboration with the WHO,&nbsp; UNESCO &nbsp;and\n UNDP and with funding from the European Union, will launch its second massive open online course for journalists to improve their coverage of COVID-19 vaccines.&nbsp; The course, led by former CNN correspondent and WIRED journalist Maryn McKenna\n        is initially being offered in&nbsp;English, French, Portuguese, and Spanish. The course is free and available to journalists who are interested in acquiring new knowledge and resources to improv",
+    "date": "2021-10-26",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT05057182",
     "title": "Third Dose of mRNA Vaccination to Boost COVID-19 Immunity (mBoost Study)",
     "authors": "The University of Hong Kong",
@@ -7214,6 +7414,36 @@
     ],
     "policy_area_labels": [
       "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT04747522",
+    "title": "Severe Acute Respiratory Syndrome Corona Virus 2 (SARS-CoV-2) Immune Kidney Transplant Study (COVID-19)",
+    "authors": "Oslo University Hospital",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2021-01-22",
+    "url": "https://clinicaltrials.gov/study/NCT04747522",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "None of the vaccines approved, or in clinical trials, have so far been tested on transplanted patients. If they produce an immune response to the Spike protein of SARS-CoV-2 it is unknown how long the protective immunity will last.\n\nNot all immune responses are equal. The investigators will quantify immune cell subsets with flow and mass cytometry analyses to describe the phenotype of responding immune cells, including specific T cells. If not already established, patient human Leukocyte antigen (HLA) genotypes will be typed.\n\nIn order to compare the immune responses with healthy individuals a",
+    "extra": {
+      "nct_id": "NCT04747522",
+      "status": "COMPLETED",
+      "phase": ""
+    },
+    "date": "2021-01-22",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
     "canadian": false,
