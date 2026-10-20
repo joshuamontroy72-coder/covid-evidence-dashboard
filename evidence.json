@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_94529a5f99aee493",
+    "title": "National flu and COVID-19 surveillance report, week 47 report: data to week 46 (data up to 15 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-20",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-47-report-data-to-week-46-data-up-to-15-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-20",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_6661563f16db199e",
     "title": "COVID-19 vaccination: autumn programme resources",
     "authors": "UKHSA",
@@ -200,9 +225,35 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42878689",
+    "title": "Safety and immunogenicity of a first-generation modified vaccinia virus Ankara-vectored SARS-CoV-2 vaccine candidate with mRNA-based booster vaccination: A phase 1 trial",
+    "authors": "Fathi A, Dahlke C, Mayer L et al.",
+    "journal": "",
+    "published_date": "2026-10-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878689/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42878689",
+    "summary": "The rapid development of effective COVID-19 vaccines was enabled by the parallel assessment of multiple candidates early in the pandemic, including candidates based on the Modified Vaccinia virus Ankara (MVA) vector platform. This Phase 1 trial (NCT04569383) evaluated the MVA-based vaccine candidate MVA-SARS-2-S, expressing the full-length native SARS-CoV-2 spike glycoprotein (Wuhan-HU-1). Between October 2020 and May 2021, 30 healthy, SARS-CoV-2-naive adults received two doses of either 10<sup>7</sup> or 10<sup>8</sup> international units (IU) of MVA-SARS-2-S 28 days apart, with 6-month follo",
+    "date": "2026-10-15",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1342271",
     "title": "Informing risk stratification and vaccine policy via a predictive mathematical model of SARS-COV-2 infection",
-    "authors": "Chain B, Callan C, Scobie D et al.",
+    "authors": "Chain B, Callan CG, Scobie D et al.",
     "journal": "medRxiv",
     "published_date": "2026-10-14",
     "url": "https://europepmc.org/article/PPR/PPR1342271",
@@ -246,6 +297,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42875173",
+    "title": "SARS-CoV-2 nucleocapsid protein hijacks host transcription by targeting eEF1A1",
+    "authors": "Bidon B, Lai YL, Chao TL et al.",
+    "journal": "",
+    "published_date": "2026-10-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875173/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42875173",
+    "summary": "SARS-CoV-2 variants display substantial genetic and phenotypic diversity, yet the molecular mechanisms underlying their effects on host gene regulation need further investigation. We performed a transcriptomic analysis of host responses to multiple SARS-CoV-2 variants, including Delta and Omicron. Despite their divergence, all variants induced a conserved transcriptional program in human lung epithelial cells characterized by activation of interferon regulatory factors (IRFs), immediate-early genes, and downstream cytokines. We identify the viral nucleocapsid (N) protein as a central driver of",
+    "date": "2026-10-14",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -4813,12 +4890,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-05",
+    "published_date": "2025-09-06",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "policy_area": [
       "general_covid"
     ],
