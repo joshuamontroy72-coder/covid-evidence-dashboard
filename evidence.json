@@ -1,5 +1,80 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-22",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-22",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_9e2b08bebac8c2e1",
+    "title": "Pre-release access lists: National flu and COVID-19 surveillance reports",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-22",
+    "url": "https://www.gov.uk/government/publications/pre-release-access-lists-national-flu-and-covid-19-surveillance-reports",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "…Lists of those receiving pre-release access to UK Health Security Agency &#x27;National flu and COVID-19 surveillance&#x27; reports.…",
+    "date": "2026-10-22",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1347331",
+    "title": "SARS-CoV-2 infection detection efficiency in Denmark before major vaccine impacts",
+    "authors": "Westfall MN, Høiby N, Rasmussen S et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-21",
+    "url": "https://europepmc.org/article/PPR/PPR1347331",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "To deal with the COVID-19 pandemic, Denmark implemented an aggressive program aimed at controlling the pandemic which included both testing and contact tracing programs. The large amount of data collected in Denmark on the pandemic and its integrated nature made it possible to investigate the effectiveness of the testing and contact tracing effort. The results of that investigation and a discussion of the effectiveness and limitations of the different control efforts are reported herein, as are lessons learned concerning possible improvements for the future. The analysis is limited to the peri",
+    "date": "2026-10-21",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_94529a5f99aee493",
     "title": "National flu and COVID-19 surveillance report, week 47 report: data to week 46 (data up to 15 November 2026)",
     "authors": "UKHSA",
@@ -83,7 +158,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1344234",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike's receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS- CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naive human B ",
+    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike’s receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS-CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naïve human B c",
     "date": "2026-10-16",
     "policy_area": [
       "general_covid"
@@ -146,31 +221,6 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "id": "rss_263cc63d9a5d64b5",
-    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-10-15",
-    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-10-15",
-    "policy_area": [
-      "booster_frequency"
-    ],
-    "policy_area_labels": [
-      "Booster frequency & intervals"
-    ],
-    "pregnancy_related": false,
-    "canadian": false,
-    "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
     "reviewed": false,
     "pharma": false
   },
@@ -1014,6 +1064,31 @@
     "pharma": false
   },
   {
+    "id": "news_c98e5c4304491138",
+    "title": "2026–2027 COVID-19 Vaccine for People With Cancer & Others With Weakened Immune Systems - Memorial Sloan Kettering Cancer Center",
+    "authors": "Memorial Sloan Kettering Cancer Center",
+    "journal": "Memorial Sloan Kettering Cancer Center",
+    "published_date": "2026-10-01",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNm5ZelJXNmJpbUhySG83V2dCRDllUzZuU21vc0hEbUFjc28tei04MlB1eEk3b0N2YzNOZjV4NFJ5TDdvLUZMWG5wU1BiN3BwTmlFd1c1cGUtX3hWck9VTWFPNnVjTGlBaDQ0d0ZKRTljcXc0dy1iQktwNGptY0VIc1luNW1GbXJUSGhWNWNzTmhvU3VMS0JHdURlLUFuSnU3ZFpkNg?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "2026–2027 COVID-19 Vaccine for People With Cancer & Others With Weakened Immune Systems &nbsp;&nbsp; Memorial Sloan Kettering Cancer Center",
+    "date": "2026-10-01",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42811742",
     "title": "Real-world evaluation of 2023-2024 XBB.1.5 mRNA and protein-based COVID-19 vaccine reactogenicity from the randomized BEEHIVE trial",
     "authors": "Yoon SK, Phillips AL, Zhao H et al.",
@@ -1687,6 +1762,56 @@
     "pharma": false
   },
   {
+    "id": "news_5285dc345112d775",
+    "title": "Major evidence review confirms influenza, COVID-19 and RSV vaccines are safe and effective - Gavi, the Vaccine Alliance",
+    "authors": "Gavi, the Vaccine Alliance",
+    "journal": "Gavi, the Vaccine Alliance",
+    "published_date": "2026-09-09",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFM4WFgxRUUtcDRnWVNHUnNnRnpOX2stQ1NCNGdYdFBILVROb2xaVkxVOG4za2UxejhRc0dZMVVFbWhBMnpza0x1bXNGWkpzamRpSFVxWldRbUxhbVRBRnVGNk91Qm1qdXhSV3phWmhDQUpqV0g0eWNGWWNNbUktWTBqdURGTWp3eTU3a3U0MmxQYmk3OXZiZmVlN2o5MUVmOXhUUkFUbEFyYzctTU9xeGRaUQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Major evidence review confirms influenza, COVID-19 and RSV vaccines are safe and effective &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "date": "2026-09-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_c0b02814a75fa44b",
+    "title": "Who’s eligible for the 2026 COVID-19 vaccine, or ‘Autumn Booster’? - GOV.UK blogs",
+    "authors": "GOV.UK blogs",
+    "journal": "GOV.UK blogs",
+    "published_date": "2026-09-09",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWE5TDhfTXljbjRobjFrdDROSEFUNmtGU1F2ZTBUMEdIczN0SUQtVUw4eWpKb00wYURkNHo1TWJBdERHalNYS29FVzVsSmtiRVZSaThwc0MzQ0lWbFNyZkRpa3lzRjM0bkhkUzRfUEZsZWU0ZWVROHQ0WHY0c0dmYUNhdVBNYW9YcG5UUEczLTR0d0lmck9id0VwSXA5eElB?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Who’s eligible for the 2026 COVID-19 vaccine, or ‘Autumn Booster’? &nbsp;&nbsp; GOV.UK blogs",
+    "date": "2026-09-09",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1315977",
     "title": "The COVID-19 Trajectory in Israel: A Comprehensive Analysis of National Surveillance Data on Documented Infections, Test Positivity, and Vaccine-Effectiveness Estimates",
     "authors": "Ophir Y",
@@ -1837,6 +1962,31 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_3384adbf04cd2966",
+    "title": "AAP Updates RSV, COVID-19 Vaccine Recommendations - Respiratory Therapy",
+    "authors": "Respiratory Therapy",
+    "journal": "Respiratory Therapy",
+    "published_date": "2026-09-03",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT3hraXRySEJBZzVBcWdFTmRpcGRBTnowTnVwLWdKUHRBQ01HaHdEZUJMdF9wNmN4S09uQm1PYmZsclZkQk15SFczTlcyaWcteWNTTXNnYVVRX0ZWdVhsRUFTal9XcHlfenFoRnMyVmIwUFZISDdXNjFlVlVsQldvWnQ2YmVZVFlEQ2JnbmhDSHZsb2pBNXZHSm9LNV9zSFNjOHJEdlRuSDQtUTcteGl4bWw3d1g5NkV4c291anVISWZzdw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "AAP Updates RSV, COVID-19 Vaccine Recommendations &nbsp;&nbsp; Respiratory Therapy",
+    "date": "2026-09-03",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -4736,6 +4886,31 @@
     "pharma": false
   },
   {
+    "id": "news_b2571452fd7cdd07",
+    "title": "Influenza, COVID-19 Vaccine Appointments Available to Book - Government of Nova Scotia",
+    "authors": "Government of Nova Scotia",
+    "journal": "Government of Nova Scotia",
+    "published_date": "2025-10-09",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3diV3QtWjZSNGtSUlg4NDZfNHpSTjJ4TjRjMF9GSWEtbnNmVE8zWGhwejRkc1FmaTRDSm9WREdXQVNBSk9keTVSR1JMZXR5LVVWVFZaZDNuSDZINlpObWMtQ3hZNlp5MV9MN0NlajNvMmZudzQ1Zm9NVVBMdE9OYUtpb3puLVNxMmI5Slo1S0RKV2tSZGQ3UkhpUQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Influenza, COVID-19 Vaccine Appointments Available to Book &nbsp;&nbsp; Government of Nova Scotia",
+    "date": "2025-10-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_75a22e03cc6d55dc",
     "title": "Quebec launches fall vaccination campaign: COVID-19 shots no longer free for all - CityNews Montreal",
     "authors": "CityNews Montreal",
@@ -4890,12 +5065,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-06",
+    "published_date": "2025-09-05",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-06",
+    "date": "2025-09-05",
     "policy_area": [
       "general_covid"
     ],
@@ -5208,6 +5383,31 @@
     "pharma": false
   },
   {
+    "id": "news_eefb389c9a53ed30",
+    "title": "Manitoba rolling out COVID-19 spring vaccination campaign for high-risk groups - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-04-16",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKalpnUC1heDd4N3VfQ3JZOGZtZ29BZmlZeGpvTGxiM1p3VS04bFBmSnJaUTVKZmxfU2ZEUU4wNUJUcUJ2SWxBZ2dtSTloRWVqNVpueURjRWt5N3VMY3NtcFFsUWVlS3dqSmxDZlFYSnJKMmtoeEZ1cFhmMGx0RkE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Manitoba rolling out COVID-19 spring vaccination campaign for high-risk groups &nbsp;&nbsp; CBC",
+    "date": "2025-04-16",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_72c08d6c241384dc",
     "title": "Uptake of COVID-19 booster shots has plummeted. Here's why scientists are concerned - CTV News",
     "authors": "CTV News",
@@ -5386,14 +5586,14 @@
   },
   {
     "id": "news_e05137445f7d245e",
-    "title": "Vaccination for COVID-19 FAQ - Red Cross",
-    "authors": "Red Cross",
-    "journal": "Red Cross",
+    "title": "Vaccination for COVID-19 FAQ - Canadian Red Cross",
+    "authors": "Canadian Red Cross",
+    "journal": "Canadian Red Cross",
     "published_date": "2024-11-22",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORUxZWm9MVmdaZlJfWTJrbFF3dzVJX1dxd21oLXZGNjRfdjZNaW9UOU14Q09VclBkUlFFUTloY1c5UkFpclFJcmNaSVNxd2thVm9GTEFwWFNhYVljOXBCVkxuN2JyaXhRc3o3SUFSazAzczBfNEJXWW9vUnA4YkhFZ09IdHdYMWd3ZmNBWUVBX0xKLXVUU29neVB2U1V3aWJ1OFRKWlhSOS10VlBCR2phaHJtVlJtLVpubGtMRThtRGZseVpZejg3REFiNVFOeEtzTExWS21LeDNEUEhwejVFaUhQWnozdV96aEtUVDdjVzVrTU5uMWNCa21MMXRrdEU0VkVxWmtxcU8?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "Vaccination for COVID-19 FAQ &nbsp;&nbsp; Red Cross",
+    "summary": "Vaccination for COVID-19 FAQ &nbsp;&nbsp; Canadian Red Cross",
     "date": "2024-11-22",
     "policy_area": [
       "general_covid"
@@ -5402,7 +5602,7 @@
       "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
-    "canadian": false,
+    "canadian": true,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
@@ -6086,6 +6286,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_2207264f2529b163",
+    "title": "COVID-19 Vaccine: Guidelines, Schedule & Efficacy - Cleveland Clinic",
+    "authors": "Cleveland Clinic",
+    "journal": "Cleveland Clinic",
+    "published_date": "2023-10-23",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45clN5VEVDM3BKZm1JX3Z3SGRVUmJtRUtWOTYtRVZLYkQ2TGt1YzRpSnVxMzNJSURweG9lRkZuUnJYd0ZQbE5WVUZCY0JQYm1lLTlXc0g0dV9kLTFPUi13WlI4NUJyWERidFFCVlFCcw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "COVID-19 Vaccine: Guidelines, Schedule & Efficacy &nbsp;&nbsp; Cleveland Clinic",
+    "date": "2023-10-23",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -7587,6 +7812,81 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_5c1d49eaedac582c",
+    "title": "Global partnership to make available 120 million affordable, quality COVID-19 rapid tests for low- and middle-income countries",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-09-28",
+    "url": "https://www.who.int/news/item/28-09-2020-global-partnership-to-make-available-120-million-affordable-quality-covid-19-rapid-tests-for-low--and-middle-income-countries",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "A full access package includes WHO policy guidance on the use of antigen-based rapid diagnostic tests, manufacturer volume guarantees for low and middle-income countries,&nbsp; catalytic funding to assist governments to deploy the tests and an initial US$50 million procurement fund    Several rapid, point-of-care antigen tests are being assessed by WHO for Emergency Use Listing (EUL)    Agreements between the Bill &amp; Melinda Gates Foundation and test manufacturers Abbott and SD Biosensor make available innovative tests priced at a maximum of US$5 for low- and middle-income countries (LMICs)",
+    "date": "2020-09-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_907babd3818a90db",
+    "title": "COVID-19 could reverse decades of progress toward eliminating preventable child deaths, agencies warn",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-09-09",
+    "url": "https://www.who.int/news/item/09-09-2020-covid-19-could-reverse-decades-of-progress-toward-eliminating-preventable-child-deaths-agencies-warn",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "With the number of under-five deaths at an all-time recorded low of 5.2 million in 2019, disruptions in child and maternal health services due to the COVID-19 pandemic are putting millions of additional lives at stake      The number of global under-five deaths dropped to its lowest point on record in 2019 &ndash; down to 5.2 million from 12.5 million in 1990,  according to new mortality estimates  released by UNICEF, the World Health Organization (WHO), the Population Division of the United Nations Department of Economic and Social Affairs and the World Bank Group.   Since then, however, surv",
+    "date": "2020-09-09",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": true,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_4d2e4ca9f5446ebb",
+    "title": "172 countries and multiple candidate vaccines engaged in COVID-19 vaccine Global Access Facility",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-08-24",
+    "url": "https://www.who.int/news/item/24-08-2020-172-countries-and-multiple-candidate-vaccines-engaged-in-covid-19-vaccine-global-access-facility",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "Nine CEPI-supported candidate vaccines are part of the COVAX initiative, with a further nine candidates under evaluation, and procurement conversations on-going with additional producers not currently receiving research and development (R&amp;D) funding through COVAX &ndash; giving COVAX the largest and most diverse COVID-19 vaccine portfolio in the world     80 potentially self-financing countries have submitted non-binding expressions of interest to the Gavi-coordinated COVAX Facility, joining 92 low- and middle-income economies that are eligible to be supported by the COVAX Advance Market C",
+    "date": "2020-08-24",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
     "reviewed": false,
     "pharma": false
   },
