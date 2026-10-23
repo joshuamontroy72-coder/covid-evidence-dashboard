@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_c530afaf09dff7e5",
+    "title": "ObLong: study of asymptomatic COVID-19 testing in acute NHS hospitals",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-23",
+    "url": "https://www.gov.uk/government/publications/oblong-study-of-asymptomatic-covid-19-testing-in-acute-nhs-hospitals",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "Observational longitudinal (ObLong) study to determine impact of asymptomatic COVID-19 testing on NHS acute trusts in 2022 and challenges to implementing policy",
+    "date": "2026-10-23",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -50,6 +75,58 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1347795",
+    "title": "Immunogenicity of Heterologous SARS-CoV-2 PHH-1V Protein Booster vaccination in People with Immunocompromising Conditions",
+    "authors": "Mothe B, Benet S, Trinité B et al.",
+    "journal": "Research Square",
+    "published_date": "2026-10-22",
+    "url": "https://europepmc.org/article/PPR/PPR1347795",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Individuals with immunocompromising conditions face an increased risk of severe COVID-19 and often respond poorly to vaccination. HIPRA-HH-4 was a phase IIb/III, single-arm trial evaluating immunogenicity and safety of a PHH-1V booster, a protein-based adjuvanted SARS-CoV-2 vaccine, in 238 immunocompromised adults after mRNA SARS-CoV-2 vaccination. Recruited May-July 2022, participants included people living with HIV and < 400 CD4+ T cells (PWH, n = 61), post-kidney transplantation (n = 37), chronic haemodialysis (HD, n = 59), primary antibody deficiency (PAD, n = 2",
+    "date": "2026-10-22",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1347469",
+    "title": "Did the emergence of the Omicron variant impact the COVID-19 vaccine sentiments in the Arab world? A Twitter-based comparative analysis",
+    "authors": "Dimashkieh Chehab N",
+    "journal": "Wellcome Open Res",
+    "published_date": "2026-10-22",
+    "url": "https://europepmc.org/article/PPR/PPR1347469",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Vaccine hesitancy constitutes a major obstacle for achieving herd immunity against coronavirus disease 2019 (COVID-19). Research has shown high vaccine hesitancy rates and low compliance among Arabic-speaking populations in the 2021–2022 period. The aim of this study was to analyze sentiments related to COVID-19 vaccines before and after the emergence of the COVID-19 Omicron variant in the Arab-speaking world. Methods Tweets were collected before and after the Omicron emergence period in the Arab-speaking world using Python-enabled CAMeL Tools (Arabic Natural Language Pro",
+    "date": "2026-10-22",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1347331",
     "title": "SARS-CoV-2 infection detection efficiency in Denmark before major vaccine impacts",
     "authors": "Westfall MN, Høiby N, Rasmussen S et al.",
@@ -71,6 +148,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42904667",
+    "title": "Evaluating a multi-vaccine respiratory immunization strategy involving SARS-CoV-2, pneumococcal, and influenza vaccines in adults: A randomized, open-label, multicenter, controlled, non-inferiority Phase IV trial in China. ",
+    "authors": "Shi X, Han S, Wu C et al.",
+    "journal": "",
+    "published_date": "2026-10-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42904667/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42904667",
+    "summary": "Co-administration of vaccines targeting multiple respiratory pathogens may enhance coverage and streamline adult immunization programs. We conducted a randomized, multicentre, open-label Phase IV trial registered at Chinese Clinical Trial Registry (ChiCTR2100046227) in China to evaluate the immunogenicity and safety of co-administering an inactivated SARS-CoV-2 vaccine (WIBP-CorV) with the 23-valent pneumococcal polysaccharide vaccine (PPV23) and a quadrivalent inactivated influenza vaccine (IIV4). A total of 1,404 adults aged ≥ 18 year, including equal numbers of adults aged 18-59 year and ≥6",
+    "date": "2026-10-21",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -1987,6 +2090,33 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1311435",
+    "title": "Reducing immunization inequities among zero-dose and under-vaccinated children through catch-up vaccination in Burkina Faso: findings from a mixed-method evaluation of the Big Catch-Up initiative, 2023–2025",
+    "authors": "ZONGO A, DIALLO H, DADJO CH et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-03",
+    "url": "https://europepmc.org/article/PPR/PPR1311435",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  <bold>Background</bold>  The COVID-19 pandemic and persistent insecurity have exacerbated inequalities in access to immunization in Burkina Faso, leading to an increase in the number of zero-dose and under-vaccinated children, particularly in hard-to-reach areas. In response, the country launched the Big Catch-Up initiative (2023–2025) to catch up children aged 12–59 months, restore immunization coverage, and strengthen routine immunization services. Six vaccines were used: measles-rubella (MR), yellow fever, bivalent oral poliovirus vaccine (bOPV), meningococcal ",
+    "date": "2026-09-03",
+    "policy_area": [
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
