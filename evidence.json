@@ -127,6 +127,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42910459",
+    "title": "Exploring booster vaccine hesitancy: evidence from the COVID-19 in Hong Kong. ",
+    "authors": "Jin J, Lai DWL, Yan E",
+    "journal": "",
+    "published_date": "2026-10-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910459/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42910459",
+    "summary": "The COVID-19 pandemic showed that effective pandemic prevention may require repeated vaccination. However, booster uptake can be influenced by psychosocial factors, particularly during a prolonged public health crisis. This study examined factors associated with adults' willingness to receive an additional COVID-19 vaccine dose in Hong Kong. Data were drawn from the fourth-wave follow-up survey of a longitudinal study and analyzed cross-sectionally using multinomial logistic regression. A total of 689 participants were analyzed: 401 (58.2%) were willing to receive an additional dose, 130 (18.9",
+    "date": "2026-10-22",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1347331",
     "title": "SARS-CoV-2 infection detection efficiency in Denmark before major vaccine impacts",
     "authors": "Westfall MN, Høiby N, Rasmussen S et al.",
@@ -153,7 +179,7 @@
   },
   {
     "id": "pubmed_42904667",
-    "title": "Evaluating a multi-vaccine respiratory immunization strategy involving SARS-CoV-2, pneumococcal, and influenza vaccines in adults: A randomized, open-label, multicenter, controlled, non-inferiority Phase IV trial in China. ",
+    "title": "Evaluating a multi-vaccine respiratory immunization strategy involving SARS-CoV-2, pneumococcal, and influenza vaccines in adults: A randomized, open-label, multicenter, controlled, non-inferiority Phase IV trial in China",
     "authors": "Shi X, Han S, Wu C et al.",
     "journal": "",
     "published_date": "2026-10-21",
@@ -3807,6 +3833,31 @@
     "pharma": false
   },
   {
+    "id": "news_95e1fffb0985503e",
+    "title": "Annual COVID-19 boosters continue to provide meaningful protection, study says - Gavi, the Vaccine Alliance",
+    "authors": "Gavi, the Vaccine Alliance",
+    "journal": "Gavi, the Vaccine Alliance",
+    "published_date": "2026-06-23",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnNSc21xMzNmb0Y4UVJIMWZFanU1Y0k4VkU2THN1dk05Tl9MOWhyNkxvUElYZzFsN1ZHdGR3RU9hZ1lkbmFZNFg2b1E4Ni1yQzZ4WE01UXV4cm1XcF91YjE1clFLWmptZmxDZzc0Y2JWaVdiUndjNC02MUJIRGRNaEJIcWtfdmVXUXdzZ3dIbFQwbFpsblBRZkVuZ2tfdUh0cXZVelNWeFJiclRI?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Annual COVID-19 boosters continue to provide meaningful protection, study says &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "date": "2026-06-23",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42324717",
     "title": "Deep mutational scanning reveals the antibody escape and infectivity landscape of SARS-CoV-2 Omicron JN.1 and XEC receptor-binding domains",
     "authors": "Shao C, Yang L, Xiao C et al.",
@@ -5716,14 +5767,14 @@
   },
   {
     "id": "news_e05137445f7d245e",
-    "title": "Vaccination for COVID-19 FAQ - Canadian Red Cross",
-    "authors": "Canadian Red Cross",
-    "journal": "Canadian Red Cross",
+    "title": "Vaccination for COVID-19 FAQ - Red Cross",
+    "authors": "Red Cross",
+    "journal": "Red Cross",
     "published_date": "2024-11-22",
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORUxZWm9MVmdaZlJfWTJrbFF3dzVJX1dxd21oLXZGNjRfdjZNaW9UOU14Q09VclBkUlFFUTloY1c5UkFpclFJcmNaSVNxd2thVm9GTEFwWFNhYVljOXBCVkxuN2JyaXhRc3o3SUFSazAzczBfNEJXWW9vUnA4YkhFZ09IdHdYMWd3ZmNBWUVBX0xKLXVUU29neVB2U1V3aWJ1OFRKWlhSOS10VlBCR2phaHJtVlJtLVpubGtMRThtRGZseVpZejg3REFiNVFOeEtzTExWS21LeDNEUEhwejVFaUhQWnozdV96aEtUVDdjVzVrTU5uMWNCa21MMXRrdEU0VkVxWmtxcU8?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "Vaccination for COVID-19 FAQ &nbsp;&nbsp; Canadian Red Cross",
+    "summary": "Vaccination for COVID-19 FAQ &nbsp;&nbsp; Red Cross",
     "date": "2024-11-22",
     "policy_area": [
       "general_covid"
@@ -5732,7 +5783,7 @@
       "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
-    "canadian": true,
+    "canadian": false,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
