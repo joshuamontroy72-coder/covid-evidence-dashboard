@@ -1,0 +1,77 @@
+{
+  "updated_at": "2026-10-06T19:06:33.061837+00:00",
+  "total": 14,
+  "channels": [
+    {
+      "id": "journals",
+      "label": "Journals (PubMed / Europe PMC)",
+      "icon": "📄",
+      "count": 6
+    },
+    {
+      "id": "preprints",
+      "label": "Preprints (medRxiv / bioRxiv)",
+      "icon": "📋",
+      "count": 0
+    },
+    {
+      "id": "trials",
+      "label": "ClinicalTrials.gov",
+      "icon": "🔬",
+      "count": 0
+    },
+    {
+      "id": "who_sage",
+      "label": "WHO / SAGE guidance",
+      "icon": "🌐",
+      "count": 3
+    },
+    {
+      "id": "nitag",
+      "label": "National NITAG guidance",
+      "icon": "🏛",
+      "count": 4
+    },
+    {
+      "id": "surveillance",
+      "label": "Surveillance & outbreak reports",
+      "icon": "📊",
+      "count": 1
+    },
+    {
+      "id": "news",
+      "label": "News",
+      "icon": "📰",
+      "count": 0
+    },
+    {
+      "id": "press",
+      "label": "Press releases",
+      "icon": "📣",
+      "count": 0
+    }
+  ],
+  "policy_areas": [
+    {
+      "id": "booster_frequency",
+      "label": "Booster frequency & intervals",
+      "count": 8
+    },
+    {
+      "id": "population_targeting",
+      "label": "Population targeting",
+      "count": 6
+    },
+    {
+      "id": "strain_selection",
+      "label": "Vaccine strain selection",
+      "count": 6
+    },
+    {
+      "id": "general_covid",
+      "label": "General COVID-19 vaccines",
+      "count": 2
+    }
+  ],
+  "fetcher_log": []
+}

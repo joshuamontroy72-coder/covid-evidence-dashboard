@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>COVID-19 Vaccine Evidence Watch — PHAC / NACI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <div class="brand">
+      <span class="glyph" aria-hidden="true">🔵</span>
+      <span>COVID-19 Vaccine Evidence Watch
+        <small>PHAC / NACI Working Group Technical Monitor</small>
+      </span>
+    </div>
+    <div class="spacer"></div>
+    <div class="updated" id="updated-stamp"></div>
+    <button class="icon-btn" id="theme-toggle" title="Toggle light / dark" aria-label="Toggle theme">
+      ☀️
+    </button>
+  </div>
+</header>
+
+<!-- ===== MAIN ===== -->
+<main class="wrap">
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1>COVID-19 vaccine policy evidence</h1>
+    <p class="lede">Daily-updated surveillance of the evidence base for active NACI working group questions — <strong>booster frequency &amp; intervals</strong>, <strong>population targeting</strong>, and <strong>vaccine strain selection</strong>. Prioritises NITAG guidance updates from NACI, WHO SAGE, CDC ACIP, ECDC, JCVI, and ATAGI, alongside peer-reviewed literature, preprints, clinical trials, and surveillance reports.</p>
+  </section>
+
+  <!-- SITUATION BANNER (filled by app.js) -->
+  <div id="situation-slot"></div>
+
+  <!-- KPI TILES -->
+  <section class="kpis" id="kpis" aria-label="Summary statistics"></section>
+
+  <!-- SOURCE COVERAGE (collapsible, filled by app.js) -->
+  <div id="coverage-slot"></div>
+
+  <!-- LAYOUT: sidebar + results -->
+  <div class="layout">
+
+    <!-- SIDEBAR BACKDROP (mobile) -->
+    <div class="filters-backdrop" id="filters-backdrop"></div>
+
+    <!-- SIDEBAR -->
+    <aside class="filters" id="filters" aria-label="Filters">
+      <div class="filters-head">
+        <h2>Filters</h2>
+        <button class="btn-clear" id="clear-filters" disabled>Reset</button>
+        <button class="icon-btn close-f" id="close-filters" aria-label="Close filters" style="width:30px;height:30px">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <div class="filters-body">
+
+      <!-- Search -->
+      <div class="fgroup">
+        <span class="glabel">Search</span>
+        <div class="search-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <input id="search-input" type="search" placeholder="Keywords, author, journal…" autocomplete="off" aria-label="Search evidence" />
+        </div>
+      </div>
+
+      <!-- Policy area (radio — single select) -->
+      <div class="fgroup">
+        <span class="glabel">Policy question</span>
+        <div id="f-policy"></div>
+      </div>
+
+      <!-- Channel (checkboxes — multi-select) -->
+      <div class="fgroup">
+        <span class="glabel">Channel</span>
+        <div id="f-channel"></div>
+      </div>
+
+      <!-- Source type (checkboxes — multi-select) -->
+      <div class="fgroup">
+        <span class="glabel">Source type</span>
+        <div id="f-type"></div>
+      </div>
+
+      <!-- Species -->
+      <div class="fgroup">
+        <span class="glabel">Study population</span>
+        <div id="f-species"></div>
+      </div>
+
+      <!-- Toggles -->
+      <div class="fgroup">
+        <span class="glabel">Highlights</span>
+        <label class="toggle-row" data-toggle="pregnancy">
+          <span class="tl"><span class="cdot" style="background:#db2777"></span>Pregnancy-related only</span>
+          <span class="switch"></span>
+        </label>
+        <label class="toggle-row" data-toggle="canadian">
+          <span class="tl"><span class="cdot" style="background:var(--canada)"></span>Canadian evidence only</span>
+          <span class="switch"></span>
+        </label>
+      </div>
+
+      <!-- Date range -->
+      <div class="fgroup">
+        <span class="glabel">Date range</span>
+        <div class="seg" id="f-date">
+          <button data-days="all" class="on">All time</button>
+          <button data-days="30">Last 30 d</button>
+          <button data-days="90">Last 90 d</button>
+          <button data-days="365">Last year</button>
+          <button data-days="1095">Last 3 yr</button>
+          <button data-days="1825">Last 5 yr</button>
+        </div>
+      </div>
+
+      </div><!-- /filters-body -->
+
+    </aside>
+
+    <!-- RESULTS COLUMN -->
+    <section class="results" id="main-content">
+      <div class="toolbar">
+        <button class="mobile-filter-btn" id="open-filters" aria-expanded="false">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 5h18M6 12h12M10 19h4"/></svg>
+          Filters <span class="fcount" id="mobile-fcount" hidden>0</span>
+        </button>
+        <div class="sortsel">
+          <label for="sort-select">Sort</label>
+          <select id="sort-select">
+            <option value="date_desc">Newest first</option>
+            <option value="date_asc">Oldest first</option>
+            <option value="altmetric">Attention (Altmetric)</option>
+            <option value="title">Title A–Z</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Timeline mini-chart -->
+      <div class="timeline" id="timeline" hidden>
+        <div class="thead">
+          <h3>Evidence over time</h3>
+          <span id="tl-note"></span>
+        </div>
+        <div class="tl-chart" id="tl-chart"></div>
+        <div class="tl-axis" id="tl-axis"></div>
+      </div>
+
+      <div class="count-line" id="count-line"></div>
+      <div class="cards" id="cards"></div>
+      <div class="pagination" id="pagination" aria-label="Pagination"></div>
+    </section>
+
+  </div><!-- /layout -->
+
+</main>
+
+<!-- FOOTER -->
+<footer class="foot-note">
+  <div class="wrap">
+    <p>COVID-19 Vaccine Evidence Watch · Maintained by NACI Technical Lead (COVID-19) · kelsey.young@phac-aspc.gc.ca · Data refreshed daily via GitHub Actions · <a href="https://github.com/phac-aspc/covid-evidence-dashboard" target="_blank" rel="noopener">GitHub</a></p>
+    <p style="margin-top:10px">This dashboard aggregates public evidence for situational awareness and does not constitute clinical or policy guidance. Records are surfaced automatically and have not been individually vetted unless marked <strong style="color:var(--new)">Reviewed</strong>.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
