@@ -1436,6 +1436,31 @@
     "pharma": false
   },
   {
+    "id": "news_c12c76efe7c1ee11",
+    "title": "COVID-19 Spring Vaccine Dose - Government of Nova Scotia",
+    "authors": "Government of Nova Scotia",
+    "journal": "Government of Nova Scotia",
+    "published_date": "2025-03-24",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybGdNbFhMYnNkZWczZnBjTzNhUTRNY1VUb0RPN2hHNXdfVlBRTFdCWHE0OE5ZYmRSNFlNQkZBa0R5MnBjOFZGbC1rakVMcm1KcFpFQ2ljWEp5UDY5SGN3dEt5aWhBbUl2MGhLUGNqd2F2bWwwWmpIQQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "COVID-19 Spring Vaccine Dose &nbsp;&nbsp; Government of Nova Scotia",
+    "date": "2025-03-24",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_72c08d6c241384dc",
     "title": "Uptake of COVID-19 booster shots has plummeted. Here's why scientists are concerned - CTV News",
     "authors": "CTV News",
@@ -2591,6 +2616,31 @@
     "pharma": false
   },
   {
+    "id": "news_89cdedca3286ce96",
+    "title": "WHO Updates COVID-19 Vaccination Guidance After March SAGE Meeting - TechTarget",
+    "authors": "TechTarget",
+    "journal": "TechTarget",
+    "published_date": "2023-03-31",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWG5uWUY3YWlqNWwxbTBDakxmOWxvcjFGdmYwNjIzM1UyTklIRTFtSmV4WlhrN0F0UjRBN25CRGplRzltTERTR0hnZHNGWUdDS0RCWUpMSUpneTA4RFJpelFnd2FTZzluWUl2UEpjMWFHeFBBbW0wakhlYkNIS0p5Q1gxMHlPdlNCaDdvdWI2bzUxcmlCdXFmY1pROFp0X0pKcVlZeElUNHNvbWV3X0VsN1dEc21KQktFQW1pRlNmbzBJbjltVlE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "WHO Updates COVID-19 Vaccination Guidance After March SAGE Meeting &nbsp;&nbsp; TechTarget",
+    "date": "2023-03-31",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_6686addff0d833f0",
     "title": "SAGE updates COVID-19 vaccination guidance - Pan American Health Organization (PAHO)",
     "authors": "Pan American Health Organization (PAHO)",
@@ -2825,6 +2875,56 @@
     "pharma": false
   },
   {
+    "id": "news_6a390c2aeca7d10f",
+    "title": "The Pfizer BioNTech (BNT162b2) COVID-19 vaccine: What you need to know - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2022-08-18",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2RydUozdzJMVHVBdnFXZGtqREZfUmo4MHV6bzM5SXZBTWo1TDdxWTVwWTZVbGhiMlBab2tZQnBBRjlrTzhCMW1LU2hoS2FPbjdWNjVhNUdGVzdzSnhYb0VWQkhkNUhTOHRFVWhMWTRBbEVrOHViU0pCQW9pNWl2WU9WWms5LUVUQllHU3JmakVDM2NBaUVSR2RMWnVMQlFRNFM4WDZhWHNBZ0xmMHRXTUhkM0QxZTBHZmxoRUJaYVdNVUk?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "The Pfizer BioNTech (BNT162b2) COVID-19 vaccine: What you need to know &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2022-08-18",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_a4115469bdf0cbb6",
+    "title": "The Moderna COVID-19 (mRNA-1273) vaccine: what you need to know - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2022-08-18",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBUR1hlU2VHRi1hb0NiVUsxLUQzc1ZoMGVucl9ZaU1TUWZDbkhCcFZ4RzZUSFZCbFVidVVNV3FDMFhnSl9pTWhqQy02T0VSNzV5UU9KY2gtdWw3RTlDUThJZjBLSGpNOEZ0Zl90TFlXZjRseXRtd1dyWHZrVG9ic3V1SjJ3SnpFSUt5QTFrVFVHTWQ1dVR1N21PSmpmTXY3RHVjMWZpdjMtMmhKQ0ppY2U2bw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "The Moderna COVID-19 (mRNA-1273) vaccine: what you need to know &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2022-08-18",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_b7577284d6cd9f79",
     "title": "Interim statement on COVID-19 vaccination for children - World Health Organization (WHO)",
     "authors": "World Health Organization (WHO)",
@@ -2938,6 +3038,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_17398fdb724d26cb",
+    "title": "The Oxford/AstraZeneca (ChAdOx1-S [recombinant] vaccine) COVID-19 vaccine: what you need to know - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2022-06-13",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUp5NGNGbHpUYnNuTGNYSGdpWm5GSlFPZHRNOUxCNk5ycm5jTU5KQ3ZheUg5U1VhRDBEQkRRbnM1OUtYdDMxSDRtVFI1WW1uZDZ3SXpfTl9iNTdHUHVZb1JFUTVjcW92d2dRS1hGWjZoVHhLX2drWG53VEZzM2kxNEljZ2ZpNkljakZ4ZnFCeE5KWWVfTk4tdkE0amJnZlFfbkI2eEk3cGtxMG5YbHJBWnlKS0U?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "The Oxford/AstraZeneca (ChAdOx1-S [recombinant] vaccine) COVID-19 vaccine: what you need to know &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2022-06-13",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },

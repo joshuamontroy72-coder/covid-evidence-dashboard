@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T17:20:39.468154+00:00",
-  "total": 132,
+  "updated_at": "2026-10-27T17:27:24.290540+00:00",
+  "total": 137,
   "channels": [
     {
       "id": "journals",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 39
+      "count": 44
     },
     {
       "id": "press",
@@ -70,7 +70,7 @@
     {
       "id": "general_covid",
       "label": "General COVID-19 vaccines",
-      "count": 63
+      "count": 68
     }
   ],
   "fetcher_log": [
@@ -79,42 +79,42 @@
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-27T17:20:05.358193+00:00"
+      "fetched_at": "2026-10-27T17:26:45.056386+00:00"
     },
     {
       "source": "medRxiv / bioRxiv preprints",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-27T17:20:05.801298+00:00"
+      "fetched_at": "2026-10-27T17:26:45.972463+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 80,
       "kept": 75,
       "error": null,
-      "fetched_at": "2026-10-27T17:20:05.942098+00:00"
+      "fetched_at": "2026-10-27T17:26:46.274508+00:00"
     },
     {
       "source": "WHO IRIS",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-27T17:20:07.426186+00:00"
+      "fetched_at": "2026-10-27T17:26:47.020077+00:00"
     },
     {
       "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
       "fetched": 50,
       "kept": 4,
       "error": null,
-      "fetched_at": "2026-10-27T17:20:36.631807+00:00"
+      "fetched_at": "2026-10-27T17:27:21.735622+00:00"
     },
     {
       "source": "Google News",
-      "fetched": 82,
-      "kept": 39,
+      "fetched": 74,
+      "kept": 35,
       "error": null,
-      "fetched_at": "2026-10-27T17:20:39.453445+00:00"
+      "fetched_at": "2026-10-27T17:27:24.272698+00:00"
     }
   ]
 }
