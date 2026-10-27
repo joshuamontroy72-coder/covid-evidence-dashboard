@@ -395,7 +395,13 @@ def fetch_rss_feeds() -> list[dict]:
 
     for label, feed_url, source, source_type in _RSS_FEEDS:
         try:
-            feed = feedparser.parse(feed_url)
+            # Pre-fetch with requests so our TIMEOUT applies; feedparser.parse(url)
+            # uses its own HTTP stack with no timeout and can hang for hours.
+            r = _get(feed_url)
+            if not r:
+                log.warning("RSS %s: no response", label)
+                continue
+            feed = feedparser.parse(r.text)
         except Exception as exc:
             log.warning("RSS %s failed: %s", label, exc)
             continue
@@ -465,7 +471,10 @@ def fetch_google_news() -> list[dict]:
         url     = f"https://news.google.com/rss/search?q={encoded}&hl=en-CA&gl=CA&ceid=CA:en"
         try:
             import feedparser
-            feed = feedparser.parse(url)
+            r = _get(url)
+            if not r:
+                continue
+            feed = feedparser.parse(r.text)
         except Exception:
             continue
 
