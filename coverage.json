@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T17:27:24.290540+00:00",
-  "total": 137,
+  "updated_at": "2026-10-28T17:53:04.926024+00:00",
+  "total": 140,
   "channels": [
     {
       "id": "journals",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 44
+      "count": 47
     },
     {
       "id": "press",
@@ -55,7 +55,7 @@
     {
       "id": "booster_frequency",
       "label": "Booster frequency & intervals",
-      "count": 30
+      "count": 31
     },
     {
       "id": "population_targeting",
@@ -70,7 +70,7 @@
     {
       "id": "general_covid",
       "label": "General COVID-19 vaccines",
-      "count": 68
+      "count": 70
     }
   ],
   "fetcher_log": [
@@ -79,42 +79,42 @@
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-27T17:26:45.056386+00:00"
+      "fetched_at": "2026-10-28T17:52:26.958389+00:00"
     },
     {
       "source": "medRxiv / bioRxiv preprints",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-27T17:26:45.972463+00:00"
+      "fetched_at": "2026-10-28T17:52:27.398600+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 80,
       "kept": 75,
       "error": null,
-      "fetched_at": "2026-10-27T17:26:46.274508+00:00"
+      "fetched_at": "2026-10-28T17:52:27.576782+00:00"
     },
     {
       "source": "WHO IRIS",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-27T17:26:47.020077+00:00"
+      "fetched_at": "2026-10-28T17:52:28.148908+00:00"
     },
     {
       "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
       "fetched": 50,
-      "kept": 4,
+      "kept": 3,
       "error": null,
-      "fetched_at": "2026-10-27T17:27:21.735622+00:00"
+      "fetched_at": "2026-10-28T17:53:02.187085+00:00"
     },
     {
       "source": "Google News",
-      "fetched": 74,
-      "kept": 35,
+      "fetched": 76,
+      "kept": 39,
       "error": null,
-      "fetched_at": "2026-10-27T17:27:24.272698+00:00"
+      "fetched_at": "2026-10-28T17:53:04.910706+00:00"
     }
   ]
 }

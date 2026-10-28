@@ -1,5 +1,30 @@
 [
   {
+    "id": "news_36ff4ec5e241ddb6",
+    "title": "Experts at St. Olaf: Why annual flu and COVID-19 vaccines matter - St. Olaf College",
+    "authors": "St. Olaf College",
+    "journal": "St. Olaf College",
+    "published_date": "2026-10-27",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTU9BR0dRaXBDX3llQWhxblFHMFlyVjBKR01yRnR3OWc5ZkxMZ2N5SjB5anNKX2Zob3RPRHBoSGxUTVo1TTNuV3pZcFlYM2U0Z0R3WU42RkMzUm9lZGRfMUY3Q1MxX1pZM01nRzJWaEUxWFVlZ0JtOE03T0k0ZVNNSnBKRENqVG5VbjVPdXBlaHRNdEE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Experts at St. Olaf: Why annual flu and COVID-19 vaccines matter &nbsp;&nbsp; St. Olaf College",
+    "date": "2026-10-27",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_b3ba3cbfad68f46d",
     "title": "National flu and COVID-19 surveillance report, week 48 report: data to week 47 (data up to 22 November 2026)",
     "authors": "UKHSA",
@@ -769,7 +794,7 @@
     "summary": "CIRV2 is a Phase IV randomized, open-label, trial of FDA-approved COVID-19 and/or influenza vaccines (no more than minimal risk) with longitudinal follow-up. In 2026 CIRV2 will compare immunogenicity and reactogenicity of the recombinant Novavax COVID-19 vaccine and the mRNA Pfizer-BioNTech COVID-19 vaccine.",
     "extra": {
       "nct_id": "NCT07287137",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "RECRUITING",
       "phase": "PHASE4"
     },
     "date": "2025-11-12",
@@ -784,6 +809,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_07584fc883e71f55",
+    "title": "CUPE Alberta launches online campaign against province’s COVID-19 vaccine fee - CTV News",
+    "authors": "CTV News",
+    "journal": "CTV News",
+    "published_date": "2025-11-07",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlFUcVpNeHVxSnFnaDB4RVFUaUpmRWtyTnpBYVhrWVVGZktDYnNXekJUU2JQM3JnUTZ6LVFWWTNBSDdJNnhkdk53a3JMdzI3eFJvdEMxOEtUak5rdVlKaFF0b3lQMkFQYmJXQjFRNU9ydk5zQUo1TC1uc3V4RHpudDlEdWtoYTFJTUlsUld1Ym05cGRSU2hPSFQ3OHUxMXNXX3JESGZvVU9jYVFTRXZqaUdWQ1VWeTQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "CUPE Alberta launches online campaign against province’s COVID-19 vaccine fee &nbsp;&nbsp; CTV News",
+    "date": "2025-11-07",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -1143,12 +1193,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-06",
+    "published_date": "2025-09-05",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-06",
+    "date": "2025-09-05",
     "policy_area": [
       "general_covid"
     ],
@@ -1370,6 +1420,31 @@
     "source": "Google News",
     "source_type": "news",
     "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; NEJM",
+    "date": "2025-05-20",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_2a55d1b107052dd9",
+    "title": "Comparing the COVID-19 Vaccines: How Are They Different? - Yale Medicine",
+    "authors": "Yale Medicine",
+    "journal": "Yale Medicine",
+    "published_date": "2025-05-20",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GUnJ3SC1QdVEzWWk4NlhQcGFJMnMxcFFva3RYSFNoWnB1M1dCTVByZzNZRE5kazFIQ21OdkZXdEh1TkRnY3FIYmZ3MEVDa25UVnpwME9aV2hlVDJLUGF5VUExXzRIT0VFOF9fcUpR?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Comparing the COVID-19 Vaccines: How Are They Different? &nbsp;&nbsp; Yale Medicine",
     "date": "2025-05-20",
     "policy_area": [
       "general_covid"
