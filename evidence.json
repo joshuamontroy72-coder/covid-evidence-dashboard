@@ -1,5 +1,55 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-29",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-29",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1352347",
+    "title": "Covid-19 second dose vaccine uptake and associated factors: A community-based cross-sectional study among adults in Masindi district in Uganda",
+    "authors": "KOOKO R, Alinde A, Kezza LNY et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-28",
+    "url": "https://europepmc.org/article/PPR/PPR1352347",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "While Uganda has achieved relatively high COVID-19 first dose vaccination rates, completion of the second dose remains low, particularly in Masindi district where only 44.0% of adults who were vaccinated with the first dose proceeded to receive the second dose. This shortfall threatens to undermine the achievement of herd immunity and the effectiveness of the nation's COVID-19 vaccination campaign. This study aimed to determine the rate of second dose vaccine uptake and assess factors associated with second dose uptake among adults in Masindi district. We conducted a community-based cross-sect",
+    "date": "2026-10-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_36ff4ec5e241ddb6",
     "title": "Experts at St. Olaf: Why annual flu and COVID-19 vaccines matter - St. Olaf College",
     "authors": "St. Olaf College",
@@ -21,6 +71,31 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1350578",
+    "title": "Advances and Translational Challenges in mRNA–Lipid Nanoparticle Vaccines Against <em>Helicobacter pylori</em>: From Rational Antigen Design to Mucosal Immunity",
+    "authors": "Zhao Y, Cheng H, Zhou S et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-10-27",
+    "url": "https://europepmc.org/article/PPR/PPR1350578",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Helicobacter pylori chronically infects more than half of the global population and is the sole bacterium classified as a Group 1 carcinogen by the International Agency for Research on Cancer. Despite decades of effort, no prophylactic H. pylori vaccine has reached the market, largely because conventional subunit and whole-cell candidates failed to induce durable, mucosa-protective T-helper 1 (Th1)/Th17 immunity in humans. The clinical success of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) mRNA–lipid nanoparticle (mRNA-LNP) vaccines has re-energized nucleic-acid vaccine resear",
+    "date": "2026-10-27",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -50,6 +125,263 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1350468",
+    "title": "COVID-19 mortality in six Caribbean countries during Four Waves of the COVID-19 Pandemic",
+    "authors": "Duncan J, McCaw-Binns A, Figueroa JP",
+    "journal": "medRxiv",
+    "published_date": "2026-10-26",
+    "url": "https://europepmc.org/article/PPR/PPR1350468",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Mortality associated with COVID-19 in the Caribbean during specific waves and exposure to different variants has not well described, especially for the six most populous English-speaking countries (Bahamas, Barbados, Guyana, Jamaica, Trinidad and Tobago, and St. Lucia), compared to the United Kingdom (UK). <h4>Methods:</h4> The first four waves of the pandemic, cases and deaths were estimated from epidemiologic curves on Johns Hopkins University Coronavirus Resource Center for the countries of interest from 10-Mar-20 to 12-Aug-22. Crude mortality rates (CMR), case fatalit",
+    "date": "2026-10-26",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1349409",
+    "title": "Emulating a vaccine target trial under unmeasured confounding: single and double negative control methods",
+    "authors": "Schaeffer B, Chervo T, Elkin EP et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-24",
+    "url": "https://europepmc.org/article/PPR/PPR1349409",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Estimating vaccine effectiveness (VE) for symptom-driven outcomes in observational settings remains challenging due to unmeasured differences in health-seeking behavior between vaccine groups. This challenge persists even with target trial emulation, which primarily addresses design-related biases. The test negative design, a popular alternative design for estimating VE, can reduce bias due to unmeasured confounding by health-seeking but often deviates from the design principles of trial emulation. Here, we emulate a target trial to estimate relative VE of COVID-19 bivalent booster in a cohort",
+    "date": "2026-10-24",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42910459",
+    "title": "Exploring booster vaccine hesitancy: evidence from the COVID-19 in Hong Kong",
+    "authors": "Jin J, Lai DWL, Yan E",
+    "journal": "",
+    "published_date": "2026-10-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910459/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42910459",
+    "summary": "<h4>Background</h4>The COVID-19 pandemic showed that effective pandemic prevention may require repeated vaccination. However, booster uptake can be influenced by psychosocial factors, particularly during a prolonged public health crisis.<h4>Objective</h4>This study examined factors associated with adults' willingness to receive an additional COVID-19 vaccine dose in Hong Kong.<h4>Methods</h4>Data were drawn from the fourth-wave follow-up survey of a longitudinal study and analyzed cross-sectionally using multinomial logistic regression.<h4>Results</h4>A total of 689 participants were analyzed:",
+    "date": "2026-10-22",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1347795",
+    "title": "Immunogenicity of Heterologous SARS-CoV-2 PHH-1V Protein Booster vaccination in People with Immunocompromising Conditions",
+    "authors": "Mothe B, Benet S, Trinité B et al.",
+    "journal": "Research Square",
+    "published_date": "2026-10-22",
+    "url": "https://europepmc.org/article/PPR/PPR1347795",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Individuals with immunocompromising conditions face an increased risk of severe COVID-19 and often respond poorly to vaccination. HIPRA-HH-4 was a phase IIb/III, single-arm trial evaluating immunogenicity and safety of a PHH-1V booster, a protein-based adjuvanted SARS-CoV-2 vaccine, in 238 immunocompromised adults after mRNA SARS-CoV-2 vaccination. Recruited May-July 2022, participants included people living with HIV and < 400 CD4+ T cells (PWH, n = 61), post-kidney transplantation (n = 37), chronic haemodialysis (HD, n = 59), primary antibody deficiency (PAD, n = 2",
+    "date": "2026-10-22",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1347469",
+    "title": "Did the emergence of the Omicron variant impact the COVID-19 vaccine sentiments in the Arab world? A Twitter-based comparative analysis",
+    "authors": "Dimashkieh Chehab N",
+    "journal": "Wellcome Open Res",
+    "published_date": "2026-10-22",
+    "url": "https://europepmc.org/article/PPR/PPR1347469",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Vaccine hesitancy constitutes a major obstacle for achieving herd immunity against coronavirus disease 2019 (COVID-19). Research has shown high vaccine hesitancy rates and low compliance among Arabic-speaking populations in the 2021–2022 period. The aim of this study was to analyze sentiments related to COVID-19 vaccines before and after the emergence of the COVID-19 Omicron variant in the Arab-speaking world. Methods Tweets were collected before and after the Omicron emergence period in the Arab-speaking world using Python-enabled CAMeL Tools (Arabic Natural Language Pro",
+    "date": "2026-10-22",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42908321",
+    "title": "An interpretable machine learning model integrating mucosal and cellular immunity to predict SARS-CoV-2 reinfection: a multicenter cohort study",
+    "authors": "Ran J, Zhang W, Zhang W et al.",
+    "journal": "",
+    "published_date": "2026-10-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908321/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42908321",
+    "summary": "SARS-CoV-2 reinfection remains a significant public health challenge that requires accurate risk assessment across populations. Using prospectively collected data from two independent cohorts, we developed and externally validated an interpretable machine learning model for predicting symptomatic SARS-CoV-2 reinfection. The cohort comprised 1,156 adults from Wuxi and Nantong, China, with a median follow-up duration of 10 months. Reinfection occurred in 128 participants (11.1%). The model integrated eighteen clinical and immune features, and ultimately identified spike-specific nasal secretory ",
+    "date": "2026-10-21",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42904667",
+    "title": "Evaluating a multi-vaccine respiratory immunization strategy involving SARS-CoV-2, pneumococcal, and influenza vaccines in adults: A randomized, open-label, multicenter, controlled, non-inferiority Phase IV trial in China",
+    "authors": "Shi X, Han S, Wu C et al.",
+    "journal": "",
+    "published_date": "2026-10-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42904667/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42904667",
+    "summary": "Co-administration of vaccines targeting multiple respiratory pathogens may enhance coverage and streamline adult immunization programs. We conducted a randomized, multicentre, open-label Phase IV trial registered at Chinese Clinical Trial Registry (ChiCTR2100046227) in China to evaluate the immunogenicity and safety of co-administering an inactivated SARS-CoV-2 vaccine (WIBP-CorV) with the 23-valent pneumococcal polysaccharide vaccine (PPV23) and a quadrivalent inactivated influenza vaccine (IIV4). A total of 1,404 adults aged ≥ 18 year, including equal numbers of adults aged 18-59 year and ≥6",
+    "date": "2026-10-21",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1347331",
+    "title": "SARS-CoV-2 infection detection efficiency in Denmark before major vaccine impacts",
+    "authors": "Westfall MN, Høiby N, Rasmussen S et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-21",
+    "url": "https://europepmc.org/article/PPR/PPR1347331",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "To deal with the COVID-19 pandemic, Denmark implemented an aggressive program aimed at controlling the pandemic which included both testing and contact tracing programs. The large amount of data collected in Denmark on the pandemic and its integrated nature made it possible to investigate the effectiveness of the testing and contact tracing effort. The results of that investigation and a discussion of the effectiveness and limitations of the different control efforts are reported herein, as are lessons learned concerning possible improvements for the future. The analysis is limited to the peri",
+    "date": "2026-10-21",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1344234",
+    "title": "The SARS-CoV-2 spike receptor-binding domain has evolved decreased inherent antigenicity in humans",
+    "authors": "Jacob-Dolan C, Boonyaratanakornkit JB, Bloom JD",
+    "journal": "bioRxiv",
+    "published_date": "2026-10-16",
+    "url": "https://europepmc.org/article/PPR/PPR1344234",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike’s receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS-CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naïve human B c",
+    "date": "2026-10-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1343677",
+    "title": "Germinal center dynamics in the mediastinal lymph node distinguish time-dependent and variant-specific immunity during SARS-CoV-2 secondary exposure",
+    "authors": "Kelvin A, Oludada O, Francis M et al.",
+    "journal": "Research Square",
+    "published_date": "2026-10-16",
+    "url": "https://europepmc.org/article/PPR/PPR1343677",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  SARS-CoV-2 secondary infections remain a persistent challenge even though individuals have previous immunity from natural infection or vaccination. Yet, the cellular mechanisms that determine whether a secondary exposure is rapidly controlled by pre-existing immunity and results in sterilizing protection or progresses to productive infection and disease remain poorly understood. Using homologous and heterologous secondary-challenge experimental strategies in C57BL/6J mice, we show that protection against a homologous SARS-CoV-2 Alpha secondary challenge in previou",
+    "date": "2026-10-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_fcaeb0332d671b62",
     "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 vaccine guidance: The State of US Vaccine Policy - CIDRAP",
     "authors": "CIDRAP",
@@ -71,6 +403,343 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42927194",
+    "title": "The next generation of maternal vaccines: scientific advances, regulatory readiness, and strategic planning in Europe",
+    "authors": "Heath PT, Galiza EP, Salcedo PJ et al.",
+    "journal": "",
+    "published_date": "2026-10-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927194/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42927194",
+    "summary": "With the recent approval of maternal RSV vaccines and late-phase trials underway for a GBS vaccine, Europe is entering a new era of maternal immunisation. Yet scientific progress is outpacing pregnancy-specific evidence and preparedness for equitable implementation. Pregnant women are often excluded from early vaccine trials, while national recommendations, surveillance and delivery vary across Europe, even after regulatory authorisation. Without coordinated planning, new maternal vaccines risk reproducing the delays and inequities seen with influenza, pertussis and COVID-19 vaccination. In th",
+    "date": "2026-10-15",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": true,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42878689",
+    "title": "Safety and immunogenicity of a first-generation modified vaccinia virus Ankara-vectored SARS-CoV-2 vaccine candidate with mRNA-based booster vaccination: A phase 1 trial",
+    "authors": "Fathi A, Dahlke C, Mayer L et al.",
+    "journal": "",
+    "published_date": "2026-10-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878689/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42878689",
+    "summary": "The rapid development of effective COVID-19 vaccines was enabled by the parallel assessment of multiple candidates early in the pandemic, including candidates based on the Modified Vaccinia virus Ankara (MVA) vector platform. This Phase 1 trial (NCT04569383) evaluated the MVA-based vaccine candidate MVA-SARS-2-S, expressing the full-length native SARS-CoV-2 spike glycoprotein (Wuhan-HU-1). Between October 2020 and May 2021, 30 healthy, SARS-CoV-2-naive adults received two doses of either 10<sup>7</sup> or 10<sup>8</sup> international units (IU) of MVA-SARS-2-S 28 days apart, with 6-month follo",
+    "date": "2026-10-15",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42879903",
+    "title": "Protection of Omicron XBB.1.5 vaccine, previous infection, and their induced neutralizing antibodies against symptomatic SARS-CoV-2 infection during Omicron KP.3 wave",
+    "authors": "Yamamoto S, Matsuda K, Maeda K et al.",
+    "journal": "",
+    "published_date": "2026-10-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879903/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42879903",
+    "summary": "<h4>Background</h4>Data are limited on the protection of Omicron XBB.1.5 vaccine, previous infection, and their induced neutralizing antibodies against Omicron KP.3 infection.<h4>Methods</h4>Among 1826 tertiary hospital staff in Tokyo who had received three or more doses of COVID-19 mRNA vaccines and provided blood samples in June 2024, we prospectively examined the associations of XBB.1.5 vaccination and previous infection (classified by the timing of the last infection as pre-Omicron XBB, Omicron XBB, or Omicron JN.1 waves) with the risk of symptomatic SARS-CoV-2 infection during the Omicron",
+    "date": "2026-10-15",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1343257",
+    "title": "A mosaic RBD-nanoparticle pan-sarbecovirus vaccine elicits nanobodies that target highly conserved epitopes",
+    "authors": "Malecek KE, Keeffe JR, Fan C et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-10-15",
+    "url": "https://europepmc.org/article/PPR/PPR1343257",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2, the virus that causes COVID-19, continually mutates, producing new variants of concern (VOCs). Substitutions in the SARS-CoV-2 spike protein receptor-binding domain (RBD) have resulted in reduced efficacies of vaccines and therapeutic monoclonal antibodies. Indeed, since the emergence of Omicron and earlier VOCs, most previously approved anti-RBD therapeutic monoclonal antibodies are no longer authorized as therapeutics. To address VOC substitutions effects on therapeutic antibody efficacy, we sought to identify single-domain nanobodies (VHHs) targeting RBD regions (class 4, class ",
+    "date": "2026-10-15",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42875173",
+    "title": "SARS-CoV-2 nucleocapsid protein hijacks host transcription by targeting eEF1A1",
+    "authors": "Bidon B, Lai YL, Chao TL et al.",
+    "journal": "",
+    "published_date": "2026-10-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875173/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42875173",
+    "summary": "SARS-CoV-2 variants display substantial genetic and phenotypic diversity, yet the molecular mechanisms underlying their effects on host gene regulation need further investigation. We performed a transcriptomic analysis of host responses to multiple SARS-CoV-2 variants, including Delta and Omicron. Despite their divergence, all variants induced a conserved transcriptional program in human lung epithelial cells characterized by activation of interferon regulatory factors (IRFs), immediate-early genes, and downstream cytokines. We identify the viral nucleocapsid (N) protein as a central driver of",
+    "date": "2026-10-14",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42874153",
+    "title": "Intranasal immunization expressing S1 antigen can confer functionally sterile protection against an intranasal SARS-CoV-2 challenge in mice",
+    "authors": "Ishii H, Miyauchi K, Harada S et al.",
+    "journal": "",
+    "published_date": "2026-10-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874153/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42874153",
+    "summary": "Currently approved COVID-19 vaccines have shown significant protective efficacy against disease onset and progression after SARS-CoV-2 infection. However, systemic immune responses induced by intramuscular vaccination have limited impact on protection of viral transmission. Intranasal vaccination is an important strategy for induction of mucosal immune responses for protection of viral transmission. Here, we investigated the potential of intranasal immunization expressing a SARS-CoV-2 spike (S) antigen to prevent SARS-CoV-2 infection in a mice model. Intranasal immunization with a Sendai virus",
+    "date": "2026-10-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1342271",
+    "title": "Informing risk stratification and vaccine policy via a predictive mathematical model of SARS-COV-2 infection",
+    "authors": "Chain B, Callan CG, Scobie D et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-14",
+    "url": "https://europepmc.org/article/PPR/PPR1342271",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 human challenge studies enabled unprecedented high frequency temporal measurements of immune determinants of viral control. We integrated prior knowledge of SARS-CoV-2 replication, innate, cytotoxic T cell and antibody responses into a dynamic model which captured viral-load kinetics in seronegative volunteers challenged with wildtype virus. The model predicted measured innate and adaptive immune dynamics. Perturbation analyses indicated that innate immunity limits peak viral load, whereas antibodies principally mediate clearance while cytotoxic T cells become critical in antibody d",
+    "date": "2026-10-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1342223",
+    "title": "Testing structural interpretations beyond goodness-of-fit in a phenomenological epidemic model: A reproducibility-oriented case study",
+    "authors": "Umeno Y",
+    "journal": "medRxiv",
+    "published_date": "2026-10-14",
+    "url": "https://europepmc.org/article/PPR/PPR1342223",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Simulation models are widely used to support counterfactual inference in settings where direct experimental validation is difficult or infeasible. However, for phenomenological models calibrated to observational time series, goodness-of-fit does not necessarily establish that the structural assumptions underlying such inferences are uniquely supported by the data. Here, we examine this issue using a published COVID-19 transmission model for Japan that incorporates empirical inputs including human mobility, variant prevalence, and vaccination and has been used to estimate the effects of alterna",
+    "date": "2026-10-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42869875",
+    "title": "Safety and immunogenicity of Thailand Government Pharmaceutical Organization (GPO) produced, COVID-19 vaccine, 10 μg HXP-GPOVac: A Phase III, double-blind, randomized trial in comparison with VAXZEVRIA",
+    "authors": "Prasert K, Nakphook S, Kittiwatanachod J et al.",
+    "journal": "",
+    "published_date": "2026-10-13",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42869875/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42869875",
+    "summary": "<h4>Background</h4>HXP-GPOVac is a Thailand-produced, egg-based, inactivated recombinant Newcastle disease virus (NDV)-chimera vaccine expressing a membrane-anchored, prefusion-stabilized SARS-CoV-2 spike (NDV-HXP-S), developed to expand vaccine access. This phase III trial evaluated the safety and immunogenicity of a single HXP-GPOVac dose in healthy or clinically stable Thai adults who had completed a two-dose primary series of an authorized COVID-19 vaccine.<h4>Methods</h4>In this double-blind, randomized, active-controlled trial in Nakhon Phanom, Thailand, 4000 participants were randomized",
+    "date": "2026-10-13",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1342618",
+    "title": "The impact of COVID-19 vaccination on long COVID prevention in the Omicron era: An updated systematic review and meta-analysis",
+    "authors": "Marjenberg Z, Peluso MJ, Wynberg E et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-13",
+    "url": "https://europepmc.org/article/PPR/PPR1342618",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Objectives</h4>  To evaluate the impact of COVID-19 vaccination on the prevention of long COVID (LC) in the Omicron era through an updated systematic review and meta-analysis. <h4>Methods</h4>  We performed an update of our previously published systematic review and meta-analysis of vaccination and LC risk (searches between 1 January 2022 and 1 March 2024). Databases (Embase, MEDLINE, PubMed, Europe PMC, LILACS, Cochrane COVID-19 Study Register) were searched for studies published between 1 March 2024 and 13 July 2026. Observational studies assessing the impact of vaccination on the risk o",
+    "date": "2026-10-13",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42869874",
+    "title": "Comparing two case definitions for including severe acute respiratory infection patients in influenza and COVID-19 vaccine effectiveness studies among older adults using the test-negative design: VEBIS hospital network, seven European countries, 2023/24",
+    "authors": "Marques DFP, Howard J, Álvarez ML et al.",
+    "journal": "",
+    "published_date": "2026-10-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42869874/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42869874",
+    "summary": "<h4>Introduction</h4>Two severe acute respiratory infection (SARI) case definitions (CDs) are often used in test-negative design (TND) hospital-based vaccine effectiveness (VE) studies. SARI-CD1 requires ≥1 symptom (cough, fever, shortness of breath, anosmia, ageusia, or dysgeusia); SARI-CD2 requires both fever and cough. Using VEBIS hospital network end-of-season 2023/24 data, we compared the effect of these CDs on influenza and COVID-19 VE estimates in Europe.<h4>Methods</h4>Using the TND, we restricted analysis to seven countries recruiting patients using SARI-CD1; we created a subset of SA",
+    "date": "2026-10-12",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1338552",
+    "title": "Immunosenescence shapes the inflammatory response to viral infection in vaccinated and unvaccinated patients",
+    "authors": "Kudlinski B, Kania J, Murkos M et al.",
+    "journal": "Research Square",
+    "published_date": "2026-10-11",
+    "url": "https://europepmc.org/article/PPR/PPR1338552",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  A key feature of immunosenescence is chronic low-grade inflammation, or inflammaging, which disrupts antigen-specific signaling and limits the magnitude, quality, and durability of vaccine-induced immunity. The study aimed to characterize the inflammatory response to viral infection through a comprehensive assessment of immune cells and cytokines in unvaccinated (NVP) and vaccinated patients (VP), and to investigate the impact of immunosenescence on vaccination effectiveness. The study included 79 patients aged 61.1 ± 16.7 years with newly diagnosed COVID-19 and 4",
+    "date": "2026-10-11",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42858680",
+    "title": "Vaccine recipient and volunteer experiences from COVID-19 mass vaccine clinics at a university campus: drive-through and walk-through approaches",
+    "authors": "Tome J, Schwind JS, Richmond HL et al.",
+    "journal": "",
+    "published_date": "2026-10-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42858680/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42858680",
+    "summary": "<h4>Purpose</h4>This cross-sectional study characterized the implementation and differences between drive-through (DTCs) and walk-through vaccination clinics (WTCs) during a 2021 mass vaccination effort at Georgia Southern (GS) University to inform future clinic designs.<h4>Methods</h4>Students, faculty, and staff participated as vaccine recipients or volunteers during the event. Pearson's Chi-square, Fisher's Exact, and qualitative methods (line-by-line open coding/focused and axial coding) compared DTC and WTC experiences collected through surveys. Crude and adjusted ordinal regression model",
+    "date": "2026-10-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -101,6 +770,234 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1338299",
+    "title": "Epidemiology and virological characteristics of the emerging SARS-CoV-2 variant PJ.2.1",
+    "authors": "Hoffmann M, Zhang L, Chen N et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-10-08",
+    "url": "https://europepmc.org/article/PPR/PPR1338299",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 continues to circulate globally at high levels and to evolve into new variants. Recently, a new saltation variant harbouring a highly mutated spike protein, PJ.2.1, emerged in North America. Here, we provide a brief epidemiological and virological characterization of PJ.2.1 and cocirculating variants. We report that PJ.2.1 is spreading in the USA, Canada, and Spain and mainly infects individuals aged 60 years and older, as do most other variants, with the exception of BA.3.2, which preferentially infects individuals aged 0-9 years. PJ.2.1 was less susceptible to inhibition by an ant",
+    "date": "2026-10-08",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1337290",
+    "title": "Demand Promotion Interventions to Improve COVID-19 Vaccine Uptake: A Systematic Review of the Global Evidence",
+    "authors": "Wonodi CB, Nabia S, Peprah EB et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-10-08",
+    "url": "https://europepmc.org/article/PPR/PPR1337290",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> /Objectives: The global rollout of COVID-19 vaccines faced significant implementation challenges: limited adult immunization infrastructure, particularly in low- and middle-income countries; rapidly shifting viral epidemiology driven by emerging variants; and widespread vaccine misinformation that fueled hesitancy. Achieving the high coverage necessary to curb transmission required urgent attention to demand-side barriers, making the identification of effective interventions a critical public health priority. This systematic review synthesized global evidence on communica",
+    "date": "2026-10-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1335532",
+    "title": "High-Yield Production and Antigenic Profiling of a Stabilized SARS-CoV-2 S2-Fc Fusion Protein Using GlycoSwitch Pichia pastoris",
+    "authors": "Akrami M, Kolyani KA, Amini A",
+    "journal": "Research Square",
+    "published_date": "2026-10-07",
+    "url": "https://europepmc.org/article/PPR/PPR1335532",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  The continuous mutation of the SARS-CoV-2 virus drives the need for novel vaccine approaches that can effectively combat new strains. Although research has heavily focused on the spike glycoprotein's S1 domain, the S2 subunit—despite its highly conserved sequence—has received far less attention. Here, we detail the design, production, isolation, and immunological assessment of the recombinant SARS-CoV-2 S2 protein synthesized using  <italic>Pichia pastoris</italic>  . To maximize protein yield, a codon-adapted S2 sequence was integrated into a yeast vector driven ",
+    "date": "2026-10-07",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42836482",
+    "title": "Immune checkpoint inhibition enhances memory T-cell responses to CEF(T), SARS-CoV-2 spike proteins and ChAdOx1 nCoV-19",
+    "authors": "Grice S, Gardner J, Thomson P et al.",
+    "journal": "",
+    "published_date": "2026-10-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836482/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42836482",
+    "summary": "An extensive body of clinical and experimental evidence demonstrates that immune checkpoint blockade can invigorate recall immune responses. This phenomenon has previously been highlighted using <i>ex vivo</i> (healthy donor) and <i>in vivo</i> (immunotherapy patients) models of immune checkpoint inhibitor (ICI) administration that demonstrate an enhancement of the T-cell response to concomitant small-molecule drugs. However, the immunological and clinical impact of ICI therapy pre-ceding vaccination, where robust antigen-specific immunogenicity is essential, remains poorly defined. In this st",
+    "date": "2026-10-06",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42834877",
+    "title": "Predictors of COVID-19 vaccination status among youth in eThekwini, South Africa: results from the AYAZAZI RIGHTS study",
+    "authors": "Dietrich JJ, Pakhomova TE, Basham CA et al.",
+    "journal": "",
+    "published_date": "2026-10-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834877/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42834877",
+    "summary": "<h4>Background</h4>Understanding which factors impact vaccine uptake is important for supporting ongoing and future vaccine programmes among youth.<h4>Objective</h4>This study examined predictors of COVID-19 vaccination uptake among South African youth in the eThekwini District.<h4>Methods</h4>Cross-sectional data from an online survey (AYAZAZI RIGHTS: December 2021-May 2022) of youth aged 18-24 in the eThekwini district, South Africa, were analyzed using a gender-stratified logistic regression of vaccination status on candidate predictors of interest (k = 14). A full model with backwards sele",
+    "date": "2026-10-06",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1336240",
+    "title": "Effects of XFG-adapted mRNA vaccination on SARS-CoV-2 variant neutralisation",
+    "authors": "Happle C, Hoffmann M, Stankov MV et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-06",
+    "url": "https://europepmc.org/article/PPR/PPR1336240",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 antigenic evolution continues to challenge strain-matched vaccination. For the 2026–27 season, the European Medicines Agency (EMA) identified XFG as the preferred antigen within the JN.1 family and Comirnaty XFG was authorised in the European Union in July, 2026. We studied 22 participants who received 30 μg of mRNA encoding XFG (Comirnaty XFG, BioNTech–Pfizer, Mainz, Germany) in September, 2026 and had paired serum available before vaccination and median 14 days afterwards. Median Wuhan-Hu-1 S1-specific IgG increased from 1600 BAU/mL (IQR 1118–2926) to 2914 BAU/mL (2117–4468), a 1·",
+    "date": "2026-10-06",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1334334",
+    "title": "Vaccine attitudes and perceptions in a post-COVID Era: what lessons can be learned in Tunisia?",
+    "authors": "Ben Mansour N, Benzina BF, Fray S et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-10-05",
+    "url": "https://europepmc.org/article/PPR/PPR1334334",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Introduction</h4>  Although the COVID-19 pandemic clearly showed the potential consequences of a world without vaccinations, vaccine hesitancy is likely to be more pronounced in the post-COVID-19 era. The introduction of human papillomavirus (HPV) vaccines in this context is likely to raise particular concerns. In Tunisia, decision-makers have prioritized the introduction of HPV vaccine into the immunization schedule. This study assessed individual barriers and facilitators to HPV vaccine acceptability in Tunisia, with the aim of guiding an effective communication strategy for HPV vaccinat",
+    "date": "2026-10-05",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1334288",
+    "title": "Mortality and vaccine-preventable deaths from severe acute respiratory infections in Brazil in 2026",
+    "authors": "Kupek E",
+    "journal": "medRxiv",
+    "published_date": "2026-10-05",
+    "url": "https://europepmc.org/article/PPR/PPR1334288",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  A large increase in mortality from severe acute respiratory infections (SARI) in Brazil in 2025 was mainly driven by influenza A and respiratory syncytial virus (RSV) among children and the aged, but 2026 data remain largely unpublished. Methods – Secondary data on SARI by age group (<2, 2-4, 5-14, 15-49, 50-64, 65+ years) and virus (Influenza A/B, RSV, SARS-CoV-2, adenovirus, rhinovirus, bocavirus, and metapneumovirus) were retrieved for 35 weeks of 2026. Weekly variations in infection rate (IR) and mortality rate (MR) were described by virus and age group. Case fatality ",
+    "date": "2026-10-05",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42831065",
+    "title": "Prevalence of SARS-CoV2 in Communities Surrounding Bwindi-Mgahinga Mountain Gorilla Conservation Area, Uganda",
+    "authors": "Kungu JM, Neumbe J, Kiganira DB et al.",
+    "journal": "",
+    "published_date": "2026-10-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831065/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42831065",
+    "summary": "<h4>Background</h4>Mountain gorillas are endangered primates that share approximately 99% of their DNA with humans. Consequently, they may be susceptible to infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV2), the virus that causes coronavirus disease 2019 (COVID-19). Understanding the burden of infection of human populations in the surroundings of these endangered species is critical to assess the potential risk of spillover. This study aimed to determine the prevalence of SARS-CoV2 and its associated risk factors in communities surrounding the Bwindi-Mgahinga Conservat",
+    "date": "2026-10-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -167,6 +1064,58 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42811742",
+    "title": "Real-world evaluation of 2023-2024 XBB.1.5 mRNA and protein-based COVID-19 vaccine reactogenicity from the randomized BEEHIVE trial",
+    "authors": "Yoon SK, Phillips AL, Zhao H et al.",
+    "journal": "",
+    "published_date": "2026-09-29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811742/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42811742",
+    "summary": "The objective of this analysis was to assess reactogenicity profile differences between a protein- and mRNA-based COVID-19 vaccine in participants who had previously received ≥2 doses of an mRNA-based vaccine in a real-world, double-blinded, randomized, controlled trial. In the BEEHIVE/NCT06065176 trial (ClinicalTrials.gov: NCT06065176), participants randomized 1:1 received one dose of the Novavax (NVX) or Pfizer-BioNTech (PFZ) COVID-19 vaccine 2023-2024 formulation (XBB.1.5); a comparator group did not receive a dose. Electronic surveys collected solicited systemic (fatigue, fever, headache, ",
+    "date": "2026-09-29",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42806698",
+    "title": "Comorbidities increase the severity of COVID-19: an analysis and epidemiological study conducted in Algeria",
+    "authors": "Akacha M, Khenchouche A, Amrane M et al.",
+    "journal": "",
+    "published_date": "2026-09-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806698/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42806698",
+    "summary": "The COVID-19 pandemic revealed the importance of pre-existing conditions, or comorbidities, as major predictors of disease severity and mortality worldwide. In this context, the major goal of this study was to examine the impact of common comorbidities on the clinical outcomes of COVID-19 patients in Sétif, Algeria, as well as to evaluate the local epidemiological risk profile. We conducted a thorough analysis of 12,932 COVID-19 participants in the Sétif community, focusing on the prevalence and impact of many illnesses, most notably diabetes, cardiovascular disease (CVD), and hypertension. We",
+    "date": "2026-09-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_1d325637c89be3a5",
     "title": "2026–27 Flu, COVID-19 and RSV Vaccine Recommendations - Johns Hopkins Medicine",
     "authors": "Johns Hopkins Medicine",
@@ -188,6 +1137,394 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1326224",
+    "title": "Childhood and adolescent immunisation intentions post-COVID-19 in Lusaka, Zambia",
+    "authors": "Nyasa M, Sharma A, Kerkhoff AD et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-23",
+    "url": "https://europepmc.org/article/PPR/PPR1326224",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  Since the COVID-19 pandemic, parental delays and refusals of well-established, safe, and effective childhood vaccinations have contributed to the resurgence of infectious diseases. This raises concerns that COVID-19 vaccine hesitancy may also extend to novel vaccines for children when introduced in the future. This study examined caregivers’, who included healthcare workers (HCWs), perceptions of novel vaccinations for children ages 0-17 years old and intentions to vaccinate children and adolescents ages 12-17 years against COVID-19. <h4>Methods</h4>  We conducted a second",
+    "date": "2026-09-23",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1324995",
+    "title": "Immunogenicity and vaccine effectiveness of COVID-19 vaccines in people on immunosuppressive therapies",
+    "authors": "Stadler E, Khan SR, Elias KM et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-22",
+    "url": "https://europepmc.org/article/PPR/PPR1324995",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Neutralizing antibodies are a correlate of protection (CoP) of SARS-CoV-2 vaccine efficacy. However, data informing CoPs often explicitly exclude people on immunosuppressive therapies who are at an increased risk of symptomatic and severe COVID-19, delayed viral clearance, and death. Investigating the relationship between antibodies and protection for people on immunosuppressive therapies could provide insights into mechanisms of protection. We performed a systematic search to identify studies reporting SARS-CoV-2 binding antibody levels after mRNA vaccination in people with hematological mali",
+    "date": "2026-09-22",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1324554",
+    "title": "Immune determinants of cellular and humoral non-responsiveness to mRNA/LNP vaccination in immunocompromised individuals",
+    "authors": "Provine NM, Murray S, Rolt J et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-22",
+    "url": "https://europepmc.org/article/PPR/PPR1324554",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Vaccine failure in patients with secondary immunodeficiencies (SIs) is associated with severe infections and mortality. To define a mechanistic basis for this, we applied an integrated multi-omic and functional approach to dissect vaccine responses pre- and post- booster (third dose) COVID-19 mRNA/LNP vaccination from 217 individuals comprising ten clinically distinct SI groups with variable antibody and T cell response rates after vaccination and healthy controls. The mechanisms of antibody impairment differed across SI groups and included reduced B cell frequency,",
+    "date": "2026-09-22",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42835682",
+    "title": "A vaccination model for COVID-19 with asymptomatic transmission, waning immunity, and outbreak calibration",
+    "authors": "Tan Y, Cai Y, Wang W",
+    "journal": "",
+    "published_date": "2026-09-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835682/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42835682",
+    "summary": "The COVID-19 pandemic has posed unprecedented challenges to global public health, revealing critical gaps in our understanding of transmission dynamics, particularly the roles of asymptomatic spread and waning immunity. To address these gaps, we develop a mathematical model of COVID-19 transmission that incorporates asymptomatic and symptomatic pathways, vaccination dynamics, and the waning of both vaccine-induced and naturally acquired immunity. The basic reproduction number R0 is derived and decomposed into three transmission pathways: direct asymptomatic transmission, direct symptomatic tra",
+    "date": "2026-09-21",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1323977",
+    "title": "Immune responses and predictors of SARS-CoV-2 infection following a fourth dose of mRNA or protein-based COVID-19 vaccines",
+    "authors": "Licciardi P, Ong D, Mazarakis N et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-21",
+    "url": "https://europepmc.org/article/PPR/PPR1323977",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Evidence on immune responses following SARS-CoV-2 infection in individuals boosted with mRNA or protein vaccines are limited. We examined the immune responses following SARS-CoV-2 infection and evaluated immunological markers associated with infection among adults who received a fourth dose of either a bivalent mRNA COVID-19 vaccine (Moderna), an ancestral protein-based vaccine (Novavax), or no fourth dose. Of 496 participants, 153 (30.8%; Moderna n = 57, Novavax n = 52, control n = 44) self-reported at least one infection over 12 months. Serum samples collected at ",
+    "date": "2026-09-21",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1323556",
+    "title": "Routine Adult Immunisation in This Post Pandemic Phase: Behavioural and Social Drivers, Uptake–Intention Differences, and Age-Related Patterns Among Older Australians",
+    "authors": "Wiblin S, Kunasekaran M, MacIntyre CR et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-09-20",
+    "url": "https://europepmc.org/article/PPR/PPR1323556",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> /Objectives: Australia has entered a post-pandemic phase in which COVID-19 vaccination is increasingly delivered alongside routine adult immunisation. However, older adults aged 60 years and above are not a homogeneous behavioural population. This study examined vaccine uptake, future intention, behavioural and social drivers, preferred vaccination settings, and age-band heterogeneity among older Australians, with a specific focus on whether age-disaggregated analyses identify policy-relevant variation in reported vaccination intention. <h4>Methods:</h4> A national cross-",
+    "date": "2026-09-20",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1323014",
+    "title": "A Universal Host-Directed Antiviral Platform: Unifying the p53/p21/NRF2 Axis, miR-34a/145/24-3p Epigenetic Switch, and Autophagy-Independent p62 Pan-Viral Restriction",
+    "authors": "Lakshmanane B",
+    "journal": "Research Square",
+    "published_date": "2026-09-20",
+    "url": "https://europepmc.org/article/PPR/PPR1323014",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  Rapidly mutating viral pathogens—spanning positive-sense single-stranded RNA viruses (SARS-CoV-2, HCoV-229E, HCoV-OC43, PEDV), negative-sense single-stranded RNA viruses (Influenza A virus), and double-stranded DNA viruses (Herpes Simplex virus 1, Vaccinia virus)—routinely evade direct-acting antivirals and host immunizations. Here, we present a unified, host-directed therapeutic platform that engages master homeostatic regulators to simultaneously suppress viral entry receptors, arrest pro-viral metabolic cascades, and activate broad-spectrum cellular restriction",
+    "date": "2026-09-20",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1322953",
+    "title": "Efficacy and Safety of Live Attenuated COVID-19 Vaccine Candidate Based on Omicron-Like Temperature-Sensitive Mutant in Preclinical Study",
+    "authors": "Faizuloev E, Gracheva A, Korchevaya E et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-09-18",
+    "url": "https://europepmc.org/article/PPR/PPR1322953",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> /Objectives: Although the COVID-19 pandemic has ended, emerging SARS-CoV-2 variants remain a future threat. This study evaluated the safety and efficacy of an intranasal live attenuated vaccine (LAV) prototype based on a temperature-sensitive (ts) Omicron-like SARS-CoV-2 mutant in a Syrian hamster COVID-19 model. <h4>Methods:</h4> SARS-CoV-2 Dubrovka (Wuhan-like), Otradnoe (BA.1.1) and FEB2 (BA.5.2) strains and the ts F-F3 mutant derived from FEB2 were characterized by electron microscopy, nanopore sequencing, cytopathic effect titration, and RT-PCR. In vitro studies used",
+    "date": "2026-09-18",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1320939",
+    "title": "Separating the effects of immune waning and viral evolution on COVID-19 vaccine effectiveness reveals improved effectiveness of updated vaccines",
+    "authors": "Jin W, Mitchell A, Stadler E et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-15",
+    "url": "https://europepmc.org/article/PPR/PPR1320939",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "The continued evolution of SARS-CoV-2 has led to regular updates of the COVID-19 vaccine immunogen. However, the exact benefits of these updates for vaccine effectiveness in a real world context are difficult to evaluate. We performed a comprehensive meta-analysis of booster vaccine effectiveness in studies identified through the ViewHub systematic review. We integrated evidence from 44 studies reporting on effectiveness of mRNA booster vaccines containing XBB.1.5, JN.1 and KP.2 immunogens to assess the combined impact of booster immunogen, time since vaccination and calendar time at which a s",
+    "date": "2026-09-15",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1320926",
+    "title": "Effectiveness of 2025 bi-annual COVID-19 vaccination campaigns against hospitalisation in England",
+    "authors": "Aziz NA, Allen A, Andrews N",
+    "journal": "medRxiv",
+    "published_date": "2026-09-15",
+    "url": "https://europepmc.org/article/PPR/PPR1320926",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  In 2025, COVID-19 vaccination programmes in England targeted adults aged ≥75 years and immunosuppressed individuals, with JN.1-based vaccines offered in spring and KP.2-based vaccines offered in autumn. This study evaluated vaccine effectiveness (VE) against COVID-19 hospitalisation following these campaigns and assessed VE in immunosuppressed populations. <h4>Methods</h4>  VE against COVID-19 hospitalisation in adults aged ≥75 years following the 2025 spring JN.1 and autumn KP.2 vaccination campaigns was estimated using a test-negative case-control design. Logistic regres",
+    "date": "2026-09-15",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1318850",
+    "title": "COVID-19 Response Effectiveness and Economic Resilience  Health and Economic Outcomes Across 20 Countries (2020–2022)",
+    "authors": "Dhanda K",
+    "journal": "Research Square",
+    "published_date": "2026-09-14",
+    "url": "https://europepmc.org/article/PPR/PPR1318850",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  We compare 20 countries and economies on their joint performance during the COVID-19 pandemic (2020–2022) along two axes: limiting mortality and limiting economic damage. We build a 100- point Composite Pandemic Performance Index (CPPI) from four equally weighted dimensions — Health Outcome (excess mortality), Healthcare Performance (vaccination speed), Economic Impact (GDP contraction and peak unemployment), and Recovery Speed (quarters to regain pre-pandemic GDP) — using min–max normalisation of data from the World Health Organization (WHO), the In- ternational ",
+    "date": "2026-09-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1318782",
+    "title": "Relative efficacy, safety and immunogenicity of bivalent versus monovalent COVID-19 mRNA booster vaccines: a randomized trial",
+    "authors": "Dadabhai S, Samandari T, Zhang B et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-14",
+    "url": "https://europepmc.org/article/PPR/PPR1318782",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>The relative efficacy, safety, and immunogenicity of monovalent mRNA-1273 (ancestral WA1) versus bivalent mRNA-1273.222 (ancestral plus omicron BA.4/BA.5) boosting have not been studied prospectively where HIV and SARS-CoV-2 seroprevalence are high. CoVPN 3008 (NCT05168813) was a randomized, double-blinded trial in seven African countries during omicron waves, enrolling people with HIV (PWH) or comorbidities associated with severe COVID-19 who had previously received mRNA-1273. Participants were randomized 1:1 to intramuscular monovalent or bivalent booster and rout",
+    "date": "2026-09-14",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1318364",
+    "title": "The impact of an ageing population on pandemic risk in England",
+    "authors": "Rawson T, Perez-Guzman PN, Knock ES et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-13",
+    "url": "https://europepmc.org/article/PPR/PPR1318364",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Summary</h4>  <h4>Background</h4>  England’s population is ageing rapidly, with those aged 80 years and older projected to increase 85% by 2047. Aging populations may change the dynamics of future pandemics, since older individuals face higher risks of severe outcomes and require a disproportionate share of early vaccine supply, for certain respiratory infections, despite having fewer social contacts. The net pandemic-risk implications of these competing effects cannot be resolved without dynamic transmission modelling. <h4>Methods</h4>  We used an age-structured stochastic SARS-CoV-2 tran",
+    "date": "2026-09-13",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1318142",
+    "title": "Healthy vaccinee effect in SARS-CoV-2 vaccinees without documented infection",
+    "authors": "Riedmann U, Brenner H, Ioannidis JP et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-11",
+    "url": "https://europepmc.org/article/PPR/PPR1318142",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>ABSTRACT</h4>  <h4>Importance</h4>  Estimates of SARS-CoV-2 vaccine effectiveness (VE) from observational studies may be biased if healthier (healthy vaccinee effect; HVE) or less healthy individuals are preferentially vaccinated. Quantifying HVE is essential for interpreting VE estimates for informed vaccination policy. <h4>Objective</h4>  To assess the HVE by comparing all-cause mortality, cancer mortality, and deaths from external causes between vaccinated and unvaccinated individuals. <h4>Design, Setting, and Participants</h4>  This nationwide retrospective cohort study used Austrian n",
+    "date": "2026-09-11",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1318119",
+    "title": "Longitudinal antibody correlates of SARS-CoV-2 infection in a US household cohort during Omicron waves",
+    "authors": "Yang Y, Callear A, Smith M et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-11",
+    "url": "https://europepmc.org/article/PPR/PPR1318119",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  SARS-CoV-2 vaccines have been updated based on circulating variants and the antibody protection from prior vaccination and infection against emerging variants. We evaluated longitudinal antibody correlates of SARS-CoV-2 infection risk during Omicron waves. <h4>Methods</h4>  We used data from a longitudinal cohort study from 2021 through 2025 with prospective surveillance for acute respiratory illness, and repeated blood collection. A subset of participants also provided weekly respiratory specimens to identify asymptomatic infections. Serum samples were tested using multip",
+    "date": "2026-09-11",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -217,6 +1554,31 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1316933",
+    "title": "Risk of acute gastroenteritis following COVID-19 exposure: a retrospective population-based analysis conducted in England",
+    "authors": "Hawkings MJ, Hughes DM, Elliot AJ et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-09",
+    "url": "https://europepmc.org/article/PPR/PPR1316933",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  Severe COVID-19 is associated with immune dysregulation, microbiome disruption, and increased vulnerability to secondary infections. However, the longer-term risk of acute gastroenteritis (AGE) following COVID-19 remains poorly studied. We compared AGE incidence among community-managed and hospitalised COVID-19 patients with test-negative controls and hospitalised sepsis patients. <h4>Methods</h4>  We conducted a retrospective cohort study using electronic healthcare data. Patients with a recorded SARS-CoV-2 PCR test between 01 March 2020 and 01 March 2022 were allocated t",
+    "date": "2026-09-09",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_493d78caa4e0ec11",
     "title": "What you need to know about the 2026-27 COVID-19 vaccine and flu shots - UCHealth",
     "authors": "UCHealth",
@@ -242,6 +1604,134 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1315977",
+    "title": "The COVID-19 Trajectory in Israel: A Comprehensive Analysis of National Surveillance Data on Documented Infections, Test Positivity, and Vaccine-Effectiveness Estimates",
+    "authors": "Ophir Y",
+    "journal": "medRxiv",
+    "published_date": "2026-09-08",
+    "url": "https://europepmc.org/article/PPR/PPR1315977",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  Israel was among the first countries to implement nationwide BNT162b2 vaccination and became an important source of real-world evidence during the COVID-19 pandemic. The present study aimed to characterize the long-term national epidemic trajectory and the evolution of vaccination-associated differences in documented infection across the course of the pandemic. <h4>Methods</h4>  Five Israeli Ministry of Health datasets were analyzed from February 2020 through May 2023. National trends in documented infection and test positivity were characterized. Vaccinated– unvaccinated ",
+    "date": "2026-09-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1315970",
+    "title": "Experimental validation of computationally prioritized bisphosphonates reveals no direct  <i>in vitro</i>  antiviral activity against SARS-CoV-2",
+    "authors": "Muzaffar-Ur-Rehman M, Olliff S, McAuley AJ et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-09-08",
+    "url": "https://europepmc.org/article/PPR/PPR1315970",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "It is essential to experimentally evaluate antiviral efficacy predicted by molecular docking and related  in silico approaches, which this study achieves for three bisphosphonates (alendronate, minodronate, zoledronate) and treprostinil, identified as potential antiviral therapies in our previous work. These investigational compounds had no detectable cytotoxicity at concentrations up to 25µM in Vero E6 cells but also failed to show any antiviral effect against the PQ.8.1 isolate of SARS-CoV-2, when compared to control drugs (ensitrelvir, nirmatrelvir and remdesivir). It appears that for bisph",
+    "date": "2026-09-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1314693",
+    "title": "An oncolytic reovirus-based platform amenable to oral vaccination",
+    "authors": "Pashangzadeh S, Xiang X, Martin N et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-08",
+    "url": "https://europepmc.org/article/PPR/PPR1314693",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>A major challenge in vaccine development is achieving durable systemic and mucosal immunity through non-invasive delivery while maintaining safety and tolerability. Here, we introduce a live-attenuated Reovirus Type 3 Dearing (T3D) platform that elicits robust immune responses when delivered by multiple delivery routes, particularly oral administration. By replacing the JAM-A binding domain of the σ1 attachment protein with structurally diverse antigens, including ovalbumin (OVA) and the receptor-binding domain (RBD) of SARS-CoV-2, we created a vaccination platform ",
+    "date": "2026-09-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42830752",
+    "title": "Trends in respiratory virus positivity across urban and rural hospitals in Ontario over three seasons",
+    "authors": "Deng R, Mendlowitz A, Katz K et al.",
+    "journal": "",
+    "published_date": "2026-09-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830752/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42830752",
+    "summary": "<h4>Objectives</h4>Respiratory viruses are a global health burden. While influenza has been a large focus of surveillance, non-influenza viruses remain understudied in Canada, leaving gaps in understanding their seasonal patterns and epidemiology. The coronavirus disease 2019 pandemic further disrupted typical virus seasonality, highlighting the urgent need for expanded surveillance to track evolving trends.<h4>Methods</h4>A multicenter retrospective analysis of molecular testing data for 15 respiratory viruses was conducted on tests performed over three consecutive respiratory virus seasons. ",
+    "date": "2026-09-04",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1311435",
+    "title": "Reducing immunization inequities among zero-dose and under-vaccinated children through catch-up vaccination in Burkina Faso: findings from a mixed-method evaluation of the Big Catch-Up initiative, 2023–2025",
+    "authors": "ZONGO A, DIALLO H, DADJO CH et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-03",
+    "url": "https://europepmc.org/article/PPR/PPR1311435",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  <bold>Background</bold>  The COVID-19 pandemic and persistent insecurity have exacerbated inequalities in access to immunization in Burkina Faso, leading to an increase in the number of zero-dose and under-vaccinated children, particularly in hard-to-reach areas. In response, the country launched the Big Catch-Up initiative (2023–2025) to catch up children aged 12–59 months, restore immunization coverage, and strengthen routine immunization services. Six vaccines were used: measles-rubella (MR), yellow fever, bivalent oral poliovirus vaccine (bOPV), meningococcal ",
+    "date": "2026-09-03",
+    "policy_area": [
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_9042e45a181c952e",
     "title": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall - CNN",
     "authors": "CNN",
@@ -263,6 +1753,60 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1311029",
+    "title": "Impaired memory B-cell formation after mRNA-based COVID-19 booster vaccination in patients with inflammatory bowel disease receiving anti-TNF treatment",
+    "authors": "Gill PA, Bradbury LR, Wang A et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-02",
+    "url": "https://europepmc.org/article/PPR/PPR1311029",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>ABSTRACT</h4>  <h4>Background</h4>  Patients receiving anti-TNF treatment for chronic inflammatory disease display impaired antibody responses, but it remains unclear how immune memory formation is affected. We evaluated antibody responses and memory B cells (Bmem) after COVID-19 booster vaccination in inflammatory bowel disease (IBD) patients receiving anti-TNF treatment. <h4>Methodology</h4>  Blood was sampled at baseline, 1, and 6 months after WH1/BA.5 bivalent or XBB.1.5 monovalent vaccination from 27 IBD patients receiving intravenous anti-TNF and 44 controls. Neutralizing antibodies ",
+    "date": "2026-09-02",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1309141",
+    "title": "Leave no one behind: Global Analysis on monitoring childhood vaccination timeliness and catch-up using data from the WHO/UNICEF joint reporting form on Immunization",
+    "authors": "Danovaro-Holliday MC, Castro-Aguirre I, Koh M et al.",
+    "journal": "Gates Open Res",
+    "published_date": "2026-09-01",
+    "url": "https://europepmc.org/article/PPR/PPR1309141",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "In the years following the Covid-19 pandemic, immunization programmes have increasingly focused on the capacity to conduct and monitor catch-up vaccination—for doses administered later than the recommended schedule. However, it is unclear whether information systems are able to monitor delayed vaccination. We analyzed WHO/UNICEF Joint Reporting Form data from 194 countries (2016–2022) to understand if systems for tracking delayed childhood vaccination are available and quantify catch-up doses of the first dose of a measles-containing vaccine (MCV1). For Latin American and Caribbean countries, ",
+    "date": "2026-09-01",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -297,6 +1841,630 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1308781",
+    "title": "Behavioral effects of anti-pandemic preventive measures: a VR study",
+    "authors": "DeStefani S, Sohn SS, Schartz M et al.",
+    "journal": "PsyArXiv",
+    "published_date": "2026-08-31",
+    "url": "https://europepmc.org/article/PPR/PPR1308781",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<p>During the COVID-19 pandemic, a variety of public health measures aimed at decreasing transmission between people sharing public spaces, including social distancing and the use of face masks. However the behavioral consequences of these policies on human navigation are mostly unknown. Using virtual reality, we investigated how some common preventive measures influenced how people navigate near other people. Participants (N=29) traversed virtual rooms containing virtual people(“agents”) while we manipulated their mask status, the mask status of the agents, and the perceived environmental saf",
+    "date": "2026-08-31",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42669355",
+    "title": "Validation of SARS-CoV-2 neutralization assay using VSV-based pseudovirus system",
+    "authors": "Artarini A, Tan MI, Giri-Rachman EA et al.",
+    "journal": "",
+    "published_date": "2026-08-30",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42669355/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42669355",
+    "summary": "The gold standard for SARS-CoV-2 neutralization assays involves wild-type virus, which requires Biosafety Level 3 (BSL-3) containment. To improve safety and accessibility, pseudovirus-based neutralization assays utilizing non-replicating particles like Vesicular Stomatitis Virus (VSV) expressing the SARS-CoV-2 spike protein can be conducted under BSL-2 conditions. This study aimed to perform the analytical validation of a VSV-based pseudovirus system for SARS-CoV-2 using recombinant monoclonal antibody. Pseudo-VSV carrying SARS-CoV-2 Spike proteins were produced using LentiX-293T cells. The as",
+    "date": "2026-08-30",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42725043",
+    "title": "Respiratory pandemic risk in the Anthropocene: A One Health framework and GISRS+ agenda",
+    "authors": "Lee JM, Kim HO, Kim YJ et al.",
+    "journal": "",
+    "published_date": "2026-08-29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42725043/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42725043",
+    "summary": "Recent epidemics and pandemics caused by respiratory viruses, alongside the animal panzootic spread of highly pathogenic avian influenza A(H5Nx), have become a structural feature of the Anthropocene, yet responses remain largely reactive. This review integrates findings from WHO's Global Influenza Surveillance and Response System (GISRS) and related surveillance data (2000-2024), epidemiological studies of influenza A virus, SARS-CoV, MERS-CoV, SARS-CoV-2, and H5Nx, and One Health literature. We examine major groups of respiratory viruses and identify mismatches between risk and surveillance b",
+    "date": "2026-08-29",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1307947",
+    "title": "“Health is Wealth”: co-designing and piloting a respiratory winter preparedness intervention with a Samoan church community in Aotearoa New Zealand",
+    "authors": "Marsh S, Turner N, Dowell T et al.",
+    "journal": "Research Square",
+    "published_date": "2026-08-29",
+    "url": "https://europepmc.org/article/PPR/PPR1307947",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>In Aotearoa New Zealand respiratory infections disproportionately burden Samoan communities. Community-based initiatives involving Samoan church groups demonstrated effectiveness during COVID-19, highlighting the potential of faith-based partnerships. Following a local church's request, a community-research partnership was formed to co-design a respiratory winter preparedness conference. The conference integrated Samoan language, culturally tailored health education, and on-site primary care services (e.g. free vaccines). Feasibility was evaluated through pre- and p",
+    "date": "2026-08-29",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1308117",
+    "title": "Mucosal vaccine-elicited IgA is protective against zoonotic Betacoronavirus challenge",
+    "authors": "Seo J, Buck E, Machani B et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-08-28",
+    "url": "https://europepmc.org/article/PPR/PPR1308117",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Current vaccines for respiratory viruses are primarily administered intramuscularly. Messenger RNA-lipid nanoparticle (LNP)-based intramuscular vaccination for respiratory coronaviruses induces strong systemic IgG antibody responses; they do not consistently elicit IgA in the upper and lower respiratory tracts. Using a synthetic consensus spike protein aimed to broadening immunity against SARS-like viruses, SarbConS, coupled to ferritin nanoparticles co-delivered with mastoparan-7 and an FDA-approved CpG adjuvant, we intranasally boost SARS-CoV-2-immune animals. This intranasal boosting strate",
+    "date": "2026-08-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1307744",
+    "title": "Factors associated with vaccination against Seasonal Influenza and SARS-CoV-2 in the UK among FluSurvey participants, 2023-2025",
+    "authors": "Adams L, Watson C, Dabrera G et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-08-28",
+    "url": "https://europepmc.org/article/PPR/PPR1307744",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Seasonal Influenza and COVID-19 vaccination programmes are critical for reducing morbidity and mortality in older adults, yet uptake remains uneven across populations. We aimed to profile vaccination attitudes and examine predictors of COVID-19/influenza vaccination uptake among a UK participatory surveillance system - FluSurvey. We analysed FluSurvey data from participants aged ≥65 years who were eligible for both vaccines in the 2023–2024 and 2024–2025 Autumn – Winter seasonal campaigns. Descriptive analyses examined self-reported attitudes to influenza vaccination. Logistic regression exami",
+    "date": "2026-08-28",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42647564",
+    "title": "Safety and immunogenicity of an mRNA COVID-19 vaccine administered to adults: A phase 2, randomized, active-controlled trial",
+    "authors": "Wong R, Kuznetsova A, Baba E et al.",
+    "journal": "",
+    "published_date": "2026-08-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42647564/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42647564",
+    "summary": "We conducted a phase 2, randomized, active-controlled, observer-blind study (NCT05960097) among healthy adults ≥18 y of age who completed a primary COVID-19 mRNA vaccination series, with or without a booster, ≥3 months earlier. Participants were randomized (1:1:1:1:1) to either receive an investigational bivalent mRNA COVID-19 vaccine encoding ancestral D614G and Omicron BA.4-5 spike proteins (CV0701 mRNA vaccine) at one of three dose levels, an investigational monovalent mRNA COVID-19 vaccine encoding the Omicron BA.4-5 spike protein (CV0601 mRNA vaccine), or a licensed Original Wuhan/Omicron",
+    "date": "2026-08-26",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1304299",
+    "title": "Persistent All-Cause Excess Mortality Observed in Japan After the COVID-19 Pandemic",
+    "authors": "Kojima S, Gibo M, Fujikawa K",
+    "journal": "Preprints.org",
+    "published_date": "2026-08-24",
+    "url": "https://europepmc.org/article/PPR/PPR1304299",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Introduction: </h4> Following the end of the COVID-19 pandemic, excess mortality rates declined in many countries. However, Japan’s excess mortality rate remained elevated even in 2024. Most countries have stopped administering booster vaccines on a large scale; however, Japan continues to recommend COVID-19 vaccination for elderly individuals, and its booster vaccination per capita rate is the highest in the world. This study attempted to identify the variables related to excess mortality rates during and after the pandemic. <h4>Methods:</h4> The age-adjusted numbers of deaths and excess ",
+    "date": "2026-08-24",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1304064",
+    "title": "Sample sizes to achieve multiple surveillance objectives in primary care sentinel systems monitoring respiratory pathogens: a simulation approach",
+    "authors": "Presanis AM, Nyberg T, Rolfes MA et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-08-23",
+    "url": "https://europepmc.org/article/PPR/PPR1304064",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Influenza surveillance has typically been carried out using influenza-like illness (ILI) rates and proportions of laboratory tests positive for influenza as metrics to monitor, with sample sizes for the number of tests to carry out based on the precision of the resulting estimate of proportions positive. The transition out of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) pandemic period has encouraged the establishment of integrated surveillance of respiratory pathogens, in the context of multiple surveillance objectives, as set out by WHO in its revised integrated surveilla",
+    "date": "2026-08-23",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42632078",
+    "title": "Effectiveness of coronavirus disease 2019 (COVID-19) original vaccines to prevent COVID-19-related hospitalisations among Alaska Native peoples, January 2021-October 2022",
+    "authors": "Blake I, Singleton R, Bruden D et al.",
+    "journal": "",
+    "published_date": "2026-08-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632078/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42632078",
+    "summary": "American Indian/Alaska Native (AI/AN) peoples experienced some of the highest rates of coronavirus disease 2019 (COVID-19) disease in the United States. However, there are limited data on COVID-19 vaccine effectiveness in this population. We performed a test-negative case‒control study using electronic health record data to evaluate the effectiveness of the original three FDA-authorised vaccines to prevent COVID-19-associated hospitalisations among AI/AN adults during 2021-2022. COVID-19 vaccines were effective in preventing COVID-19-associated hospitalisation, intensive care unit admission, m",
+    "date": "2026-08-22",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1303130",
+    "title": "Aberrant B cell differentiation with reduced hypermutation limits humoral response maintenance and breadth in cancer patients",
+    "authors": "Oh JE, Lee KS, Lee E et al.",
+    "journal": "Research Square",
+    "published_date": "2026-08-22",
+    "url": "https://europepmc.org/article/PPR/PPR1303130",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Patients with solid cancers exhibit impaired humoral immunity, yet the underlying B cell–intrinsic mechanisms remain incompletely characterized. Here, we leveraged longitudinal SARS-CoV-2 vaccination as a model of defined antigen exposure to dissect B cell responses in cancer patients. Despite preserved early expansion following booster vaccination, cancer patients failed to sustain long-term durability and variant breadth of antigen-specific B cell responses. This defect was associated with reduced resting-memory (CD21⁺CD27⁺) and germinal center–derived (CD27⁺IgG⁺)",
+    "date": "2026-08-22",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1303404",
+    "title": "Biological Mechanisms Linking COVID-19 Vaccination and Autoimmune Disorders: A Qualitative Analysis of Interpretive Consistency",
+    "authors": "Chaufan C, Mohamed A, Zhang N",
+    "journal": "Preprints.org",
+    "published_date": "2026-08-21",
+    "url": "https://europepmc.org/article/PPR/PPR1303404",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Autoimmune outcomes following Covid-19 vaccination have been reported across the biomedical literature, yet their interpretation remains contested. While biological mechanisms linking vaccination to autoimmune outcomes have been proposed, little attention has been paid to how these mechanisms are incorporated into authors’ conclusions. <h4>Methods:</h4> This study reports Phase 1 of a two-phase qualitative, document-based analysis of interpretive practices in the biomedical literature on Covid-19 vaccination and autoimmune disorders. The analytic corpus was drawn from a p",
+    "date": "2026-08-21",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1301771",
+    "title": "A human-informed multi-patch T-cell vaccine induces broad CD8⁺ immunity and protects against SARS-CoV-2 infection",
+    "authors": "Sin L, Marcos-Villar L, Perdiguero B et al.",
+    "journal": "Research Square",
+    "published_date": "2026-08-20",
+    "url": "https://europepmc.org/article/PPR/PPR1301771",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  The emergence of SARS-CoV-2 variants has highlighted the need for vaccines that complement Spike-directed immunity by targeting conserved T-cell responses. Here, we developed CoV2-TMEPu, a human-informed multi-patch immunogen integrating conserved and naturally immunodominant regions from structural, accessory and replication-associated SARS-CoV-2 proteins into a single mRNA-lipid nanoparticle (LNP) vaccine. LNP-CoV2-TMEPu was efficiently expressed  <italic>in vitro</italic>  and induced early innate immune activation. Homologous prime-boost immunization elicited ",
+    "date": "2026-08-20",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1301530",
+    "title": "Structural and mutational analyses define distinct molecular routes to broad SARS-CoV-2 receptor-binding domain recognition",
+    "authors": "Abernathy ME, Foreman WB, Lopez JA et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-08-18",
+    "url": "https://europepmc.org/article/PPR/PPR1301530",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>ABSTRACT</h4>  Broadly reactive antibodies elicited by SARS-CoV-2 infection or vaccination can reveal conserved viral vulnerabilities and inform vaccines with broad coronavirus coverage. Here, we characterize two human-derived monoclonal antibodies, B2014 and C5078, that recognize conserved epitopes on the SARS-CoV-2 RBD and retain activity across antigenically distinct variants. Notably, C5078 also recognizes diverse sarbecoviruses and remains active against currently circulating variants, including XFG and NB.1.8.1. Cryo-EM structures reveal that B2014 recognizes an epitope adjacent to t",
+    "date": "2026-08-18",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1300711",
+    "title": "Conflicts of Interest in Medicine: From Individual Clinical Management to Population-Level Governance",
+    "authors": "Kusunoki H",
+    "journal": "Preprints.org",
+    "published_date": "2026-08-18",
+    "url": "https://europepmc.org/article/PPR/PPR1300711",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Conflicts of interest (COI) in medicine are often discussed as a general threat to the integrity of clinical practice and health policy. However, their implications may differ substantially according to the level and reversibility of the decisions involved. This opinion article examines this distinction by comparing COI in the management of lifestyle-related diseases with those arising in infectious disease policy, particularly during the COVID-19 pandemic. In routine clinical care, potential biases in guideline development or pharmaceutical relationships do not necessarily negate the establis",
+    "date": "2026-08-18",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1300609",
+    "title": "Convergent IGHV3-53/3-66 antibodies elicited by Omicron BA.1 infection broadly neutralize emerging SARS-CoV-2 variants",
+    "authors": "Suryadevara N, Zost SJ, Powers JM et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-08-17",
+    "url": "https://europepmc.org/article/PPR/PPR1300609",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Summary</h4>  Natural SARS-CoV-2 infections or vaccinations induce neutralizing antibodies (nAbs) offer protection from severe disease. The shared use of  IGHV3-53/3-66 genes makes this class of monoclonal antibodies (mAbs) a public clonotype and is well established, but the evolution and structural basis of how these public antibodies maintain broad binding and acquire potent neutralizing activity is not completely understood. To understand how these features are facilitated by the  IGHV3-53/3-66 germline segments and enhanced by somatic mutations, we investigated the biology of a panel o",
+    "date": "2026-08-17",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1298876",
+    "title": "Vaccine imprinting drives increased SARS-CoV-2 variant infection in children",
+    "authors": "Johnston TS, Subramanian R, Benhamou W et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-08-13",
+    "url": "https://europepmc.org/article/PPR/PPR1298876",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Virus exposure history, particularly first exposure, is believed to shape vaccine efficacy and infection susceptibility; however, evidence for mechanistic links between immune responses in individuals and epidemiological outcome in populations is scarce. Recent co-circulation of SARS-CoV-2 variants XFG and BA.3.2 has revealed a striking enrichment in BA.3.2 cases among children. By combining epidemiological modeling, serology and monoclonal antibody analysis in children and adults, we show the dependence of effective variant-specific antibodies on vaccination history which may explain birth-ye",
+    "date": "2026-08-13",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1297706",
+    "title": "Association of Measles IgG Antibody Titers with Thoracic CT Severity in Hospitalized Patients with COVID-19",
+    "authors": "Esen B, Saglam E, Savas A et al.",
+    "journal": "Research Square",
+    "published_date": "2026-08-13",
+    "url": "https://europepmc.org/article/PPR/PPR1297706",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Background  Coronavirus disease 2019 (COVID-19) has a broad clinical spectrum ranging from mild respiratory symptoms to severe pneumonia and death. Previous studies have suggested that pre-existing immunity against measles may influence immune responses during SARS-CoV-2 infection; however, the clinical significance of anti-measles IgG titers in COVID-19 remains unclear. Therefore, we aimed to investigate the association between anti-measles IgG titers, clinical severity, COVID-19 Mortality Rate (CMR) score, intensive care unit (ICU) requirement, and mortality in ho",
+    "date": "2026-08-13",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42545256",
+    "title": "Organoid-based evaluation of SA55 and Pemivibart against evolving SARS-CoV-2 variants",
+    "authors": "Wan Z, Zhou Y, Jian F et al.",
+    "journal": "",
+    "published_date": "2026-08-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545256/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42545256",
+    "summary": "Pemivibart, a class 1/4 monoclonal antibody (mAb), is currently the only FDA-authorized SARS-CoV-2 mAb under an Emergency Use Authorization (EUA) in clinical use. The emergence of subvariants, including KP.3.1.1 and XFG, raises concerns about antibody efficacy. SA55, a fully human class 1/4 mAb, is currently under clinical trial, including a nasal spray formulation. Using the well-validated organoid-based neutralization assays, we compared the potency and breadth of Pemivibart and SA55. Our results demonstrated a significant decrease in Pemivibart's activity against KP.3.1.1 and XFG, with an a",
+    "date": "2026-08-12",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1297212",
+    "title": "Maternal Antibody Interference and Hybrid Immune Responses to COVID-19 Vaccination in Young Children",
+    "authors": "Prahl M, Swaminathan S, Bourdoud N et al.",
+    "journal": "Research Square",
+    "published_date": "2026-08-12",
+    "url": "https://europepmc.org/article/PPR/PPR1297212",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Passively transferred SARS-CoV-2 maternal antibody (MatAb) provides significant protection against COVID-19 hospitalization in infancy, however the impact of MatAb presence and prior COVID-19 infection on the immunogenicity and longitudinal durability of SARS-CoV-2 mRNA vaccination in young children, is not known. Here, we evaluate pre- and post-vaccination and longitudinal SARS-CoV-2 antibody responses of 66 young children aged six months to four years of age. We found that young children mount a robust immune response to mRNA SARS-CoV-2 vaccines regardless of prio",
+    "date": "2026-08-12",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": true,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1296655",
+    "title": "Bromhexine Prophylaxis and Pharmacologically Attenuated Natural Immunization: A New Paradigm of Host-Directed Modulation of SARS-CoV-2 and Influenza Virus Infections",
+    "authors": "Mitev V",
+    "journal": "Preprints.org",
+    "published_date": "2026-08-12",
+    "url": "https://europepmc.org/article/PPR/PPR1296655",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Bromhexine hydrochloride (BRH) is a functional inhibitor of the host serine protease TMPRSS2, a key mediator of viral entry for SARS-CoV-2, influenza A and B viruses, and other respiratory viruses that utilize TMPRSS2-mediated proteolytic activation. While most antiviral strategies aim to prevent infection or suppress viral replication, partial modulation of host-dependent viral entry may represent an alternative approach that attenuates disease severity while preserving sufficient antigen exposure for adaptive immune priming. Methods and Clinical Observations: We describ",
+    "date": "2026-08-12",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42551467",
+    "title": "Comparative immunogenicity of mRNA-1273 and BNT162b2 SARS-CoV-2 bivalent booster vaccines in US nursing home residents",
+    "authors": "Olagunju OJ, Oyebanji OA, Keresztesy D et al.",
+    "journal": "",
+    "published_date": "2026-08-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551467/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42551467",
+    "summary": "Nursing home residents (NHRs) remain among the most vulnerable to severe outcomes from SARS-CoV-2 infection. While mRNA-1273 (Spikevax, Moderna) and BNT162b2 (Comirnaty, Pfizer-BioNTech) vaccines are widely used in this population, comparative data on their immunogenicity, particularly after bivalent boosters, remain limited. We conducted a longitudinal immunologic evaluation of U.S. NHRs who received either the mRNA-1273 or BNT162b2 bivalent vaccine. Serum samples were collected 10-30 d post-vaccination. Anti-spike IgG levels were measured using a Luminex bead-based assay, and neutralizing ti",
+    "date": "2026-08-04",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42551104",
+    "title": "Pathogenicity of SARS-CoV-2 Omicron subvariants JN.1, EG.5.1, and BA.2.86.1 in immunologically naïve cynomolgus macaques",
+    "authors": "Ishigaki H, Otaki K, Kitagawa N et al.",
+    "journal": "",
+    "published_date": "2026-08-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551104/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42551104",
+    "summary": "Since the emergence of the SARS-CoV-2 Omicron variant, decreased morbidity and mortality relative to early strains have been widely reported. However, the virological characteristics of recent subvariants dominating the post-pandemic era remain to be fully elucidated. In the present study, the intrinsic pathogenicities of the Omicron subvariants JN.1, EG.5.1, and BA.2.86.1 were investigated using an immunologically naïve cynomolgus macaque model. All three variants exhibited robust replication in the upper respiratory tract, surpassing the viral titers observed with the early Wuhan strain. Omi",
+    "date": "2026-08-04",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42504085",
+    "title": "Adapted XBB.1.5 vaccine effectiveness against severe COVID-19 outcomes among immunocompromised persons in 2023-24 in six European countries: a VEBIS-EHR network study",
+    "authors": "Blake A, Humphreys J, Olson K et al.",
+    "journal": "",
+    "published_date": "2026-07-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504085/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42504085",
+    "summary": "<h4>Background</h4>We estimated the XBB.1.5 vaccine effectiveness (VE) against COVID-19 hospitalization and death in Belgium, Denmark, Italy, Portugal, Spain (Navarre), and Sweden following the 2023-24 fall vaccination campaign among immunocompromised persons (ICPs).<h4>Research design and methods</h4>We conducted a multi-country retrospective cohort study using electronic health records. Study sites identified ICPs aged ≥18 years through a common set of immunocompromising conditions and follow-up started the first day of the 2023 vaccination campaign until 12 months later. VE was calculated b",
+    "date": "2026-07-26",
+    "policy_area": [
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT07730450",
     "title": "A Study to Learn About a COVID-19 Vaccine in Healthy Adults 18 Through 64 Years of Age",
     "authors": "BioNTech SE",
@@ -323,6 +2491,192 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42820155",
+    "title": "Uneven Protection at Work During COVID-19: Union Voice, Paid Sick Leave and Safety Regimes in Ontario",
+    "authors": "Ferdosi M",
+    "journal": "",
+    "published_date": "2026-07-10",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42820155/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42820155",
+    "summary": "Using the employed subsample of a broader Ontario-wide online survey, this article compares union and non-union experiences of COVID-19 safety in 2020. We examine infection control, paid time off, anxiety, and awareness of union advocacy, using this non-probability sample for analytic generalization rather than population estimates. In this sample, union-covered respondents more often reported visible ventilation and filtration, referenced joint committees or designated representatives in their accounts, and reported more usable paid sick leave, while stress and anxiety were high in both group",
+    "date": "2026-07-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42423335",
+    "title": "T cell-associated immunity induced by heterologous recombinant BCG and purified protein vaccination confers cross-variant protection against SARS-CoV-2",
+    "authors": "Mambelli F, Gimenez AM, de Araujo ACVSC et al.",
+    "journal": "",
+    "published_date": "2026-07-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42423335/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42423335",
+    "summary": "Previously, we have developed a recombinant BCG-based vaccine (rBCG) expressing a chimeric protein with spike and nucleocapsid epitopes (rChimera) to combine BCG's innate immune training capacity with SARS-CoV-2-specific adaptive immune responses. The heterologous prime-boost rBCG/rChimera+Alum regimen induced strong humoral and cellular immunity, conferring protection against the ancestral Wuhan strain in K18-hACE2 mice. Here, we used <i>knockout</i> mice lacking functional B cells, CD4<sup>+</sup>, or CD8<sup>+</sup> T lymphocytes expressing hACE2 to uncover the mechanisms of anti-viral immu",
+    "date": "2026-07-09",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42424692",
+    "title": "Lymph node-targeted mRNA delivery of fine-tuned peptide-nanocomplexes for SARS-CoV-2 Vaccination",
+    "authors": "Jeong H, Yoon G, Lee DW et al.",
+    "journal": "",
+    "published_date": "2026-07-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42424692/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42424692",
+    "summary": "Messenger RNA (mRNA) vaccines require efficient delivery systems to reach antigen-presenting cells (APCs). Lipid nanoparticles (LNPs) are a standard delivery carrier. However, LNPs often accumulate in the liver and exhibit transient protein expression. These limitations can restrict their safety and immunogenic potential. Here, we developed a modular, peptide-based nanocomplex to overcome the current limitations. The system comprises three functional peptides: an RNA-binding peptide (RBP) for condensation, l-polyglutamic acid (PGA) for charge modulation, and an APC-targeting cell-penetrating p",
+    "date": "2026-07-07",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42436955",
+    "title": "Rapid inactivation kinetics of a broad range of viruses on a continuously self-cleaning polymer surface",
+    "authors": "Wells KM, Silva-Ayala D, Dejarnette SJ et al.",
+    "journal": "",
+    "published_date": "2026-07-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42436955/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42436955",
+    "summary": "Infections arising from a broadening variety of viruses are becoming increasingly widespread due to greater zoonotic transmission, with the COVID-19 pandemic exemplifying a global event that claimed the lives of millions worldwide. While targeted vaccines are being developed to thwart the spread of viral infections, they often become available to the public in response to an (expected) outbreak and must be repeatedly adjusted to account for mutations. An alternative to this strategy instead focuses on infection prevention by inactivating viruses prior to human exposure. In this study, we exami",
+    "date": "2026-07-03",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42390526",
+    "title": "Safety and immunogenicity of a COVID-19-Influenza Combination nanoparticle vaccine (CIC) containing SARS-CoV-2 recombinant spike and quadrivalent influenza hemagglutinin with Matrix-M® adjuvant: A phase 1/2 clinical trial",
+    "authors": "Shinde V, Woo W, Marchese AM et al.",
+    "journal": "",
+    "published_date": "2026-07-02",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42390526/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42390526",
+    "summary": "Based on viral evolution, increases in seasonal infections, and facilitation of delivery, an annual combination vaccine simultaneously targeting influenza and SARS-CoV-2 would benefit public health. The safety and immunogenicity of a COVID-19-Influenza Combination nanoparticle vaccine (CIC) containing SARS-CoV-2 recombinant spike (rS) to the ancestral strain (Wuhan) and quadrivalent influenza hemagglutinin with a Matrix-M® saponin-based adjuvant were evaluated in a phase 1/2 blinded, randomized trial. The safety, tolerability, and immunogenicity of a CIC two-dose series were assessed and compa",
+    "date": "2026-07-02",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42519183",
+    "title": "Optimal timing for staged vaccination campaigns: Insights from scenario tree-based stochastic optimization",
+    "authors": "Al Hashimi F, Chen S, Wu J",
+    "journal": "",
+    "published_date": "2026-06-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42519183/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42519183",
+    "summary": "We develop a mathematical modeling framework to address the challenge in launching an effective staged vaccination campaign during a typical viral infection season to avoid an overwhelmed healthcare system for the entire season. Using the COVID-19 pandemic following its acute phase as a motivating example, our model takes into account the willingness of the public to receive vaccines, as well as the uncertainty of vaccination delivery and administration, to achieve the objective of optimizing the timing and distribution of the vaccination campaign, subject to the constraint that hospitalized c",
+    "date": "2026-06-27",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42324717",
+    "title": "Deep mutational scanning reveals the antibody escape and infectivity landscape of SARS-CoV-2 Omicron JN.1 and XEC receptor-binding domains",
+    "authors": "Shao C, Yang L, Xiao C et al.",
+    "journal": "",
+    "published_date": "2026-06-21",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42324717/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42324717",
+    "summary": "SARS-CoV-2 continuously accumulates mutations in the spike receptor-binding domain (RBD), affecting both viral infectivity and antibody evasion. Systematic characterization of RBD mutations is therefore essential for understanding viral adaptation under immune pressure and predicting evolutionary trajectories. In this study, we employed a two-step, non-replicating pseudovirus deep mutational scanning (DMS) platform to measure the effects of all single amino acid substitutions in the RBD of Omicron variant JN.1 and its descendant lineage XEC within a full-length spike background. To identify re",
+    "date": "2026-06-21",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -357,6 +2711,84 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42252746",
+    "title": "Retrospective cohort study of mRNA COVID-19 vaccine-associated enhanced disease in the Vaccine Safety Datalink, 2021-23",
+    "authors": "Belongia EA, Kieke BA, Hanson KE et al.",
+    "journal": "",
+    "published_date": "2026-06-07",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42252746/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42252746",
+    "summary": "Vaccine-associated enhanced disease (VAED) was recognized as a theoretical risk when COVID-19 vaccines were authorized. Epidemiologic data can identify a signal for VAED if vaccine effectiveness (VE) is negative for preventing serious illness. In 2021, we initiated a cohort study to examine VAED indirectly by estimating VE against COVID-19 hospitalization and severe illness in the Vaccine Safety Datalink. The study cohort included VSD enrollees who were age-eligible to receive mRNA COVID-19 vaccine from February 2021-March 2023. Outcomes were initial COVID-19-associated hospital admission and ",
+    "date": "2026-06-07",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42223472",
+    "title": "T-cell responses to primary SARS-CoV-2 vaccination in Down syndrome - From childhood to adulthood",
+    "authors": "Hensen LCM, Streng BMM, van Wijk F et al.",
+    "journal": "",
+    "published_date": "2026-06-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42223472/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42223472",
+    "summary": "Down syndrome (DS) is the most common genetic disorder worldwide and associated with high morbidity and mortality rates during the COVID-19 pandemic. For safety reasons, SARS-CoV-2 vaccine schedules and dosages were age-dependent, with children <12 years (y) receiving a lower dose than adolescents and adults. While we previously reported age-dependent antibody responses after SARS-CoV-2 vaccination in children with DS, cellular vaccine responses in this population remain insufficiently characterized. We evaluated vaccine-induced T-cell responses in children with DS following primary mRNA SARS-",
+    "date": "2026-06-01",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42220116",
+    "title": "Immune correlates analysis in NextCOVE trial for a next-generation mRNA-1283 COVID-19 vaccine",
+    "authors": "Ma C, Feng J, Wahid R et al.",
+    "journal": "",
+    "published_date": "2026-06-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42220116/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42220116",
+    "summary": "SARS-CoV-2 neutralizing antibodies (nAbs) are strongly inversely associated with COVID-19 risk and have correlated with vaccine efficacy across multiple clinical trials conducted during the COVID-19 pandemic. As SARS-CoV-2 continues to evolve in the endemic era, it is important to determine whether nAb levels remain a valid statistical correlate of protection and potential surrogate endpoints for emerging variants. The next-generation COVID-19 vaccine, mRNA-1283, has recently received regulatory approval worldwide. In the Phase 3 NextCOVE trial (NCT05815498), which enrolled more than 10,000 pa",
+    "date": "2026-06-01",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_1b757033aba08a3b",
     "title": "ETF recommends updating COVID-19 vaccines to target XFG variant - European Medicines Agency (EMA)",
     "authors": "European Medicines Agency (EMA)",
@@ -378,6 +2810,34 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42213900",
+    "title": "Safety and durability of influenza and SARS-CoV-2 antibody responses through 6 months after a single dose of mRNA-1083, a multicomponent influenza and COVID-19 vaccine, in adults ≥50 years",
+    "authors": "Kostanyan L, Wu I, Sinkiewicz M et al.",
+    "journal": "",
+    "published_date": "2026-05-29",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42213900/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42213900",
+    "summary": "Seasonal influenza and SARS-CoV-2 continue to contribute substantially to global morbidity and mortality. mRNA-1083 is an investigational multicomponent mRNA vaccine targeting seasonal influenza and SARS-CoV-2. In this phase 3, observer-blind, active-controlled trial (NCT06097273), adults (aged ≥50 y) were randomly assigned (1:1) to receive mRNA-1083 (40 µg; plus placebo) or age-appropriate licensed comparator vaccines for influenza and COVID-19. Two substudies were included: Cohort A (≥65 y) and Cohort B (50-64 y). Primary objectives were to demonstrate noninferiority of mRNA-1083 versus comp",
+    "date": "2026-05-29",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -410,6 +2870,32 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42154963",
+    "title": "Safety of COVID-19 mRNA-1273 booster doses in Asian populations: A literature review of post-marketing observational studies",
+    "authors": "Clarke C, Esposito D, Urdaneta V et al.",
+    "journal": "",
+    "published_date": "2026-05-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42154963/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42154963",
+    "summary": "Real-world data on the safety of COVID-19 booster doses in Asian populations are needed to inform national immunization programs. The safety profile of mRNA-1273 (Moderna, Inc.) was evaluated using post-marketing observational data. PubMed and EMBASE were searched on June 30, 2025, for studies meeting the following predefined criteria: observational design, adverse events (AEs), mRNA-1273 boosters (dose 3+), and population data from the South-East Asia and Western-Pacific regions. Data on study characteristics, and AE incidence and severity, were extracted. Of 886 records screened, 27 studies ",
+    "date": "2026-05-19",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -471,6 +2957,60 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42116765",
+    "title": "Estimating the potential public health and economic impact of vaccination timing: A modeling study of COVID-19 vaccination in the United Kingdom",
+    "authors": "Harrison C, Yarnoff B, Butfield R et al.",
+    "journal": "",
+    "published_date": "2026-05-12",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42116765/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42116765",
+    "summary": "This study evaluated the public health and economic impact of timely protection against COVID-19 infection with an adapted vaccine in the United Kingdom. A static decision-tree model was used to estimate the impact of timely protection with an autumn dose and a spring dose and assess how delays in the start of the vaccination program affect the impact. The model examined a hypothetical year based on the average age-stratified incidence and severity reported in public health surveillance data for the 2022/2023 and the 2023/2024 seasons. Other age-stratified parameters vaccine coverage, cost, an",
+    "date": "2026-05-12",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42083894",
+    "title": "NVX-CoV2372, monovalent mRNA and bivalent mRNA vaccines elicit broadly cross-reactive antibodies against emerging SARS-CoV-2 variants",
+    "authors": "Poh XY, Mah SYY, Yeoh AYY et al.",
+    "journal": "",
+    "published_date": "2026-05-05",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42083894/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42083894",
+    "summary": "Randomized clinical trials comparing the breadth and long-term persistence of immunity between different COVID-19 vaccine types and between ancestral and Omicron-targeted vaccines are limited. The PRIBIVAC study (Phase D) is a randomized clinical trial comparing the immunogenicity of monovalent mRNA vs bivalent mRNA vs protein-based NVX-CoV2373 administered as second booster in 176 triple mRNA-vaccinated adults. Primary objective was neutralizing antibody levels against Omicron subvariants at day 28. A 4th vaccine dose significantly boosted 50% neutralization titers against emerging strain XBB",
+    "date": "2026-05-05",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_1645a2ee79534611",
     "title": "COVID-19 Spring Vaccine Dose - Government of Nova Scotia",
     "authors": "Government of Nova Scotia",
@@ -489,6 +3029,31 @@
     ],
     "pregnancy_related": false,
     "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_36e23df2248c1675",
+    "title": "Advice accepted on autumn 2026 COVID-19 vaccination programme - GOV.UK",
+    "authors": "GOV.UK",
+    "journal": "GOV.UK",
+    "published_date": "2026-03-23",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWRkSTlWdWFoUzZmZkdXM1o2OFEtTUktRGZITU44MF8tNm9kQ3pUY2RraDR2QlhCU0swazFTMFJSU1JlSVFsSGNMTzdDTURFNWo5QTlYN1dYQzBiTUduQVZUQXYtQ0dWcTNXWEtYcm9oeTlIbU5Pc0ptYU1QajBUZ1RFT001a1BrN09pYmlzWDA0ZzdJUnRuc2NQd2s?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Advice accepted on autumn 2026 COVID-19 vaccination programme &nbsp;&nbsp; GOV.UK",
+    "date": "2026-03-23",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
@@ -783,6 +3348,31 @@
     "pharma": false
   },
   {
+    "id": "news_61fcd7001a79a0df",
+    "title": "Have changes to CDC guidelines influenced Americans’ COVID-19 vaccine decisions? - Pew Research Center",
+    "authors": "Pew Research Center",
+    "journal": "Pew Research Center",
+    "published_date": "2025-11-18",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOekc1TEFGbE5HSDBiTWI3ZnVYQ0Z1ckpDT1ZvdGV6TXE5Y1pyTzRuenNjS0ZTR0ZpTUdodVlrWlVtS3JLQTA4cnh6T1FScTlWNFZhdm9Ra1QzTFJpQnNSSkJRdFZIMjBRd1R1Z19Fby1SRVp5Z2xEXzFrbWhpTmp3bWp1WU5IX2tQcEJVcVNzTDdrUnlXS2xzV29JZmxrNTUxYmkwRHRXN2ZsbWZRMzV5TDZzOTdzZlduc0Vod1JnYXdqSFJfb3NzMUVn?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Have changes to CDC guidelines influenced Americans’ COVID-19 vaccine decisions? &nbsp;&nbsp; Pew Research Center",
+    "date": "2025-11-18",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT07287137",
     "title": "Comparative Immunogenicity of Respiratory Virus Vaccines (CIRV2) Study",
     "authors": "Henry M. Jackson Foundation for the Advancement of Military Medicine",
@@ -901,14 +3491,14 @@
   },
   {
     "id": "news_466722791dc44445",
-    "title": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 - NEJM",
-    "authors": "NEJM",
-    "journal": "NEJM",
+    "title": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 - The New England Journal of Medicine",
+    "authors": "The New England Journal of Medicine",
+    "journal": "The New England Journal of Medicine",
     "published_date": "2025-10-29",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HalZrYmp4S3VPVFptWWRtT1pDMl83eFMtU2wzNHpDX0FBTjdVNHZ4Z0RrX2R6QXNNN3FtUUZ3OWRqWkVld0g4UDdoT0IzaHNNbjJvWEZzMjVfRGx6UXRtaA?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; NEJM",
+    "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; The New England Journal of Medicine",
     "date": "2025-10-29",
     "policy_area": [
       "general_covid"
@@ -1411,15 +4001,65 @@
     "pharma": false
   },
   {
+    "id": "news_b1e8593523de96b9",
+    "title": "Alberta government faces mounting pushback to new COVID-19 vaccine policy - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-06-17",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQk11UlhLR0RmNEpkWExjdnUydlVEdkNFemxocjl6NHhqcFBUazJidWJLUVBkQzg1bWpKQlRmMmd2azMyV2ZTcFJPTHY0d2JLVE1MWi1PZ3ZwVHM4eGRaY0FTTTkwVVNybDJieWVKeTB3QkRfZHhlZXh5T1phRll4aXNpWTV0YTMzVGJJYXB4TQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Alberta government faces mounting pushback to new COVID-19 vaccine policy &nbsp;&nbsp; CBC",
+    "date": "2025-06-17",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_c0e02f235f1a6dbe",
+    "title": "FDA will approve COVID-19 vaccine only for older adults and high-risk groups – a public health expert explains the new rules - The Conversation",
+    "authors": "The Conversation",
+    "journal": "The Conversation",
+    "published_date": "2025-05-21",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNEpLNUVGVDl0aTBEc0FJZkpZbnFVTUh4dmpkcnBpd0RTRzNVbG1tSGw0bzNmNHUtTllKSVBLU1JMRm93SHdrcU4zeXIzOUNtMlV4RWRibXk1ZHF0RGp3RmdGcmEwUEN4ZjJlM21KWGZvZGlDdkRtd0tjYjNma05WVWJvNlRGYlg2bEtvTlgtMmV3c18tZzBGS1dKUzNhWVNfVFZlWTFRUkpLMzB6d1FleEZMZ2dhdEJiSlBJR3lFaG10djcxdi0yRkZOOFBOdjBTRkpKcEFJX2VQdVYxTUZmblIyX2otMlV6NnNJcENR?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "FDA will approve COVID-19 vaccine only for older adults and high-risk groups – a public health expert explains the new rules &nbsp;&nbsp; The Conversation",
+    "date": "2025-05-21",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_778f02aaf56fc0aa",
-    "title": "An Evidence-Based Approach to Covid-19 Vaccination - NEJM",
-    "authors": "NEJM",
-    "journal": "NEJM",
+    "title": "An Evidence-Based Approach to Covid-19 Vaccination - The New England Journal of Medicine",
+    "authors": "The New England Journal of Medicine",
+    "journal": "The New England Journal of Medicine",
     "published_date": "2025-05-20",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ybE9SbVFHLTczcUNiTmRsdk4zWEptYWRqUnF6Z0RwZ3VPRHFoamwwRG1kLXdQWHNNckVXajdSbTNvbFAxRVBIclBWa1BjdWJUeXRHUEk5V0xEdzgtN21Ecw?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; NEJM",
+    "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; The New England Journal of Medicine",
     "date": "2025-05-20",
     "policy_area": [
       "general_covid"
@@ -3142,6 +5782,31 @@
     "pharma": false
   },
   {
+    "id": "news_2f66229aea8299a7",
+    "title": "The unintended consequences of COVID-19 vaccine policy: why mandates, passports and restrictions may cause more harm than good - BMJ Global Health",
+    "authors": "BMJ Global Health",
+    "journal": "BMJ Global Health",
+    "published_date": "2022-05-26",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FWVBaTDh5RkVlOEZUSkZmcHNLR0l6aUltVjJNUm9vWmdaMkY1dkRTMFNlaFh3YVVzT1gtUDB6TXRDY1BTZDNmRUtxdXZ6Z1E?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "The unintended consequences of COVID-19 vaccine policy: why mandates, passports and restrictions may cause more harm than good &nbsp;&nbsp; BMJ Global Health",
+    "date": "2022-05-26",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_36754000",
     "title": "COVID-19 vaccination in pregnancy: safety and immunogenicity — systematic review and meta-analysis",
     "authors": "Prasad S, Kalafat E, Blakeway H, et al.",
@@ -3219,6 +5884,36 @@
     ],
     "policy_area_labels": [
       "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT05160636",
+    "title": "A Study to Look at the Health Outcomes of Patients With COVID-19 and Influenza",
+    "authors": "Pfizer",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2022-01-31",
+    "url": "https://clinicaltrials.gov/study/NCT05160636",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The main purpose of this study is to understand:\n\n* the symptoms of COVID-19 or influenza- health-related outcomes of people with COVID-19 or influenza (influenza only included in updated study analyses)\n* the potential effects of COVID-19 vaccines in people with COVID-19\n\nThis study will enroll participants who are:\n\n* 18 years or older\n* reported to have symptoms with tests that have confirmed illness. The tests can be taken at any of CVS pharmacy COVID-19 or influenza test sites.\n\nThe study will collect vaccine history information from participants who are ready to take part in the study. P",
+    "extra": {
+      "nct_id": "NCT05160636",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": ""
+    },
+    "date": "2022-01-31",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
     "canadian": false,
