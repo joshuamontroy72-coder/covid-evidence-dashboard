@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_b942556f15897cdd",
+    "title": "National flu and COVID-19 surveillance report, week 45 report: data to week 44 (data up to 1 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-10-30",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-45-report-data-to-week-44-data-up-to-1-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-10-30",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -21,6 +46,31 @@
     "species": "human",
     "channel": "nitag",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1352552",
+    "title": "COVID-19 Mortality and Vaccination Coverage Among Older Adults in Tunisia, 2020–2022: A National Descriptive and Ecological Study",
+    "authors": "Zaier F, Dhaouadi S, Hechaichi A et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-10-29",
+    "url": "https://europepmc.org/article/PPR/PPR1352552",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Older adults experienced a disproportionate burden of COVID-19 mortality, but national evidence is limited. We described COVID-19 mortality among adults aged ≥65 years (March 2020–December 2022) and vaccination coverage among adults aged ≥60 years (March 2021–December 2022). <h4>Methods:</h4> We conducted a retrospective national descriptive and ecological study using ONMNE mortality surveillance and aggregated EVAX vaccination data. We calculated mortality, age-standardized, and proportional mortality rates; vaccination coverage; dropout proportions; and no-show rates. <",
+    "date": "2026-10-29",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -100,6 +150,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42948801",
+    "title": "Health-Care Burden of Acute Exacerbation of Chronic Obstructive Pulmonary Disease in Hong Kong in the Post-COVID Pandemic Era-Impact of Phenotype and Exacerbation History",
+    "authors": "Kwok WC, Choo A, Zhou L et al.",
+    "journal": "",
+    "published_date": "2026-10-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42948801/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42948801",
+    "summary": "<h4>Rationale</h4>Chronic obstructive pulmonary disease (COPD) is known to be associated with substantial health-care utilization and economic costs. Since the COVID-19 pandemic, the epidemiology of various diseases has undergone significant changes, it is important to evaluate the health-care impact and economic burden of acute exacerbations of COPD (AECOPD) in the post-pandemic period, along with factors influencing this burden, to inform effective management strategies and health-care planning.<h4>Objectives</h4>To assess the health-care and economic burden of severe AECOPD from 2022 to 202",
+    "date": "2026-10-27",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_b3ba3cbfad68f46d",
     "title": "National flu and COVID-19 surveillance report, week 48 report: data to week 47 (data up to 22 November 2026)",
     "authors": "UKHSA",
@@ -127,13 +203,13 @@
   {
     "id": "preprint_PPR1350468",
     "title": "COVID-19 mortality in six Caribbean countries during Four Waves of the COVID-19 Pandemic",
-    "authors": "Duncan J, McCaw-Binns A, Figueroa JP",
+    "authors": "Duncan JP, McCaw-Binns AM, Figueroa JP",
     "journal": "medRxiv",
     "published_date": "2026-10-26",
     "url": "https://europepmc.org/article/PPR/PPR1350468",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "<h4>Background: </h4> Mortality associated with COVID-19 in the Caribbean during specific waves and exposure to different variants has not well described, especially for the six most populous English-speaking countries (Bahamas, Barbados, Guyana, Jamaica, Trinidad and Tobago, and St. Lucia), compared to the United Kingdom (UK). <h4>Methods:</h4> The first four waves of the pandemic, cases and deaths were estimated from epidemiologic curves on Johns Hopkins University Coronavirus Resource Center for the countries of interest from 10-Mar-20 to 12-Aug-22. Crude mortality rates (CMR), case fatalit",
+    "summary": "<h4>Background</h4>  Mortality associated with COVID-19 in the Caribbean during specific waves and exposure to different variants has not well described, especially for the six most populous English-speaking countries (Bahamas, Barbados, Guyana, Jamaica, Trinidad and Tobago, and St. Lucia), compared to the United Kingdom (UK). <h4>Methods</h4>  The first four waves of the pandemic, cases and deaths were estimated from epidemiologic curves on Johns Hopkins University Coronavirus Resource Center for the countries of interest from 10-Mar-20 to 12-Aug-22. Crude mortality rates (CMR), case fatality",
     "date": "2026-10-26",
     "policy_area": [
       "general_covid"
@@ -382,6 +458,31 @@
     "pharma": false
   },
   {
+    "id": "news_562885d098da6737",
+    "title": "News Flash Archive - Public Flu and Pfizer COVID-19 Vaccination Clinic-Northfield - Rice County, MN (.gov)",
+    "authors": "Rice County, MN (.gov)",
+    "journal": "Rice County, MN (.gov)",
+    "published_date": "2026-10-16",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DazgyekswS0ZBNzJjbk1wSlB2TU45NHF5YzdUXzVkM0lEdWs1RGFNTElQYUxlR29aSERnWXZyTUVVbUpwdUlzNEpZTjRGNmhGb0hPNS1TTVBpaWpVeHVNbXVfdl9BeXo1NEFpZFl4ZVhwcGJ4VlE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "News Flash Archive - Public Flu and Pfizer COVID-19 Vaccination Clinic-Northfield &nbsp;&nbsp; Rice County, MN (.gov)",
+    "date": "2026-10-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_fcaeb0332d671b62",
     "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 vaccine guidance: The State of US Vaccine Policy - CIDRAP",
     "authors": "CIDRAP",
@@ -508,6 +609,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42935793",
+    "title": "Incomplete assessments: Including harms and trade-offs in assessing policy approaches to Covid-19",
+    "authors": "Bavli I, Sutton B, Bardosh K et al.",
+    "journal": "",
+    "published_date": "2026-10-15",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935793/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42935793",
+    "summary": "Policies to combat COVID-19 were often implemented without a systematic assessment of trade-offs with other public objectives. This approach implicitly assumed that these policies would do little harm to other aspects of public health. Recently published evaluations of pandemic-era policies have also largely avoided cost-benefit (or harm-benefit) analysis in public health decision-making. This is likely due to a narrow framing of their analyses to the possibility of underreaction to the pandemic. We argue that a disproportionate policy response framework can offer a valuable toolkit to underst",
+    "date": "2026-10-15",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -1002,6 +1129,31 @@
     "pharma": false
   },
   {
+    "id": "news_d6c355e2fcc2d982",
+    "title": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall - KCRA",
+    "authors": "KCRA",
+    "journal": "KCRA",
+    "published_date": "2026-10-02",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONWZZcmVTUkpkZVNZWXVwa1E3TFR0dGhhQTk2Sk1SdXlZSFJ0M2c0VGd0ZUZyOWIwNGtJSVJKOGZUT2FsRDhySEhONHVVTkFnUjZoamhUY0RjRzlGMWVhcUZoQ3VyOUVDNnkzeVNRXzVsVkJqbnV2TzczYmJqd045bnJXajNlcUhrZ0JnZ3NxVmVnWTItdHQ5QXQxZw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall &nbsp;&nbsp; KCRA",
+    "date": "2026-10-02",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT07861542",
     "title": "Study of a Recombinant Spike COVID-19 Vaccine With Matrix-M in Older Adults and People at Increased Risk of Severe COVID-19",
     "authors": "Sanofi",
@@ -1125,6 +1277,56 @@
     "source": "Google News",
     "source_type": "news",
     "summary": "2026–27 Flu, COVID-19 and RSV Vaccine Recommendations &nbsp;&nbsp; Johns Hopkins Medicine",
+    "date": "2026-09-25",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1327909",
+    "title": "Healthcare workers’ perceptions of decentralised COVID-19 testing using GeneXpert platforms in Tanzania and Burkina Faso: Implications for outbreak management and pandemic preparedness",
+    "authors": "Minja DTR, Tahita MC, Mbwana JR et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-25",
+    "url": "https://europepmc.org/article/PPR/PPR1327909",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Background  Accurate and timely diagnosis is essential for effective management and containment of Corona Virus Disease 2019 (COVID-19) caused by severe acute respiratory coronavirus 2 (SARS-CoV-2). During the pandemic, reliance on overwhelmed central laboratories delayed confirmation of suspected cases in resource-limited settings. Decentralised testing using existing GeneXpert at district and regional facilities has the potential to improve diagnosis, case management, and preparedness for both SARS-CoV-2 and future outbreaks. While GeneXpert platforms have been wi",
+    "date": "2026-09-25",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_ff25d99eb9595f12",
+    "title": "Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall - MPR News",
+    "authors": "MPR News",
+    "journal": "MPR News",
+    "published_date": "2026-09-25",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTRJUElRbjRnVlo5Z1R0cGhFQU4yb1BlY0VOc3c2YWp0cVp0WmZUQktQc2c3d3BzOC1HX3lqNXExdXhsVTM2YnRyMFBpeTAtQS1qSVhOV1gyRG9CaWFaR0tiODRzQm56SFR5RHh3cEtJbC1DWHZkcVBMR2ZDVmUzSmlfSGUyVjJuVVNfWEs2MGZ4MTdHcXprMFdtMGh0QTZwdTNIR05nbVl6bXBpSzNRbWo4dGgzX2gyd0dlWV9NVQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall &nbsp;&nbsp; MPR News",
     "date": "2026-09-25",
     "policy_area": [
       "general_covid"
@@ -3159,7 +3361,7 @@
     "summary": "This Phase 1 clinical trial will evaluate the safety, reactogenicity, and immunogenicity of PepGNP-COVID19, a synthetic nanoparticle-based, T cell-priming peptide vaccine against SARS-CoV-2, when administered as a booster dose in healthy adults. PepGNP-COVID19 is designed to induce broad and durable T cell-mediated immune responses by delivering conserved SARS-CoV-2 peptides covalently bound to carbohydrate-coated gold nanoparticles, with the goal of enhancing tissue-resident cytotoxic T lymphocytes in the respiratory tract and reducing the need for frequent antigen updates. This randomized, p",
     "extra": {
       "nct_id": "NCT07183709",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "status": "COMPLETED",
       "phase": "PHASE1"
     },
     "date": "2026-02-02",
