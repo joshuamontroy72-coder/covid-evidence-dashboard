@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-30T17:42:25.251834+00:00",
-  "total": 252,
+  "updated_at": "2026-10-31T16:48:22.103626+00:00",
+  "total": 257,
   "channels": [
     {
       "id": "journals",
       "label": "Journals (PubMed / Europe PMC)",
       "icon": "📄",
-      "count": 48
+      "count": 50
     },
     {
       "id": "preprints",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 55
+      "count": 58
     },
     {
       "id": "press",
@@ -55,12 +55,12 @@
     {
       "id": "booster_frequency",
       "label": "Booster frequency & intervals",
-      "count": 60
+      "count": 63
     },
     {
       "id": "population_targeting",
       "label": "Population targeting",
-      "count": 78
+      "count": 79
     },
     {
       "id": "strain_selection",
@@ -70,51 +70,51 @@
     {
       "id": "general_covid",
       "label": "General COVID-19 vaccines",
-      "count": 117
+      "count": 119
     }
   ],
   "fetcher_log": [
     {
       "source": "Europe PMC (journals)",
-      "fetched": 137,
-      "kept": 40,
+      "fetched": 138,
+      "kept": 39,
       "error": null,
-      "fetched_at": "2026-10-30T17:41:45.347432+00:00"
+      "fetched_at": "2026-10-31T16:47:42.914549+00:00"
     },
     {
       "source": "medRxiv / bioRxiv preprints",
       "fetched": 80,
       "kept": 58,
       "error": null,
-      "fetched_at": "2026-10-30T17:41:46.350033+00:00"
+      "fetched_at": "2026-10-31T16:47:43.733296+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 80,
       "kept": 74,
       "error": null,
-      "fetched_at": "2026-10-30T17:41:46.640533+00:00"
+      "fetched_at": "2026-10-31T16:47:43.951210+00:00"
     },
     {
       "source": "WHO IRIS",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-10-30T17:41:47.372846+00:00"
+      "fetched_at": "2026-10-31T16:47:44.443718+00:00"
     },
     {
       "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
       "fetched": 50,
       "kept": 4,
       "error": null,
-      "fetched_at": "2026-10-30T17:42:21.325418+00:00"
+      "fetched_at": "2026-10-31T16:48:17.892091+00:00"
     },
     {
       "source": "Google News",
-      "fetched": 84,
-      "kept": 38,
+      "fetched": 79,
+      "kept": 37,
       "error": null,
-      "fetched_at": "2026-10-30T17:42:23.668155+00:00"
+      "fetched_at": "2026-10-31T16:48:20.788672+00:00"
     }
   ]
 }
