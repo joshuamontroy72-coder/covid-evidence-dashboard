@@ -1,5 +1,55 @@
 [
   {
+    "id": "rss_3477e27c421e3042",
+    "title": "National flu and COVID-19 surveillance report, week 49 report: data to week 48 (data up to 29 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-02",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-49-report-data-to-week-48-data-up-to-29-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-02",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_a2ba892c245b731f",
+    "title": "National flu and COVID-19 surveillance report, week 52 report: data to week 51 (data up to 20 December 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-02",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-52-report-data-to-week-51-data-up-to-20-december-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-02",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_b942556f15897cdd",
     "title": "National flu and COVID-19 surveillance report, week 45 report: data to week 44 (data up to 1 November 2026)",
     "authors": "UKHSA",
@@ -250,6 +300,31 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_21f5023c70570ac0",
+    "title": "Ontario Providing Free Flu and COVID-19 Vaccines Across the Province - ontario.ca",
+    "authors": "ontario.ca",
+    "journal": "ontario.ca",
+    "published_date": "2026-10-26",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOE00Z2dtbTY1WmZwM29kS2VMS2h1UnVRY2kwS2xwQ19LYzJlRi1udjZnbFpKeVZYRE9xdDY0VWhhSGR3YjhQVl9UZkpvS2lld0FWT243QU5jVjMwNXpzelB2MG5CSXZ5VXp5ZlJ6OVF0SlRBdXlNVUEyUVIyaHNBVXlQdGszbmdVcGxkZ1U3MFUzWjNJRFlXVHpvanNUdTNUcWlmVTF3WU90VEh4eDdxYQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Ontario Providing Free Flu and COVID-19 Vaccines Across the Province &nbsp;&nbsp; ontario.ca",
+    "date": "2026-10-26",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -1292,6 +1367,31 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1330409",
+    "title": "Divergent systemic and airway mucosal adaptive immunity to SARS-CoV-2 in African adults",
+    "authors": "Kapira G, Phiri J, Nyirenda R et al.",
+    "journal": "Research Square",
+    "published_date": "2026-09-29",
+    "url": "https://europepmc.org/article/PPR/PPR1330409",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Systemic antibody responses are more strongly associated with protection against severe COVID-19 in the lung than with protection against SARS-CoV-2 infection in the upper airway. To define the immunological basis of this divergence, we performed contemporaneous sampling of blood, nasal lining fluid (NLF), and bronchoalveolar lavage (BAL) fluid in HIV-uninfected adults and antiretroviral therapy (ART)-treated people with HIV (PWH). Serum spike-specific IgG antibodies correlated more strongly with BAL than with NLF across multiple variants of concern and were not con",
+    "date": "2026-09-29",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -3180,6 +3280,31 @@
     "pharma": false
   },
   {
+    "id": "news_7f545b55d375e023",
+    "title": "The Potential Clinical and Economic Impact of a Combination COVID-19 and Influenza Vaccine (mRNA-1083) in Canada - medRxiv",
+    "authors": "medRxiv",
+    "journal": "medRxiv",
+    "published_date": "2026-05-20",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iUm1aTzZYRFE5MlBkektmd2ZmTEI4VnNaRUNKZHFMRk1xd003elVKd3ZIVk5xNjVGRzFUUzFlVTBJVGV1MUZNTldGazJDd2dMdGZ2a0ZrbU84T1dfNXBuR1JiRERWUjd4b25kdXJpaTNROHRMVEwtSFJycXQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "The Potential Clinical and Economic Impact of a Combination COVID-19 and Influenza Vaccine (mRNA-1083) in Canada &nbsp;&nbsp; medRxiv",
+    "date": "2026-05-20",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42154963",
     "title": "Safety of COVID-19 mRNA-1273 booster doses in Asian populations: A literature review of post-marketing observational studies",
     "authors": "Clarke C, Esposito D, Urdaneta V et al.",
@@ -3831,6 +3956,31 @@
     "source_type": "news",
     "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; NEJM",
     "date": "2025-10-29",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_9c6a3e41b454b3df",
+    "title": "Flu, COVID-19 vaccine uptake up sharply from last year, ministry says - Times Colonist",
+    "authors": "Times Colonist",
+    "journal": "Times Colonist",
+    "published_date": "2025-10-23",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzFtQ1c3Zmp1T0x3Z3ZqeG1uZ1VNYUFuOTZ4cmpPLWNRMVVwYjN2eG16U2o0aTlTUHNKR0pMYXlXOVFCRXRtam1IdGp1MEpPVllZWEJab1draFN2NVZkb1RPams5bmNQbXRkWWpoWFdGbmtLaXRKSDY0VEphdEhBbXZSRXRiUVYtMi01dDlTdHRRYkM2d1g1UmpRaFB1bmM0UWI1YzFSbGFQYVQ1dnY2QXlYa2VSSDdI?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Flu, COVID-19 vaccine uptake up sharply from last year, ministry says &nbsp;&nbsp; Times Colonist",
+    "date": "2025-10-23",
     "policy_area": [
       "general_covid"
     ],
@@ -4525,6 +4675,31 @@
     ],
     "pregnancy_related": false,
     "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_a5a6a6cf3c733a03",
+    "title": "Alberta government weighs future of COVID-19 vaccination as federal program winds down - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-01-15",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVctS0xQOXhMaGVPV1ljeU03V2dBRURJV2ZsZXdwTUloMkw0TWctTUhtMnlHUmo1dGstR3AwYjZXVGdxdV84UDE3MTZ2bV9hdVBLUVhwU0E1Q1VES0VPWkZ3V2VZcFFVOFhKVEI5MGlfZTFGYzYxN09mMkcwVE14eU9RbV93bXFvV3c?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Alberta government weighs future of COVID-19 vaccination as federal program winds down &nbsp;&nbsp; CBC",
+    "date": "2025-01-15",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
@@ -6225,6 +6400,31 @@
     "pharma": false
   },
   {
+    "id": "news_d9a53fa4b77c2086",
+    "title": "WHO released a new operational guide to promote COVID-19 vaccination uptake and tackle vaccine hesitancy among refugees and migrants - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2022-03-14",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLVhoNTdJdmtFUExZOEZnUUhDRU9NemJaak94M205NnF1LVBIRW1xbGVpc2MxVXllNEgxQWF0dmE1OWY5QXJydW8zckpYU2pGSWNTX3hSUjFKZ1FHT2lZdUtVSUd5TV9wdjE4Y1Jud3RteG5HTEd0TjVFSklCXzBzSjNQWm8wbXVWRk9JenBWSjNpNFlfSjRhREtVd3NrX3Jnc3hRenFhMGphVU9KMDZGdklZUmNMTUV5ZjlGYm9VSWMxVVBOdW9ERXRuNXhPRVFBUDc1dW56bWFUSEFtVUtpNi1TeEh6NjRjeWlwVGtXYmMyM2swX1JXN2pfX2Y1SVZxV0Rn?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "WHO released a new operational guide to promote COVID-19 vaccination uptake and tackle vaccine hesitancy among refugees and migrants &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2022-03-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT05160636",
     "title": "A Study to Look at the Health Outcomes of Patients With COVID-19 and Influenza",
     "authors": "Pfizer",
@@ -6935,6 +7135,81 @@
     ],
     "policy_area_labels": [
       "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_54bf703f41c156e5",
+    "title": "More than 150 countries engaged in COVID-19 vaccine global access facility",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-07-15",
+    "url": "https://www.who.int/news/item/15-07-2020-more-than-150-countries-engaged-in-covid-19-vaccine-global-access-facility",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "Seventy-five countries submit expressions of interest to COVAX Facility, joining up to 90 further countries which could be supported by the COVAX Advance Market Commitment (AMC)    The COVAX Facility, and the AMC within it, is designed to guarantee rapid, fair and equitable access to COVID-19 vaccines for every country in the world, rich and poor, to make rapid progress towards slowing the pandemic&nbsp;      Interest from governments representing more than 60% of the world&rsquo;s population offers &lsquo;tremendous vote of confidence&rsquo; in the effort to ensure truly global access to COVI",
+    "date": "2020-07-15",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_58d8a7506639361b",
+    "title": "WHO and UNICEF warn of a decline in vaccinations during COVID-19",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-07-15",
+    "url": "https://www.who.int/news/item/15-07-2020-who-and-unicef-warn-of-a-decline-in-vaccinations-during-covid-19",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "WHO and UNICEF call for immediate efforts to vaccinate all children as new data shows that, before the COVID-19 pandemic, vaccine coverage stalled at 85 per cent for nearly a decade, with 14 million unvaccinated infants yearly",
+    "date": "2020-07-15",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": true,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_826334fa425029ac",
+    "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-07-04",
+    "url": "https://www.who.int/news/item/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "WHO today accepted the recommendation from the Solidarity Trial&rsquo;s International Steering Committee to discontinue the trial&rsquo;s hydroxychloroquine and lopinavir/ritonavir arms. The Solidarity Trial was established by WHO to find an effective COVID-19 treatment for hospitalized patients.  The International Steering Committee formulated the recommendation in light of the evidence for hydroxychloroquine vs standard-of-care and for lopinavir/ritonavir vs standard-of-care from the Solidarity trial interim results, and from a review of the evidence from all trials presented at the 1-2 July",
+    "date": "2020-07-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
     "canadian": false,
