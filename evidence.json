@@ -356,6 +356,58 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42966966",
+    "title": "First evidence of an association between alexithymia and reduced humoral immunity following COVID-19 vaccination, independent of insomnia and metabolic factors in healthcare workers",
+    "authors": "Petropoulou D, Petropoulou G, Karampela I et al.",
+    "journal": "",
+    "published_date": "2026-10-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966966/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42966966",
+    "summary": "<h4>Introduction</h4>Psychological factors have been increasingly implicated in immune regulation; however, the role of emotional awareness in shaping vaccine responses remains unexplored. Alexithymia, characterized by the difficulty in identifying and describing emotions, represents a psychosomatic construct associated with chronic stress physiology and immune dysregulation. This study investigated for the first time whether alexithymia, alongside other psychological factors, is associated with vaccine-induced humoral immunity, especially serum SARS-CoV-2 anti-Spike (anti-S) IgG concentration",
+    "date": "2026-10-23",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42964568",
+    "title": "Receptor-binding autoantibodies are not associated with post-COVID fatigue",
+    "authors": "Achleitner M, Dänhardt J, Kardashi R et al.",
+    "journal": "",
+    "published_date": "2026-10-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964568/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42964568",
+    "summary": "Persistent fatigue is a common symptom following SARS-CoV-2 infection, but its underlying mechanisms remain incompletely understood. Autoantibodies targeting G-protein coupled receptors and other neurotransmitter-related receptors have been proposed as potential biomarkers or mediators of post-COVID symptoms. However, their association with post-COVID fatigue remains unclear. Therefore, in the current study, we investigated receptor-binding autoantibodies against 13 neurotransmitter-related receptors in 206 participants with prior infection with SARS-CoV-2. Three groups of patients were enroll",
+    "date": "2026-10-23",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42910459",
     "title": "Exploring booster vaccine hesitancy: evidence from the COVID-19 in Hong Kong",
     "authors": "Jin J, Lai DWL, Yan E",
@@ -1422,6 +1474,31 @@
     "pharma": false
   },
   {
+    "id": "news_2603dd3a9644447b",
+    "title": "Flu and COVID-19 vaccinations are underway. Here’s each province’s approach - Global News",
+    "authors": "Global News",
+    "journal": "Global News",
+    "published_date": "2026-09-28",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZkVnNXpXb1dMdUZrYjBPbkM4TEUzUmVCU1NnbU1mUEI4ZEQ2X1J4UFFlM09tMENUYS1ZWWZiSUw4clhqR2FMLW5mcW9lV3JVbG94ajlXNm5paGhwSW1rZGQ3NE9yaFF4Q0tYTlBsWTZqQUpKVXkxczByNTk4Y28?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Flu and COVID-19 vaccinations are underway. Here’s each province’s approach &nbsp;&nbsp; Global News",
+    "date": "2026-09-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_1d325637c89be3a5",
     "title": "2026–27 Flu, COVID-19 and RSV Vaccine Recommendations - Johns Hopkins Medicine",
     "authors": "Johns Hopkins Medicine",
@@ -1481,6 +1558,31 @@
     "source": "Google News",
     "source_type": "news",
     "summary": "Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall &nbsp;&nbsp; MPR News",
+    "date": "2026-09-25",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_8c38745eace22fb4",
+    "title": "2026–27 Flu, COVID-19 and RSV Vaccine Recommendations - Johns Hopkins Medicine",
+    "authors": "Johns Hopkins Medicine",
+    "journal": "Johns Hopkins Medicine",
+    "published_date": "2026-09-25",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVk9ONzV2UmxFbl9sTFgtb0tlM0JWeTZWSEI2ZkRVa0FyOUdFTUh6bE8xTXdKbkk2RFJVNVJGbjdrcTB2Rjc4SHV3dXFBU3U1bkhtOTd3THo0YzVuQWx0UlB2SGJZTXo3OE1nLTY2Z0NLdlI2TlF0clI3MVVXeWg5SzBEbjREWWVHVDNJYnEyMjBtSmZqNk1QYWlab040dHM4bEJVcVdNYXNWNjA?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "2026–27 Flu, COVID-19 and RSV Vaccine Recommendations &nbsp;&nbsp; Johns Hopkins Medicine",
     "date": "2026-09-25",
     "policy_area": [
       "general_covid"
@@ -2088,6 +2190,31 @@
     "pharma": false
   },
   {
+    "id": "news_3384adbf04cd2966",
+    "title": "AAP Updates RSV, COVID-19 Vaccine Recommendations - Respiratory Therapy",
+    "authors": "Respiratory Therapy",
+    "journal": "Respiratory Therapy",
+    "published_date": "2026-09-03",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT3hraXRySEJBZzVBcWdFTmRpcGRBTnowTnVwLWdKUHRBQ01HaHdEZUJMdF9wNmN4S09uQm1PYmZsclZkQk15SFczTlcyaWcteWNTTXNnYVVRX0ZWdVhsRUFTal9XcHlfenFoRnMyVmIwUFZISDdXNjFlVlVsQldvWnQ2YmVZVFlEQ2JnbmhDSHZsb2pBNXZHSm9LNV9zSFNjOHJEdlRuSDQtUTcteGl4bWw3d1g5NkV4c291anVISWZzdw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "AAP Updates RSV, COVID-19 Vaccine Recommendations &nbsp;&nbsp; Respiratory Therapy",
+    "date": "2026-09-03",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_9042e45a181c952e",
     "title": "Respiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall - CNN",
     "authors": "CNN",
@@ -2347,6 +2474,31 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_c47f815fa023cbfa",
+    "title": "Mayo Clinic recommendations for 2026-27 COVID-19 vaccines - Mayo Clinic News Network",
+    "authors": "Mayo Clinic News Network",
+    "journal": "Mayo Clinic News Network",
+    "published_date": "2026-08-28",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklpT3dQVXdwOGdNeEpRNENmVGgyZm41U1Bib3hNQ1JxZDNoOU42Mm5YSTdFN3JicDM4ZGJXQjRxa09UZ1YyQXZRVy12blNhSlRpYW1OcFJYYnZwSzlVTnBmVlF3aFpuVWZSRWdwdzdLS1lVcDJfYmdOQWVEakw0bkdpMXF1MGFoSHlOV2lTQmY1Ui1nS2dTUWoyUkVhcHdDSWRCVDcwVQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Mayo Clinic recommendations for 2026-27 COVID-19 vaccines &nbsp;&nbsp; Mayo Clinic News Network",
+    "date": "2026-08-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -2762,6 +2914,31 @@
     "pharma": false
   },
   {
+    "id": "news_5cceaa678b4c7b19",
+    "title": "Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations - Nature",
+    "authors": "Nature",
+    "journal": "Nature",
+    "published_date": "2026-08-08",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvMzhpOEZBdFlGSzVIdWw0bzdmem1nQnJIZlJLQVhlRlJ1S3JZVzhrLVEyUktVdnUyUWlEUmxRMGpzdG1PXzJfTzRHR0MtTHkwLVdMaHdSZ3BISm1xNVN3?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations &nbsp;&nbsp; Nature",
+    "date": "2026-08-08",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42551467",
     "title": "Comparative immunogenicity of mRNA-1273 and BNT162b2 SARS-CoV-2 bivalent booster vaccines in US nursing home residents",
     "authors": "Olagunju OJ, Oyebanji OA, Keresztesy D et al.",
@@ -3083,6 +3260,31 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_9efe009f1f34bf41",
+    "title": "Alberta urged to follow federal guidance as it develops fall COVID-19 vaccine plan - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2026-06-16",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXdueHFYM19oWjdZZUs4bl9WQ2ZCejNXaGNTdl80ZlpwV3E0RzVYLU1fdmgxXzY4ME43VHJFbEdrRmxtYXRHUEFIWnhqS3JoZUxjdElmdDkzbFkzVUFfT1BpdVRPY1UtRk1ITXFXYkxUakNlLUZ2R012N0lDVThia3BoOHRPLXIydnZ3TGt3?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Alberta urged to follow federal guidance as it develops fall COVID-19 vaccine plan &nbsp;&nbsp; CBC",
+    "date": "2026-06-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -4264,12 +4466,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-05",
+    "published_date": "2025-09-06",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "policy_area": [
       "general_covid"
     ],
@@ -5837,6 +6039,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT06103123",
+    "title": "MYocarditis and/or Pericarditis Following mRNA COVID-19 VACCination National Surveillance Study",
+    "authors": "Cardiology Research UBC",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2023-04-23",
+    "url": "https://clinicaltrials.gov/study/NCT06103123",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "Myocarditis is inflammation of the heart muscle. Pericarditis is inflammation of the lining surrounding the heart muscle. Symptoms of these conditions can include pain in the chest and rapid or irregular heartbeat. There are many different causes for myocarditis and pericarditis including COVID-19 infection.\n\nThe MYCOVACC study will identify patients using local screening strategies, including research communications, care provider referrals, and medical record review. The retrospective component of the study will collect information about patients suffering from vaccine associated myopericard",
+    "extra": {
+      "nct_id": "NCT06103123",
+      "status": "RECRUITING",
+      "phase": ""
+    },
+    "date": "2023-04-23",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_89cdedca3286ce96",
     "title": "WHO Updates COVID-19 Vaccination Guidance After March SAGE Meeting - TechTarget",
     "authors": "TechTarget",
@@ -7205,6 +7437,81 @@
     "source_type": "guideline",
     "summary": "WHO today accepted the recommendation from the Solidarity Trial&rsquo;s International Steering Committee to discontinue the trial&rsquo;s hydroxychloroquine and lopinavir/ritonavir arms. The Solidarity Trial was established by WHO to find an effective COVID-19 treatment for hospitalized patients.  The International Steering Committee formulated the recommendation in light of the evidence for hydroxychloroquine vs standard-of-care and for lopinavir/ritonavir vs standard-of-care from the Solidarity trial interim results, and from a review of the evidence from all trials presented at the 1-2 July",
     "date": "2020-07-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_fdc09985bbebe49d",
+    "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-06-16",
+    "url": "https://www.who.int/news/item/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "The World Health Organization (WHO) welcomes the initial clinical trial results from the United Kingdom (UK) that show dexamethasone, a corticosteroid, can be lifesaving for patients who are critically ill with COVID-19. For patients on ventilators, the treatment was shown to reduce mortality by about one third, and for patients requiring only oxygen, mortality was cut by about one fifth, according to preliminary findings shared with WHO.   The benefit was only seen in patients seriously ill with COVID-19, and was not observed in patients with milder disease.&nbsp;  &ldquo;This is the first tr",
+    "date": "2020-06-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_54335e8b7b29edcd",
+    "title": "At least 80 million children under one at risk of diseases such as diphtheria, measles and polio as COVID-19 disrupts routine vaccination efforts, warn Gavi, WHO and UNICEF",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-05-22",
+    "url": "https://www.who.int/news/item/22-05-2020-at-least-80-million-children-under-one-at-risk-of-diseases-such-as-diphtheria-measles-and-polio-as-covid-19-disrupts-routine-vaccination-efforts-warn-gavi-who-and-unicef",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "COVID 19 is disrupting life-saving immunization services around the world, putting millions of children &ndash; in rich and poor countries alike &ndash; at risk of diseases like diphtheria, measles and polio. This stark warning comes from the World Health\n    Organization, UNICEF and Gavi, the Vaccine Alliance ahead of the Global Vaccine Summit on 4 June, at which world leaders will come together to help maintain immunization programmes and mitigate the impact of the pandemic in lower-income countries.\n  According to data collected by the World Health Organization, UNICEF, Gavi and the Sabin V",
+    "date": "2020-05-22",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "who_sage",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_01f2747f002728c0",
+    "title": "WHO and Costa Rica preview technology pooling initiative to ensure access to COVID-19 health products for all",
+    "authors": "WHO",
+    "journal": "WHO",
+    "published_date": "2020-05-15",
+    "url": "https://www.who.int/news/item/15-05-2020-who-and-costa-rica-preview-technology-pooling-initiative-to-ensure-access-to-covid-19-health-products-for-all",
+    "source": "WHO",
+    "source_type": "guideline",
+    "summary": "Geneva, 15 May 2020 &ndash; Presidents Carlos Alvarado Quesada of Costa Rica and Sebasti&aacute;n Pi&ntilde;era of Chile joined WHO Director-General Dr Tedros Adhanom Ghebreyesus today to announce progress on a technology platform that aims to lift access barriers to effective vaccines, medicines and other health products against COVID-19. Costa Rica proposed the idea at the beginning of the COVID-19 outbreak and several countries are now backing the proposal. \n &ldquo;Our proposal relies on solidarity,&rdquo; said President Alvarado of Costa Rica. &ldquo;It&rsquo;s a Solidarity call to action",
+    "date": "2020-05-15",
     "policy_area": [
       "general_covid"
     ],
