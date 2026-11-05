@@ -1,5 +1,80 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-05",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-05",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_5391c06762cbc30e",
+    "title": "Combined COVID-19 and flu tests: use in ARI outbreaks in adult social care homes",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-05",
+    "url": "https://www.gov.uk/government/publications/combined-covid-19-and-flu-tests-use-in-ari-outbreaks-in-adult-social-care-homes",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "SARS-CoV-2 and influenza A+B antigen combo rapid tests for COVID-19 and 2 types of flu (A and B) during an outbreak of acute respiratory infection (ARI)",
+    "date": "2026-11-05",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_aab960a028d6006b",
+    "title": "Organisation testing registration: record of combo rapid LFD test users",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-05",
+    "url": "https://www.gov.uk/government/publications/organisation-testing-registration-record-of-combo-rapid-lfd-test-users",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "…Guidance and spreadsheet to record the details of people you&#x27;ve tested for COVID-19 and flu using combo rapid lateral flow device (LFD) tests on that day.…",
+    "date": "2026-11-05",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42973270",
     "title": "Modeling the cost-effectiveness of NVX-CoV2705 and the public health impact of vaccination for the prevention of seasonal COVID-19 in the US",
     "authors": "Fox L, Paret K, Neary MP et al.",
@@ -88,31 +163,6 @@
     "source_type": "guideline",
     "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
     "date": "2026-10-30",
-    "policy_area": [
-      "booster_frequency"
-    ],
-    "policy_area_labels": [
-      "Booster frequency & intervals"
-    ],
-    "pregnancy_related": false,
-    "canadian": false,
-    "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "id": "rss_263cc63d9a5d64b5",
-    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-10-29",
-    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-10-29",
     "policy_area": [
       "booster_frequency"
     ],
@@ -4544,12 +4594,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-05",
+    "published_date": "2025-09-06",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "policy_area": [
       "general_covid"
     ],
@@ -4905,6 +4955,31 @@
     ],
     "pregnancy_related": false,
     "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_18a4024addb62387",
+    "title": "Respiratory season ends, B.C. launching spring COVID-19 vaccination campaign - NanaimoNewsNOW",
+    "authors": "NanaimoNewsNOW",
+    "journal": "NanaimoNewsNOW",
+    "published_date": "2025-03-28",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUJrclAwcDZwMmJtWWJtekpBTGpJUHY3ekZKVHd4b19Db2VvTXpjdDBWNjQ4eWp4TEdXNmFSS21KbFFpalh3X3ExNlVqak9BbGJRSUw4RTcySV8xZEZMeFVMSTBnb3YyVmZaLWZRMHU5T200MlNwdENZMU1RYmF6LVBsVExhOFlhakNFQkFSeU9IQm9Ea1Z3RXljNkE5N1VKN2twT3JIYTlvQjBXMTNDVUk4NA?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Respiratory season ends, B.C. launching spring COVID-19 vaccination campaign &nbsp;&nbsp; NanaimoNewsNOW",
+    "date": "2025-03-28",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
