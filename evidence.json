@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_806a3d8ed70226e6",
+    "title": "COVID-19 vaccination: information for healthcare practitioners",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-06",
+    "url": "https://www.gov.uk/government/publications/covid-19-vaccination-programme-guidance-for-healthcare-practitioners",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "Guidance for healthcare practitioners about the coronavirus (COVID-19) vaccination programme.",
+    "date": "2026-11-06",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -1320,7 +1345,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1334334",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "<h4>Introduction</h4>  Although the COVID-19 pandemic clearly showed the potential consequences of a world without vaccinations, vaccine hesitancy is likely to be more pronounced in the post-COVID-19 era. The introduction of human papillomavirus (HPV) vaccines in this context is likely to raise particular concerns. In Tunisia, decision-makers have prioritized the introduction of HPV vaccine into the immunization schedule. This study assessed individual barriers and facilitators to HPV vaccine acceptability in Tunisia, with the aim of guiding an effective communication strategy for HPV vaccinat",
+    "summary": "<h4>Introduction: </h4> Although the COVID-19 pandemic clearly showed the potential consequences of a world without vaccinations, vaccine hesitancy is likely to be more pronounced in the post-COVID-19 era. The introduction of human papillomavirus (HPV) vaccines in this context is likely to raise particular concerns. In Tunisia, decision-makers have prioritized the introduction of HPV vaccine into the immunization schedule. This study assessed individual barriers and facilitators to HPV vaccine acceptability in Tunisia, with the aim of guiding an effective communication strategy for HPV vaccina",
     "date": "2026-10-05",
     "policy_area": [
       "general_covid"
@@ -3564,7 +3589,7 @@
     "summary": "This phase 1 randomized, open-label, dose-escalation clinical trial evaluates the safety and immunogenicity of OCU500, a ChAd36 Vector Encoding SARS-CoV-2 Spike Vaccine, in healthy adults aged 18-64 who previously completed a primary COVID-19 vaccination series and at least one booster. The study evaluates two dose levels (1×10\\^10 viral particles (VP) and 5×10\\^10 VP) and two routes of administration (intranasal and inhaled). The trial includes 80 participants across four study arms (20 per arm). The primary objective is to evaluate the safety and reactogenicity of a single dose of OCU500 adm",
     "extra": {
       "nct_id": "NCT07536308",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "phase": "PHASE1"
     },
     "date": "2026-05-26",
@@ -5679,6 +5704,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_995ea626d721016c",
+    "title": "ETF recommends updating COVID-19 vaccines to target new JN.1 variant - European Medicines Agency (EMA)",
+    "authors": "European Medicines Agency (EMA)",
+    "journal": "European Medicines Agency (EMA)",
+    "published_date": "2024-04-30",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdU8wOTd5WkRuUk1xOXZfMS1MMG1nbW14aWk2djBMWjB6MFdQTW55ZXhLaTFFdV9JM2wtbUYyZzI2eDMwWE9tQVZkb2xpVXNjUUJHeGFCQkxncXIySnpnVUx2M0RKRHJTdnJxejdsUzNUeTBxMXpBRFV2WXloVERDZnQ5RmhEcVNzQW5rdS10NTdpMGEwT19XRU9TYUtCbXc?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "ETF recommends updating COVID-19 vaccines to target new JN.1 variant &nbsp;&nbsp; European Medicines Agency (EMA)",
+    "date": "2024-04-30",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
