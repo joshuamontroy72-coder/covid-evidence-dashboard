@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:24:44.952559+00:00",
+  "updated_at": "2026-11-08T17:36:23.543248+00:00",
   "total": 290,
   "channels": [
     {
@@ -79,42 +79,42 @@
       "fetched": 135,
       "kept": 40,
       "error": null,
-      "fetched_at": "2026-11-07T17:24:09.600955+00:00"
+      "fetched_at": "2026-11-08T17:35:45.417265+00:00"
     },
     {
       "source": "medRxiv / bioRxiv preprints",
       "fetched": 80,
       "kept": 56,
       "error": null,
-      "fetched_at": "2026-11-07T17:24:10.408089+00:00"
+      "fetched_at": "2026-11-08T17:35:46.705473+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 80,
       "kept": 71,
       "error": null,
-      "fetched_at": "2026-11-07T17:24:10.705299+00:00"
+      "fetched_at": "2026-11-08T17:35:47.004111+00:00"
     },
     {
       "source": "WHO IRIS",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-11-07T17:24:11.946765+00:00"
+      "fetched_at": "2026-11-08T17:35:48.177891+00:00"
     },
     {
       "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
       "fetched": 50,
       "kept": 13,
       "error": null,
-      "fetched_at": "2026-11-07T17:24:42.880803+00:00"
+      "fetched_at": "2026-11-08T17:36:21.694933+00:00"
     },
     {
       "source": "Google News",
       "fetched": 72,
       "kept": 37,
       "error": null,
-      "fetched_at": "2026-11-07T17:24:44.922556+00:00"
+      "fetched_at": "2026-11-08T17:36:23.515077+00:00"
     }
   ]
 }
