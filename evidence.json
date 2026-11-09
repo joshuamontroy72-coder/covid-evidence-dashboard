@@ -1,5 +1,80 @@
 [
   {
+    "id": "rss_668eca450a8220af",
+    "title": "Legionellosis in residents of England and Wales: 2025",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-09",
+    "url": "https://www.gov.uk/government/statistics/announcements/legionellosis-in-residents-of-england-and-wales-2025",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "…The report will provide an epidemiological summary, analyse overall trends and examine how the COVID-19 pandemic impacted the epidemiology of Legionellosis, focusing on shifts in case numbers and demographic patterns during this period.…",
+    "date": "2026-11-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_7b5689d8f4077cda",
+    "title": "National flu and COVID-19 surveillance report, week 50 report: data to week 49 (data up to 6 December 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-09",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-50-report-data-to-week-49-data-up-to-6-december-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-09",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_e083b3a3e2996ecc",
+    "title": "National flu and COVID-19 surveillance report, week 46 report: data to week 45 (data up to 8 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-09",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-46-report-data-to-week-45-data-up-to-8-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-09",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_806a3d8ed70226e6",
     "title": "COVID-19 vaccination: information for healthcare practitioners",
     "authors": "UKHSA",
@@ -21,6 +96,32 @@
     "species": "human",
     "channel": "nitag",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42993534",
+    "title": "Real-world safety outcomes of COVID-19 mRNA vaccine: A result from Korea post-marketing surveillance",
+    "authors": "Han SH, Hong JH, Jung SI et al.",
+    "journal": "",
+    "published_date": "2026-11-06",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993534/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42993534",
+    "summary": "The COVID-19 pandemic has caused a substantial global health burden, highlighting the need for post-authorization safety evaluation in real-world settings. BNT162b2 is a widely used mRNA COVID-19 vaccine, and, in addition to the original strain-based formulation, BA.1-, BA.4/5-, XBB.1.5-, and JN.1-adapted formulations were introduced sequentially. This study aimed to evaluate the real-world safety profile of the BNT162b2 product family using post-marketing surveillance data collected in Korea. Data collection was conducted from 50 sites. Solicited adverse events (AEs) were collected for 7 days",
+    "date": "2026-11-06",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -96,6 +197,81 @@
     "species": "human",
     "channel": "nitag",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1359709",
+    "title": "Robust T and B cell activation is associated with rapid clearance of infectious SARS-CoV-2",
+    "authors": "Zemelko L, Tiburcio R, Wang YY et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-11-05",
+    "url": "https://europepmc.org/article/PPR/PPR1359709",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "The immunologic correlates of rapid clearance of SARS-CoV-2 shedding are not well understood, partly due to challenges of collecting samples early after infection and the fact that most studies do not measure infectious virus. Here, we performed mass cytometry profiling of peripheral blood cells collected from people 4-6 days after onset of symptoms from acute SARS-CoV-2 infection who underwent daily nasopharyngeal testing for SARS-CoV-2 culture positivity. We identified broad and coordinated activation of innate and adaptive immune cells in unvaccinated individuals with primary infection. Fas",
+    "date": "2026-11-05",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1359082",
+    "title": "SARI Surveillance System in Senegal: Factors Associated with Death among Hospitalized SARI Patients",
+    "authors": "NDOYE AM, DIALLO VMC, TALL B et al.",
+    "journal": "Research Square",
+    "published_date": "2026-11-05",
+    "url": "https://europepmc.org/article/PPR/PPR1359082",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  The Severe Acute Respiratory Infection (SARI) surveillance system plays a crucial role in monitoring respiratory diseases, including COVID-19, in Senegal. SARI remains a significant public health concern, particularly in the context of the COVID-19 pandemic. To track the spread and severity of respiratory infections, Senegal has implemented a robust surveillance system. Vaccination is a key strategy to reduce severe cases and mortality, yet multiple factors influence its effectiveness.  <bold>Objectives</bold>  : This study describes the SARI surveillance system, ",
+    "date": "2026-11-05",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1359783",
+    "title": "VaccineScout: A Computational Framework for Guiding the Composition and Valency of SARS-CoV-2 Vaccine Updates",
+    "authors": "Gangwar P, Khanna S, Wertheim J et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-11-04",
+    "url": "https://europepmc.org/article/PPR/PPR1359783",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "The continual evolution of SARS-CoV-2 necessitates periodic vaccine updates to maintain immunity against newly emerging variants. However, vaccine design remains largely guided by experimental serological studies, and there is no publicly available computational framework to help systematically prioritize vaccine variants and guide valency selection. Here, we analyze over 14 million SARS-CoV-2 genomes collected globally between 2021 and 2025 and find that over half of spike amino acid sequences (primary vaccine target) observed during the first six months after vaccine selection were already c",
+    "date": "2026-11-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -585,6 +761,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42999630",
+    "title": "Serum proteomic profiling identifies transforming growth factor β receptor as a marker of persistent symptoms up to 18 months after mild SARS-CoV-2 infection. ",
+    "authors": "Ueland T, Cox RJ, Michelsen AE et al.",
+    "journal": "",
+    "published_date": "2026-10-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999630/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42999630",
+    "summary": "Persistent symptoms following the acute phase of SARS-CoV-2 infection have emerged as an increasing health problem. The pathogenesis for the development of post-COVID Condition (PCC) is still elusive. Herein we included serum samples from non-hospitalized (n = 189) and hospitalized (n = 52) COVID-19 patients, representing approximately 90% of all patients with confirmed SARS-CoV-2 infection in the municipality of Bergen, Norway between 28 February and 4 April 2020. The patients were followed clinically with systematic interviews for up to 18 months. Accompanying serum samples were analyzed by ",
+    "date": "2026-10-22",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -2885,6 +3087,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42845924",
+    "title": "TEAM: A time-enhanced attention-based model for virus mutation prediction",
+    "authors": "Ji J, Hu J, Yu T et al.",
+    "journal": "",
+    "published_date": "2026-08-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42845924/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42845924",
+    "summary": "The evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during the coronavirus disease 2019 (COVID-19) pandemic highlights the critical need for predicting virus mutations in order to stay ahead of infectious diseases. Here, we present the time-enhanced attention-based model (TEAM), which combines phylogenetic sampling with deep learning to improve virus mutation prediction accuracy. TEAM introduces a novel time-enhanced phylogenetic sampling strategy that preserves both evolutionary and temporal sequence relationships, enhancing its ability to predict site-specific mutat",
+    "date": "2026-08-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
