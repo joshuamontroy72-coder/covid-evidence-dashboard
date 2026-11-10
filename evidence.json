@@ -766,7 +766,7 @@
   },
   {
     "id": "pubmed_42999630",
-    "title": "Serum proteomic profiling identifies transforming growth factor β receptor as a marker of persistent symptoms up to 18 months after mild SARS-CoV-2 infection. ",
+    "title": "Serum proteomic profiling identifies transforming growth factor β receptor as a marker of persistent symptoms up to 18 months after mild SARS-CoV-2 infection",
     "authors": "Ueland T, Cox RJ, Michelsen AE et al.",
     "journal": "",
     "published_date": "2026-10-22",
@@ -3569,6 +3569,31 @@
     "pharma": false
   },
   {
+    "id": "news_9bbb4d93e527c9c9",
+    "title": "Epidemiology of COVID-19 in England, July to December 2025 - GOV.UK",
+    "authors": "GOV.UK",
+    "journal": "GOV.UK",
+    "published_date": "2026-06-25",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVVKb0ZjOUl5VGZZenQyQ1NiYmlWMnVVakcwMXNWekdkWDMxQWlSRHNxUy1ZUDVVaEdlQ3FtUTdBbEVNM1pOYWdHMzBXdThjdVRZOHBSOHBDV3hTOTAxZ011R2s5dUUyNGlaNENlZEdNdGpJUDc2NEE0ekM0Mi1NckRfbDZsa0ZyVFp5YXlCcWdQdktqaUl5VkhiZk5hZm9pdGNZVndCRm0wa0p1YXZBcEkxakF2ZDJWTHl0NEc1OFZDUmVFODVjTlBNeU5aZDhFZFE?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Epidemiology of COVID-19 in England, July to December 2025 &nbsp;&nbsp; GOV.UK",
+    "date": "2026-06-25",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_95e1fffb0985503e",
     "title": "Annual COVID-19 boosters continue to provide meaningful protection, study says - Gavi, the Vaccine Alliance",
     "authors": "Gavi, the Vaccine Alliance",
@@ -4847,12 +4872,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-06",
+    "published_date": "2025-09-05",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-06",
+    "date": "2025-09-05",
     "policy_area": [
       "general_covid"
     ],
@@ -7426,6 +7451,36 @@
     ],
     "pregnancy_related": false,
     "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT04894435",
+    "title": "Mix and Match of the COVID-19 Vaccine for Safety and Immunogenicity",
+    "authors": "Canadian Immunization Research Network",
+    "journal": "ClinicalTrials.gov · PHASE2",
+    "published_date": "2021-06-11",
+    "url": "https://clinicaltrials.gov/study/NCT04894435",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The main goals of this study are to assess the immune response and safety of two different vaccines for first, second, third and fourth doses as well as for differing intervals between the first and second dose of two-dose vaccines.",
+    "extra": {
+      "nct_id": "NCT04894435",
+      "status": "COMPLETED",
+      "phase": "PHASE2"
+    },
+    "date": "2021-06-11",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
