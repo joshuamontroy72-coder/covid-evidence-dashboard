@@ -203,13 +203,13 @@
   {
     "id": "preprint_PPR1359709",
     "title": "Robust T and B cell activation is associated with rapid clearance of infectious SARS-CoV-2",
-    "authors": "Zemelko L, Tiburcio R, Wang YY et al.",
+    "authors": "Zemelko L, Tibúrcio R, Wang YY et al.",
     "journal": "bioRxiv",
     "published_date": "2026-11-05",
     "url": "https://europepmc.org/article/PPR/PPR1359709",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "The immunologic correlates of rapid clearance of SARS-CoV-2 shedding are not well understood, partly due to challenges of collecting samples early after infection and the fact that most studies do not measure infectious virus. Here, we performed mass cytometry profiling of peripheral blood cells collected from people 4-6 days after onset of symptoms from acute SARS-CoV-2 infection who underwent daily nasopharyngeal testing for SARS-CoV-2 culture positivity. We identified broad and coordinated activation of innate and adaptive immune cells in unvaccinated individuals with primary infection. Fas",
+    "summary": "<h4>ABSTRACT</h4>  The immunologic correlates of rapid clearance of SARS-CoV-2 shedding are not well understood, partly due to challenges of collecting samples early after infection and the fact that most studies do not measure infectious virus. Here, we performed mass cytometry profiling of peripheral blood cells collected from people 4-6 days after onset of symptoms from acute SARS-CoV-2 infection who underwent daily nasopharyngeal testing for SARS-CoV-2 culture positivity. We identified broad and coordinated activation of innate and adaptive immune cells in unvaccinated individuals with pri",
     "date": "2026-11-05",
     "policy_area": [
       "general_covid"
@@ -253,7 +253,7 @@
   {
     "id": "preprint_PPR1359783",
     "title": "VaccineScout: A Computational Framework for Guiding the Composition and Valency of SARS-CoV-2 Vaccine Updates",
-    "authors": "Gangwar P, Khanna S, Wertheim J et al.",
+    "authors": "Gangwar P, Khanna S, Wertheim JO et al.",
     "journal": "medRxiv",
     "published_date": "2026-11-04",
     "url": "https://europepmc.org/article/PPR/PPR1359783",
@@ -4243,6 +4243,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_18bec2638190a201",
+    "title": "Updates to policy covering flu and COVID-19 vaccinations - UCnet",
+    "authors": "UCnet",
+    "journal": "UCnet",
+    "published_date": "2025-12-23",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVVzX3pqSFNnMk1DYVAyeU1Od2hBNzhEMklnRVlmU2VrbjE3dG9scUVHd2g3SzRlM01PaUdCNW02S0owSjV1S3E5NTBIZ0p3TlJjRXd4TFZXNm9hb1hpYWF6a1YzYVp5YkRieFEydDdsQ3lSR0pjT2FFVDE2Ri1JWkR1UzZlZnBwVXFYcFBIdTA1dlpOcXRBNzZDcVBrakF6cWFZbzBZR0tlR3FjWUFCT2pR?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Updates to policy covering flu and COVID-19 vaccinations &nbsp;&nbsp; UCnet",
+    "date": "2025-12-23",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
