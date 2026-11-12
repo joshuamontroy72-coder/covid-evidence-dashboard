@@ -1,5 +1,80 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-12",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-12",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_0c921241fe790289",
+    "title": "Four Medical Societies, in Panel Led by UMSOM Expert, Back One Set of Flu, RSV and COVID-19 Vaccine Recommendations | Newswise - Newswise",
+    "authors": "Newswise",
+    "journal": "Newswise",
+    "published_date": "2026-11-12",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU0l4b1ktOG1acUxoa2RvYnE0Z2Qtcl9XbzByZTVGQ3JjcXNpZEZGMFNUVC0wRlhpQnI0VG5HSXJsSVNuTi15ck55V1Fldl9McnVXYWRxUGZPaHRXSUtPVlFQZlhMcWpLdnFHSVdxcVh3bjhsQVI2LVE5RndYWTBhbDZ0MTRkUVVFN3ZrOGZTSGZuUjlZemlqZDFXZDJNX052WkZSbGI4TnF2dl9JOWF5TzRaNnJNV2JPZHVHOXNqQzcwU1hMdEdSSExIM3FwZVBqVHY0Y3NrZU8tSmEwamtyRtIB4AFBVV95cUxQU0l4b1ktOG1acUxoa2RvYnE0Z2Qtcl9XbzByZTVGQ3JjcXNpZEZGMFNUVC0wRlhpQnI0VG5HSXJsSVNuTi15ck55V1Fldl9McnVXYWRxUGZPaHRXSUtPVlFQZlhMcWpLdnFHSVdxcVh3bjhsQVI2LVE5RndYWTBhbDZ0MTRkUVVFN3ZrOGZTSGZuUjlZemlqZDFXZDJNX052WkZSbGI4TnF2dl9JOWF5TzRaNnJNV2JPZHVHOXNqQzcwU1hMdEdSSExIM3FwZVBqVHY0Y3NrZU8tSmEwamtyRg?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Four Medical Societies, in Panel Led by UMSOM Expert, Back One Set of Flu, RSV and COVID-19 Vaccine Recommendations | Newswise &nbsp;&nbsp; Newswise",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1362976",
+    "title": "COVID-19 vaccination, clinical presentation and 14-day outcomes in Cumilla, Bangladesh: a cross-sectional study",
+    "authors": "Tasfia Q, Islam A, Maruf SA et al.",
+    "journal": "Research Square",
+    "published_date": "2026-11-10",
+    "url": "https://europepmc.org/article/PPR/PPR1362976",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Background  Community evidence from Bangladesh on how vaccination, clinical presentation and short-term outcomes intersected during the early COVID-19 vaccine rollout is limited. We assessed test positivity, clinical characteristics, vaccination status and 14-day outcomes among people tested for suspected COVID-19 in six upazilas of Cumilla district. Methods  Cross-sectional study of 320 adults tested between 1 April and 31 May 2021, with a retrospective day-by-day 14-day symptom history and outcome assessment for the 86 test-positive cases. Test results (reverse tr",
+    "date": "2026-11-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_668eca450a8220af",
     "title": "Legionellosis in residents of England and Wales: 2025",
     "authors": "UKHSA",
@@ -75,6 +150,57 @@
     "pharma": false
   },
   {
+    "id": "pubmed_43002443",
+    "title": "An active national survey of the BNT162b2 mRNA COVID-19 vaccine safety in Israeli children",
+    "authors": "Zatlawi M, Glatman-Freedman A, Frankenthal D et al.",
+    "journal": "",
+    "published_date": "2026-11-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002443/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43002443",
+    "summary": "The urgent need for COVID-19 vaccines led to rapid mRNA vaccine development, making safety evaluation essential for current vaccination programs and future mRNA vaccines, particularly in children. To systematically evaluate adverse events (AEs) following two BNT162b2 doses in 5-11-year-old children, including those with comorbidities, a national telephone survey (January-March 2022) was conducted among parents of children who had received the second BNT162b2 dose 21-30 days prior. Children were randomly sampled from the national vaccination registry. For each dose, multivariable logistic regre",
+    "date": "2026-11-09",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1363832",
+    "title": "Post-Vaccination COVID-19 Infection and Its Correlates among Residents of Chandra, Gazipur, Bangladesh: A Cross-Sectional Study",
+    "authors": "Al Hasan Pranto A, Sushmita Zafar S, Fakhruzzaman M et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-11-09",
+    "url": "https://europepmc.org/article/PPR/PPR1363832",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> COVID 19 vaccines are highly effective at preventing severe disease and death but post vaccination (breakthrough) infections are still seen, especially with immune-evasive variants. There is some evidence at the community level from Bangladesh. The aim of this study was to estimate prevalence, clinical profile and correlates of post-vaccination COVID 19 infection in Chandra, Kaliakair, Gazipur, Bangladesh. <h4>Methods:</h4> This was a community based cross-sectional study that included adults & 8805;18 years of age with at least one dose of a COVID 19 vaccine from March 2",
+    "date": "2026-11-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_806a3d8ed70226e6",
     "title": "COVID-19 vaccination: information for healthcare practitioners",
     "authors": "UKHSA",
@@ -122,31 +248,6 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "id": "rss_263cc63d9a5d64b5",
-    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-11-05",
-    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-11-05",
-    "policy_area": [
-      "booster_frequency"
-    ],
-    "policy_area_labels": [
-      "Booster frequency & intervals"
-    ],
-    "pregnancy_related": false,
-    "canadian": false,
-    "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
     "reviewed": false,
     "pharma": false
   },
@@ -457,6 +558,34 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42950580",
+    "title": "Boosting hybrid immunity with intranasal live-attenuated or intramuscular mRNA vaccination prevents SARS-CoV-2 XBB.1.5 transmission",
+    "authors": "Kochmann J, Halwe NJ, Barut GT et al.",
+    "journal": "",
+    "published_date": "2026-10-28",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950580/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42950580",
+    "summary": "Rapid antigenic evolution of SARS-CoV-2 and waning immunity have reduced antibody-mediated neutralization, enabling breakthrough infections and sustained transmission despite widespread immunity. This highlights the need for variant-adapted booster vaccines. However, pre-existing immunity may influence the magnitude and specificity of immune responses induced by variant-adapted booster vaccination. Using the Syrian hamster model, we previously described a safe and efficient mucosal vaccination approach using live attenuated viruses (LAV) based on a \"One-to-Stop (OTS)\" codon modification strate",
+    "date": "2026-10-28",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_36ff4ec5e241ddb6",
     "title": "Experts at St. Olaf: Why annual flu and COVID-19 vaccines matter - St. Olaf College",
     "authors": "St. Olaf College",
@@ -608,6 +737,58 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42933243",
+    "title": "mRNA vaccine encoding multimerized AIV-M2e fused to MHC-II invariant chain motif and Pan-DR epitope confers protection against H9N2 virus in chickens",
+    "authors": "Yadav S, Varma A, Jana S et al.",
+    "journal": "",
+    "published_date": "2026-10-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933243/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42933243",
+    "summary": "Avian influenza viruses (AIVs) remain a major threat to global poultry health and production. The risk of cross-species transmission among diverse AIV subtypes poses a significant challenge to disease control, underscoring the need for vaccines that provide broad and durable protection. However, existing inactivated and vector-based vaccines provide limited cross-subtype coverage and durable immunity against antigenically diverse AIVs. In contrast, the success of mRNA vaccines against SARS-CoV-2 has accelerated vaccine development by enabling rapid, flexible, and scalable vaccine design compar",
+    "date": "2026-10-26",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42933241",
+    "title": "Monitoring of adverse events following 2024-2025 BNT162b2 KP.2 COVID-19 vaccination in the United States",
+    "authors": "Sun JW, Dodge LE, Cai S et al.",
+    "journal": "",
+    "published_date": "2026-10-26",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933241/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42933241",
+    "summary": "Large real-world data studies are needed to understand the safety profile of the 2024-2025 adapted COVID-19 vaccines. This study monitors the occurrence of 20 adverse events of special interest (AESIs) following 2024-2025 BNT162b2 KP.2 COVID-19 vaccination. Individuals age ≥ 6 months vaccinated between 08/22/2024 and 03/10/2025 were identified within the Optum pre-adjudicated database. A self-controlled risk interval design was used to compare the incidence of 20 AESIs during a risk period following vaccination to a subsequent control period among 894,852,024-2025 BNT162b2 COVID-19-vaccinated ",
+    "date": "2026-10-26",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1349409",
     "title": "Emulating a vaccine target trial under unmeasured confounding: single and double negative control methods",
     "authors": "Schaeffer B, Chervo T, Elkin EP et al.",
@@ -677,6 +858,32 @@
     ],
     "policy_area_labels": [
       "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42914658",
+    "title": "Ischemic stroke after bivalent mRNA COVID-19 vaccination and influenza vaccination during the 2022-2023 season: a multi-site self-controlled case series study",
+    "authors": "Xu S, Sy LS, Hong V et al.",
+    "journal": "",
+    "published_date": "2026-10-23",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42914658/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42914658",
+    "summary": "<h4>Background</h4>The Vaccine Safety Datalink (VSD) detected a statistical signal for ischemic events (ischemic stroke or transient ischemic attack) following bivalent mRNA COVID-19 vaccination through prospective surveillance during 2022-2023. Although multiple studies from other surveillance systems and countries reported no increased risk, important methodological limitations remained. This U.S. study addressed those limitations by evaluating the ischemic stroke risk following bivalent mRNA COVID-19 vaccination, influenza vaccination, and their same-day coadministration using an event-depe",
+    "date": "2026-10-23",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
     ],
     "pregnancy_related": false,
     "canadian": false,
@@ -1651,7 +1858,7 @@
     "summary": "The purpose of this study is to evaluate the safety and immunogenicity of a single dose of Sanofi's Omicron subvariant-based Nuvaxovid in participants ≥ 65 years of age and participants 12 through 64 years of age who have at least one underlying condition that puts them at increased risk for severe outcomes of COVID-19 and who have been previously vaccinated with a COVID-19 vaccine ≥ 90 days prior to study vaccination.\n\nStudy details include:\n\n* The study duration will be approximately 3 months per participant.\n* Study intervention will be administered via a single intramuscular (IM) injection",
     "extra": {
       "nct_id": "NCT07861542",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "phase": "PHASE4"
     },
     "date": "2026-10-01",
