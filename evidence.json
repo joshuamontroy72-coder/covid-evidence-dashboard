@@ -50,6 +50,108 @@
     "pharma": false
   },
   {
+    "id": "preprint_PPR1366211",
+    "title": "Personalized HLA-aware TCR measure predicts the risk of symptomatic SARS-CoV-2 infection following booster vaccination",
+    "authors": "Mayer-Blackwell K, Hussain K, Ebrahimi N et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-11-12",
+    "url": "https://europepmc.org/article/PPR/PPR1366211",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "HLA-driven heterogeneity and limitations of live T cell functional assays routinely thwart assessment of cell-mediated immunity in vaccination trials. To address this, we developed a T-cell receptor (TCR)-based measure of immunogen recognition and evaluated it in COV-BOOST, a third-dose COVID-19 vaccine trial, during the Delta and Omicron waves (2021-2022, United Kingdom). We estimated HLA-aware Spike-reactive T cell (HA-TS) breadth from participant HLA genotypes, TCRβ repertoires, and a novel SARS-CoV-2 S HLA-linked reference catalog. Higher post-boost HA-TS breadth was associated with lower ",
+    "date": "2026-11-12",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1365970",
+    "title": "Schistosoma mansoni Infection Alters Antibody Subclass Profiles but Preserves SARS-CoV-2 mRNA Vaccine-Induced Neutralizing Activity in a Murine Model",
+    "authors": "Mu Y, Yan K, Bishop C et al.",
+    "journal": "Research Square",
+    "published_date": "2026-11-12",
+    "url": "https://europepmc.org/article/PPR/PPR1365970",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  Objectives  Helminth infections can modulate host immune responses and potentially influence immunogenicity of vaccines against unrelated pathogens. This study investigated the effects of  <italic>Schistosoma mansoni</italic>  infection on immune responses to COVID-19 mRNA vaccine (BNT162b2) on in a murine model. Methods  Two experiments were conducted using C57BL/6J mice assigned to three groups: uninfected and unvaccinated controls,  <italic>S. mansoni</italic>  -infected vaccinated mice, and uninfected vaccinated mice. The experiments differed in parasite inocu",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1365632",
+    "title": "Barriers and Enablers of COVID-19 Vaccination Among Black, Eastern European, and Low Socioeconomic Status Communities in Canada",
+    "authors": "Langmuir T, Gibson E, Fontaine G et al.",
+    "journal": "Research Square",
+    "published_date": "2026-11-12",
+    "url": "https://europepmc.org/article/PPR/PPR1365632",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  Background  The COVID-19 pandemic exacerbated existing health inequities in Canada and globally. Vaccination remains a key protective behaviour, but some population groups have lower uptake. We aimed to identify factors that influence COVID-19 vaccine uptake in three groups prioritised by local public health officials in Ontario, Canada. Methods  We partnered with local public health units and community members from prioritised communities (Black, Eastern European, and neighbourhoods with low uptake) to investigate population-specific barriers and enablers of COVI",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1364955",
+    "title": "<span data-teams=\"true\">Influenza A/B, RSV and SARS-CoV-2 Co-Detection Among Adults with Acute Respiratory Illness in Zimbabwe, 2022–2023: A Sub-Study of a COVID-19 Vaccine Effectiveness Study",
+    "authors": "Kavhumbura GM, Gundidza PT, Gurumani M et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-11-12",
+    "url": "https://europepmc.org/article/PPR/PPR1364955",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> /Objectives: Influenza, respiratory syncytial virus (RSV), and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) cause overlapping respiratory illness, but Zimbabwean adult multipathogen data remain limited. We described influenza and RSV detection and co-detection with SARS-CoV-2 among adults enrolled in the ZIMCOVVAR study. <h4>Methods:</h4> This retrospective sub-study included nasopharyngeal specimens from adults with acute respiratory illness recruited in six Zimbabwean provinces during 2022-2023. Following exclusion of duplicate and unlinked records, 1,42",
+    "date": "2026-11-12",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1362976",
     "title": "COVID-19 vaccination, clinical presentation and 14-day outcomes in Cumilla, Bangladesh: a cross-sectional study",
     "authors": "Tasfia Q, Islam A, Maruf SA et al.",
@@ -184,7 +286,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1363832",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "<h4>Background: </h4> COVID 19 vaccines are highly effective at preventing severe disease and death but post vaccination (breakthrough) infections are still seen, especially with immune-evasive variants. There is some evidence at the community level from Bangladesh. The aim of this study was to estimate prevalence, clinical profile and correlates of post-vaccination COVID 19 infection in Chandra, Kaliakair, Gazipur, Bangladesh. <h4>Methods:</h4> This was a community based cross-sectional study that included adults & 8805;18 years of age with at least one dose of a COVID 19 vaccine from March 2",
+    "summary": "<h4>Background</h4>  COVID-19 vaccines are highly effective at preventing severe disease and death but post-vaccination (breakthrough) infections are still seen, especially with immune-evasive variants. There is some evidence at the community level from Bangladesh. The aim of this study was to estimate prevalence, clinical profile and correlates of post-vaccination COVID-19 infection in Chandra, Kaliakair, Gazipur, Bangladesh. <h4>Methods</h4>  This was a community-based cross-sectional study that included adults ≥18 years of age with at least one dose of a COVID-19 vaccine from March 2021 to ",
     "date": "2026-11-09",
     "policy_area": [
       "general_covid"
@@ -586,6 +688,38 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT07890454",
+    "title": "Study of a Combination SARS-CoV-2 Recombinant Spike and High-Dose Inactivated Influenza Vaccine With Matrix-M Adjuvant in Adult Participants 60 Years of Age and Older",
+    "authors": "Sanofi",
+    "journal": "ClinicalTrials.gov · PHASE3",
+    "published_date": "2026-10-28",
+    "url": "https://clinicaltrials.gov/study/NCT07890454",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The purpose of this study is to assess the safety and immunogenicity of IIV-HD + NVXC19 vaccine compared to seasonal influenza vaccine (IIV-HD) and COVID-19 vaccine, adjuvanted (NVXC19) coadministered in adult participants 60 years of age and older. Placebo will be coadministered in the IIV-HD + NVXC19 study group to control for the number of injections and to maintain observer-blinding. Thus, each participant will receive 2 injections at enrollment, one in each deltoid muscle.\n\nStudy details include:\n\n* The study duration will be approximately 12 months per participant\n* Study intervention wi",
+    "extra": {
+      "nct_id": "NCT07890454",
+      "status": "RECRUITING",
+      "phase": "PHASE3"
+    },
+    "date": "2026-10-28",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_36ff4ec5e241ddb6",
     "title": "Experts at St. Olaf: Why annual flu and COVID-19 vaccines matter - St. Olaf College",
     "authors": "St. Olaf College",
@@ -655,6 +789,32 @@
     ],
     "pregnancy_related": false,
     "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43022070",
+    "title": "Assessing vaccine hesitancy among nurses in Quebec, Canada using the professionals' vaccine confidence and behaviors questionnaire: a cross sectional survey. ",
+    "authors": "Dubé E, Trottier ME, Fressard L et al.",
+    "journal": "",
+    "published_date": "2026-10-27",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022070/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43022070",
+    "summary": "Vaccine hesitancy remains a major global health challenge, further intensified by the COVID-19 pandemic through widespread misinformation and declining trust in institutions. Healthcare providers, particularly nurses in Quebec (Canada), play a pivotal role in promoting vaccine uptake, yet hesitancy within this group may undermine public confidence and vaccination coverage. This study aimed to assess nurses' vaccination attitudes and behaviours in Québec and examine the influence of working conditions on these outcomes. A cross-sectional online survey was conducted among 1428 nurses using the s",
+    "date": "2026-10-27",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
@@ -1816,6 +1976,32 @@
     "pregnancy_related": false,
     "canadian": false,
     "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42828645",
+    "title": "Safety Monitoring of COVID-19 Vaccines in the Vaccine Adverse Event Reporting System (VAERS): United States, August 22, 2024-July 4, 2025",
+    "authors": "Romanson B, Moro PL, Strid P et al.",
+    "journal": "",
+    "published_date": "2026-10-03",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828645/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42828645",
+    "summary": "<h4>Background</h4>The 2024-2025 formulation for all Coronavirus Disease 2019 (COVID-19) vaccines licensed or authorized in the United States (US) was updated to a monovalent vaccine based on the Omicron JN.1 lineage of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Post-authorization and post-approval safety monitoring is important to ensure ongoing vaccine safety.<h4>Objectives</h4>The aim of this study was to evaluate and summarize reports to the Vaccine Adverse Event Reporting System (VAERS) among persons who received the 2024-2025 formulation of the COVID-19 vaccines in the",
+    "date": "2026-10-03",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
     "reviewed": false,
@@ -3612,6 +3798,32 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43017190",
+    "title": "U.S. Pediatric Infectious Diseases, 1990-2023 (GBD 2023): Trends in Incidence, Mortality, and DALYs: A Global Burden of Disease Study",
+    "authors": "Nguyen NT, La QD, Balakrishnan S et al.",
+    "journal": "",
+    "published_date": "2026-07-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43017190/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43017190",
+    "summary": "<h4>Introduction</h4>Infectious disease mortality among children in the U.S. has declined substantially over recent decades, but contemporary national patterns of infectious disease morbidity, mortality, and disability remain incompletely characterized. This study analyzed national trends in infectious disease incidence, mortality, and disability among children aged 0-14 years in the U.S. from 1990 to 2023 using Global Burden of Disease 2023 estimates, focusing on communicable diseases and excluding both COVID-19 and unspecified infectious conditions.<h4>Methods</h4>This retrospective analysis",
+    "date": "2026-07-22",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
