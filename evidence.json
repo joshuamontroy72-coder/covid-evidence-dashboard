@@ -797,7 +797,7 @@
   },
   {
     "id": "pubmed_43022070",
-    "title": "Assessing vaccine hesitancy among nurses in Quebec, Canada using the professionals' vaccine confidence and behaviors questionnaire: a cross sectional survey. ",
+    "title": "Assessing vaccine hesitancy among nurses in Quebec, Canada using the professionals' vaccine confidence and behaviors questionnaire: a cross sectional survey",
     "authors": "Dubé E, Trottier ME, Fressard L et al.",
     "journal": "",
     "published_date": "2026-10-27",
@@ -805,7 +805,7 @@
     "source": "PubMed / Europe PMC",
     "source_type": "journal_article",
     "pmid": "43022070",
-    "summary": "Vaccine hesitancy remains a major global health challenge, further intensified by the COVID-19 pandemic through widespread misinformation and declining trust in institutions. Healthcare providers, particularly nurses in Quebec (Canada), play a pivotal role in promoting vaccine uptake, yet hesitancy within this group may undermine public confidence and vaccination coverage. This study aimed to assess nurses' vaccination attitudes and behaviours in Québec and examine the influence of working conditions on these outcomes. A cross-sectional online survey was conducted among 1428 nurses using the s",
+    "summary": "<h4>Background</h4>Vaccine hesitancy remains a major global health challenge, further intensified by the COVID-19 pandemic through widespread misinformation and declining trust in institutions. Healthcare providers, particularly nurses in Quebec (Canada), play a pivotal role in promoting vaccine uptake, yet hesitancy within this group may undermine public confidence and vaccination coverage.<h4>Objective</h4>This study aimed to assess nurses' vaccination attitudes and behaviours in Québec and examine the influence of working conditions on these outcomes<b>.</b><h4>Design setting and participan",
     "date": "2026-10-27",
     "policy_area": [
       "general_covid"
@@ -2886,6 +2886,31 @@
     "pharma": false
   },
   {
+    "id": "news_93559d03f65aa751",
+    "title": "Updated COVID-19 Vaccines Now Available at Walgreens - Walgreens Corporate Site",
+    "authors": "Walgreens Corporate Site",
+    "journal": "Walgreens Corporate Site",
+    "published_date": "2026-09-04",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUDhtUDlQelJGdmlBR1NFOU8yQ0g2UzhJOW1VQ1JCcWswb3lPTE9lZng2eldrYVdVbTBOQkJyUEk3emVxOU94Z0x6ZVM1elI1TkVPNGV3d0JOWVBxZ1AyM0NzbUYydVJra013V0N2OGthazlrZTEwZ19vRzFkRW9VYjBPWW9oVWkxWVRSVlNYR2wwR2ZpWjZyNFJlX0tHcmpqZFJodzdQVFNJYVZORUwxOWxMbXRwVENZem9YYkh5bTZodkprRWJzMUlZTWlkYlNkV3RJ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Updated COVID-19 Vaccines Now Available at Walgreens &nbsp;&nbsp; Walgreens Corporate Site",
+    "date": "2026-09-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1311435",
     "title": "Reducing immunization inequities among zero-dose and under-vaccinated children through catch-up vaccination in Burkina Faso: findings from a mixed-method evaluation of the Big Catch-Up initiative, 2023–2025",
     "authors": "ZONGO A, DIALLO H, DADJO CH et al.",
@@ -3659,6 +3684,32 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42579887",
+    "title": "Administrative Burden and Vaccination Uptake Disparities: Evidence from Medicaid Participation Among Low-Income Adults",
+    "authors": "Kochersperger EC",
+    "journal": "",
+    "published_date": "2026-08-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42579887/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42579887",
+    "summary": "<h4>Context</h4>During the early COVID-19 vaccine rollout, large disparities in uptake emerged across income and insurance groups, despite the vaccine being made available at no cost to recipients. Medicaid, as the largest public insurance program for low-income adults, was positioned to play a key role in supporting equitable COVID-19 vaccination uptake. However, administrative burden (AB) and fragmented enrolment processes may have inhibited participation.<h4>Objective</h4>To estimate the relationship between Medicaid coverage and COVID-19 vaccine uptake among low-income adults, and assess w",
+    "date": "2026-08-11",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -4974,14 +5025,14 @@
   },
   {
     "id": "news_466722791dc44445",
-    "title": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 - NEJM",
-    "authors": "NEJM",
-    "journal": "NEJM",
+    "title": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 - The New England Journal of Medicine",
+    "authors": "The New England Journal of Medicine",
+    "journal": "The New England Journal of Medicine",
     "published_date": "2025-10-29",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HalZrYmp4S3VPVFptWWRtT1pDMl83eFMtU2wzNHpDX0FBTjdVNHZ4Z0RrX2R6QXNNN3FtUUZ3OWRqWkVld0g4UDdoT0IzaHNNbjJvWEZzMjVfRGx6UXRtaA?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; NEJM",
+    "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; The New England Journal of Medicine",
     "date": "2025-10-29",
     "policy_area": [
       "general_covid"
@@ -5585,14 +5636,14 @@
   },
   {
     "id": "news_778f02aaf56fc0aa",
-    "title": "An Evidence-Based Approach to Covid-19 Vaccination - NEJM",
-    "authors": "NEJM",
-    "journal": "NEJM",
+    "title": "An Evidence-Based Approach to Covid-19 Vaccination - The New England Journal of Medicine",
+    "authors": "The New England Journal of Medicine",
+    "journal": "The New England Journal of Medicine",
     "published_date": "2025-05-20",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ybE9SbVFHLTczcUNiTmRsdk4zWEptYWRqUnF6Z0RwZ3VPRHFoamwwRG1kLXdQWHNNckVXajdSbTNvbFAxRVBIclBWa1BjdWJUeXRHUEk5V0xEdzgtN21Ecw?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; NEJM",
+    "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; The New England Journal of Medicine",
     "date": "2025-05-20",
     "policy_area": [
       "general_covid"
