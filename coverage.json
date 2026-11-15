@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T17:39:12.488023+00:00",
-  "total": 320,
+  "updated_at": "2026-11-15T18:28:37.270347+00:00",
+  "total": 322,
   "channels": [
     {
       "id": "journals",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 78
+      "count": 80
     },
     {
       "id": "press",
@@ -60,7 +60,7 @@
     {
       "id": "population_targeting",
       "label": "Population targeting",
-      "count": 90
+      "count": 91
     },
     {
       "id": "strain_selection",
@@ -70,7 +70,7 @@
     {
       "id": "general_covid",
       "label": "General COVID-19 vaccines",
-      "count": 159
+      "count": 160
     }
   ],
   "fetcher_log": [
@@ -79,42 +79,42 @@
       "fetched": 137,
       "kept": 45,
       "error": null,
-      "fetched_at": "2026-11-14T17:38:35.608645+00:00"
+      "fetched_at": "2026-11-15T18:28:03.409007+00:00"
     },
     {
       "source": "medRxiv / bioRxiv preprints",
       "fetched": 80,
       "kept": 57,
       "error": null,
-      "fetched_at": "2026-11-14T17:38:36.047735+00:00"
+      "fetched_at": "2026-11-15T18:28:03.927914+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 80,
       "kept": 69,
       "error": null,
-      "fetched_at": "2026-11-14T17:38:36.371015+00:00"
+      "fetched_at": "2026-11-15T18:28:04.049340+00:00"
     },
     {
       "source": "WHO IRIS",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-11-14T17:38:37.657170+00:00"
+      "fetched_at": "2026-11-15T18:28:04.187443+00:00"
     },
     {
       "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
       "fetched": 50,
       "kept": 10,
       "error": null,
-      "fetched_at": "2026-11-14T17:39:09.602981+00:00"
+      "fetched_at": "2026-11-15T18:28:35.146735+00:00"
     },
     {
       "source": "Google News",
       "fetched": 69,
-      "kept": 38,
+      "kept": 39,
       "error": null,
-      "fetched_at": "2026-11-14T17:39:11.656364+00:00"
+      "fetched_at": "2026-11-15T18:28:37.239774+00:00"
     }
   ]
 }

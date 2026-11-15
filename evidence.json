@@ -4852,6 +4852,31 @@
     "pharma": false
   },
   {
+    "id": "news_d116c528d1339b0a",
+    "title": "Stanford Medicine study shows why mRNA COVID-19 vaccine can cause myocarditis - Stanford Medicine",
+    "authors": "Stanford Medicine",
+    "journal": "Stanford Medicine",
+    "published_date": "2025-12-10",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2dXd2s2RGNJLWtrU2dPeHd4Zm15bUxURkZ0VUE4MVpncEJGYkIxLTBka0p1TnA0elBVcmdyM182SjZxWkN1Sk1mZzd1ZFUzVUE2dlFNZjN2ZHdnQlY0a2RHS1JNZGh3QzlHTml6QXh3bk15bnMtdmFzRnAtRVpReGViOA?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Stanford Medicine study shows why mRNA COVID-19 vaccine can cause myocarditis &nbsp;&nbsp; Stanford Medicine",
+    "date": "2025-12-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT07266558",
     "title": "A Study to Evaluate the Efficacy and Safety of mRNA-1283 and mRNA-1273 in Participants 50 to 64 Years of Age Without High-Risk Conditions for Severe Coronavirus Disease 2019 (COVID-19)",
     "authors": "ModernaTX, Inc.",
@@ -6749,6 +6774,31 @@
     ],
     "policy_area_labels": [
       "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_7e8cfa80e5d8ecef",
+    "title": "COVID-19 Vaccines and People with Cancer - National Cancer Institute (.gov)",
+    "authors": "National Cancer Institute (.gov)",
+    "journal": "National Cancer Institute (.gov)",
+    "published_date": "2023-10-10",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWNuZG8zSVM0cFdsN0VFbjVwVEdhVmpYbGUwbnFhcVl6X2hNRHQwM29QVUVHQS1lTzVMMVJhcFZDTnpLclV6UG9XdHBWSnZMcHFWZnlMZUEzcExZWWY1M0g0M1dtM2pySmlPc0lkZ180Uk92MWNZNGlqN3h2RHIzNnJBV2V0dWViQ0N0cw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "COVID-19 Vaccines and People with Cancer &nbsp;&nbsp; National Cancer Institute (.gov)",
+    "date": "2023-10-10",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
     ],
     "pregnancy_related": false,
     "canadian": false,
