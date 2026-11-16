@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_94529a5f99aee493",
+    "title": "National flu and COVID-19 surveillance report, week 47 report: data to week 46 (data up to 15 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-16",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-47-report-data-to-week-46-data-up-to-15-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-16",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -6983,6 +7008,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT06128928",
+    "title": "Connecting Friends and Health Workers to Boost COVID-19 Vaccination in Latino Communities",
+    "authors": "Johns Hopkins University",
+    "journal": "ClinicalTrials.gov · NA",
+    "published_date": "2023-07-08",
+    "url": "https://clinicaltrials.gov/study/NCT06128928",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The goal of this clinical trial is to find out which approach works better in getting more of the friends and connections of Latino adults get vaccinated against COVID-19.\n\nThe main questions this study aims to answer are:\n\n1. Can teaching people to use motivational interviewing help more friends and connections of Latino adults get the COVID-19 vaccine compared to just giving information about the vaccine?\n2. What are the things that make it easier or harder for Latinos and networks to get the COVID-19 vaccine?\n3. How does this intervention work in practice so that it can be made available to",
+    "extra": {
+      "nct_id": "NCT06128928",
+      "status": "RECRUITING",
+      "phase": "NA"
+    },
+    "date": "2023-07-08",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "naci_covid_immunocompromised_2023",
     "title": "NACI recommendations on the use of COVID-19 vaccines in immunocompromised individuals",
     "authors": "NACI",
@@ -8351,6 +8406,36 @@
     ],
     "pregnancy_related": false,
     "canadian": true,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT04579588",
+    "title": "Understanding Immunity to the Flu Vaccine in COVID-19 Patients",
+    "authors": "Stanford University",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2020-10-29",
+    "url": "https://clinicaltrials.gov/study/NCT04579588",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The purpose of this study is to measure immunity to the flu vaccine over time in patients who have had COVID-19 and may have other medical conditions including obesity, type 2 diabetes, chronic fatigue, or long-term COVID-19 symptoms. Adults and children (age 9 to 64) who had been diagnosed with COVID-19 as well as controls without COVID-19 will be invited to participate in this study.",
+    "extra": {
+      "nct_id": "NCT04579588",
+      "status": "RECRUITING",
+      "phase": ""
+    },
+    "date": "2020-10-29",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
