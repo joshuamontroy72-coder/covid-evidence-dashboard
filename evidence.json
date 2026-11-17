@@ -1,5 +1,30 @@
 [
   {
+    "id": "preprint_PPR1368973",
+    "title": "mRNA-Lipid Nanoparticle Vaccines for Infectious Diseases: Mechanisms of Action and Translational Progress",
+    "authors": "Zhao Y, Cheng H, Zhou S et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-11-17",
+    "url": "https://europepmc.org/article/PPR/PPR1368973",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Six years after the first emergency use authorizations, mRNA-lipid nanoparticle (mRNA-LNP) vaccines have gone from a platform without a licensed product to one that supplies a large share of the world's COVID-19 and respiratory syncytial virus (RSV) vaccine doses and has completed phase 3 trials for seasonal influenza. Their performance depends on mechanisms that are being resolved with unusual speed at the level of individual cell types, receptors and molecular interactions, and several textbook assumptions have had to be revised in the process. This review follows the vaccine from the formul",
+    "date": "2026-11-17",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_94529a5f99aee493",
     "title": "National flu and COVID-19 surveillance report, week 47 report: data to week 46 (data up to 15 November 2026)",
     "authors": "UKHSA",
@@ -83,7 +108,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1366211",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "HLA-driven heterogeneity and limitations of live T cell functional assays routinely thwart assessment of cell-mediated immunity in vaccination trials. To address this, we developed a T-cell receptor (TCR)-based measure of immunogen recognition and evaluated it in COV-BOOST, a third-dose COVID-19 vaccine trial, during the Delta and Omicron waves (2021-2022, United Kingdom). We estimated HLA-aware Spike-reactive T cell (HA-TS) breadth from participant HLA genotypes, TCRβ repertoires, and a novel SARS-CoV-2 S HLA-linked reference catalog. Higher post-boost HA-TS breadth was associated with lower ",
+    "summary": "HLA-driven heterogeneity and limitations of live T cell functional assays routinely thwart assessment of cell-mediated immunity in vaccination trials. To address this, we developed a T-cell receptor (TCR)-based measure of immunogen recognition and evaluated it in COV-BOOST, a third-dose COVID-19 vaccine trial, during the Delta and Omicron waves (2021-2022, United Kingdom). We estimated HLA-aware Spike-reactive T cell (HA-T  S ) breadth from participant HLA genotypes, TCRβ repertoires, and a novel SARS-CoV-2 Spike HLA-linked reference catalog. Higher post-boost HA-T  S breadth was associated wi",
     "date": "2026-11-12",
     "policy_area": [
       "booster_frequency",
@@ -312,6 +337,31 @@
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
     "summary": "<h4>Background</h4>  COVID-19 vaccines are highly effective at preventing severe disease and death but post-vaccination (breakthrough) infections are still seen, especially with immune-evasive variants. There is some evidence at the community level from Bangladesh. The aim of this study was to estimate prevalence, clinical profile and correlates of post-vaccination COVID-19 infection in Chandra, Kaliakair, Gazipur, Bangladesh. <h4>Methods</h4>  This was a community-based cross-sectional study that included adults ≥18 years of age with at least one dose of a COVID-19 vaccine from March 2021 to ",
+    "date": "2026-11-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1362718",
+    "title": "Doxycycline and Nitazoxanide as a Candidate Immunomodulatory Combination for the Early Management of Ebola Disease Caused by Bundibugyo Virus",
+    "authors": "Kelleni MT",
+    "journal": "Preprints.org",
+    "published_date": "2026-11-09",
+    "url": "https://europepmc.org/article/PPR/PPR1362718",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "As of 5 November 2026, Bundibugyo virus disease in the Democratic Republic of the Congo had produced 10,741 confirmed cases and 5,230 deaths, with close to two of every three deaths in an earlier WHO reporting interval occurring in communities rather than treatment centres. No vaccine or treatment is approved for this species, and the agents in trials are monoclonal antibodies and direct-acting antivirals. In 2021 I proposed reclassifying COVID-19, Ebola virus disease and Nipah virus infection as a novel acute onset immune dysrhythmia syndrome. Read through it, the pathology now described in B",
     "date": "2026-11-09",
     "policy_area": [
       "general_covid"
@@ -1294,7 +1344,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1344234",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike’s receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS-CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naïve human B c",
+    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike's receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS- CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naive human B ",
     "date": "2026-10-16",
     "policy_area": [
       "general_covid"
@@ -2984,6 +3034,31 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1312818",
+    "title": "Diversifying deaths: the shifting spectrum of childhood respiratory infectious mortality, 1990–2023: a systematic analysis of the Global Burden of Disease Study 2023",
+    "authors": "Lia D, Chen H, Miao Y et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-09-03",
+    "url": "https://europepmc.org/article/PPR/PPR1312818",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background</h4>  Childhood respiratory infectious deaths are partitioned across four Global Burden of Disease cause modules—26 etiological attributions within lower respiratory infections, tuberculosis, COVID-19, and whooping cough—never jointly reported. Whether the structure of this combined mortality spectrum has changed over time, and with what implications for intervention design, has not been quantified. We assembled and analyzed the integrated spectrum for children and adolescents aged 0– 19 years, 1990–2023. <h4>Methods</h4>  We integrated Global Burden of Disease Study 2023 (relea",
+    "date": "2026-09-03",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -5417,12 +5492,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-05",
+    "published_date": "2025-09-06",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "policy_area": [
       "general_covid"
     ],
@@ -6784,6 +6859,38 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT06181292",
+    "title": "Safety and Immunogenicity of a Booster Vaccination With an Adapted Vaccine",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE2, PHASE3",
+    "published_date": "2023-11-15",
+    "url": "https://clinicaltrials.gov/study/NCT06181292",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This is a phase IIb/III, double-blind, randomised, active-controlled, multi-centre, non-inferiority clinical trial that aims to determine safety, tolerability and immunogenicity of a booster vaccination with a recombinant protein receptor binding domain (RBD) fusion homodimer of XBB.1.16 adapted candidate against SARS-CoV-2 developed by HIPRA (PHH-1V81).",
+    "extra": {
+      "nct_id": "NCT06181292",
+      "status": "COMPLETED",
+      "phase": "PHASE2, PHASE3"
+    },
+    "date": "2023-11-15",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_2207264f2529b163",
     "title": "COVID-19 Vaccine: Guidelines, Schedule & Efficacy - Cleveland Clinic",
     "authors": "Cleveland Clinic",
@@ -6913,6 +7020,38 @@
       "population_targeting"
     ],
     "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT05981846",
+    "title": "A Phase II Trial to Evaluate the Safety and Immunogenicity of BIMERVAX® When Coadministered With Seasonal Influenza Vaccine (SIIV) in Adults Older Than 65 Years of Age Fully Vaccinated Against COVID-19",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE2",
+    "published_date": "2023-09-04",
+    "url": "https://clinicaltrials.gov/study/NCT05981846",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This is a Phase II, randomized, double-blind, multi-centre trial to evaluate the safety and immunogenicity of BIMERVAX® when coadministered with seasonal surface antigen inactivated adjuvanted influenza vaccine (SIIV) in adults older than 65 years of age fully vaccinated against COVID-19.",
+    "extra": {
+      "nct_id": "NCT05981846",
+      "status": "COMPLETED",
+      "phase": "PHASE2"
+    },
+    "date": "2023-09-04",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
       "Population targeting"
     ],
     "pregnancy_related": false,
@@ -7626,6 +7765,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT05303402",
+    "title": "A Phase IIb/III Clinical Trial to Assess Safety and Immunogenicity of a COVID-19 Vaccine Booster Dose in Immunosupressed Adults.",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE2, PHASE3",
+    "published_date": "2022-05-12",
+    "url": "https://clinicaltrials.gov/study/NCT05303402",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "A phase IIb/III, open label, single arm, multi-centre, trial to assess the immunogenicity and safety of an additional dose vaccination with a recombinant protein RBD fusion heterodimer candidate (PHH-1V) against SARS-CoV-2, in adults with pre-existing immunosuppressive conditions vaccinated against COVID-19",
+    "extra": {
+      "nct_id": "NCT05303402",
+      "status": "COMPLETED",
+      "phase": "PHASE2, PHASE3"
+    },
+    "date": "2022-05-12",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_36754000",
     "title": "COVID-19 vaccination in pregnancy: safety and immunogenicity — systematic review and meta-analysis",
     "authors": "Prasad S, Kalafat E, Blakeway H, et al.",
@@ -7713,6 +7882,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT05305573",
+    "title": "Assessing the Immunogenicity and Safety of a HIPRA's Candidate Booster Vaccination in Adults Fully Vaccinated With Adenovirus Vaccine Against COVID-19.",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE2",
+    "published_date": "2022-03-25",
+    "url": "https://clinicaltrials.gov/study/NCT05305573",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "Phase IIb clinical trial to assess the Immunogenicity and Safety of a HIPRA's Candidate Booster vaccination (PHH-1V) in adults fully vaccinated with the adenovirus vaccine Vaxevria against COVID-19.",
+    "extra": {
+      "nct_id": "NCT05305573",
+      "status": "COMPLETED",
+      "phase": "PHASE2"
+    },
+    "date": "2022-03-25",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_d9a53fa4b77c2086",
     "title": "WHO released a new operational guide to promote COVID-19 vaccination uptake and tackle vaccine hesitancy among refugees and migrants - World Health Organization (WHO)",
     "authors": "World Health Organization (WHO)",
@@ -7734,6 +7933,36 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT05246137",
+    "title": "A Phase III Trial to Assess the Safety and Immunogenicity of a HIPRA's Candidate Booster Vaccination Against COVID-19.",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE3",
+    "published_date": "2022-02-03",
+    "url": "https://clinicaltrials.gov/study/NCT05246137",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This is a phase III clinical study to assess the safety, tolerability and immunogenicity of PHH-1V as a booster dose in healthy adult subjects vaccinated against COVID-19 with the Comirnaty, Spikevax, Vaxevria or Janssen vaccine.",
+    "extra": {
+      "nct_id": "NCT05246137",
+      "status": "COMPLETED",
+      "phase": "PHASE3"
+    },
+    "date": "2022-02-03",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
     "reviewed": false,
     "pharma": false
   },
@@ -7793,6 +8022,31 @@
     "pharma": false
   },
   {
+    "id": "news_0c30295c83bf191a",
+    "title": "Interim statement on booster doses for COVID-19 vaccination - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2021-12-22",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDQ3QkJzWXBDTTgwUTg0OExtZTRjdzdFX0FlOUtaWHBLTHJMdUNHaUNJM1hFSi1JR1ZDR2R0ZjdYSGxGSzFEamZ6aldPQTM0UVBoLWxQQXloejZNWDhhSzF0YTlveWIxTUx2bzZKbWwzWWc1dmlQQnQ2ZnRyN2NEa0pJc3p0ZVlrSGRUYzQ0blU3ckVpdHFlaWVDcDF1amtZZ0U1a3hqcXhLckhwWE13a3VuRXFCdGpRbWxjYnVuSU05V0pJ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Interim statement on booster doses for COVID-19 vaccination &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2021-12-22",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_8b6e9bc85fe9d860",
     "title": "Interim statement on COVID-19 vaccination for children and adolescents - World Health Organization (WHO)",
     "authors": "World Health Organization (WHO)",
@@ -7814,6 +8068,66 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT05142553",
+    "title": "Immunogenicity and Safety of a Booster Vaccination With a Recombinant Protein RBD Candidate Vaccine Against SARS-CoV-2 in Healthy Adults Volunteers Fully Vaccinated Followed by an Extension Period to Study a Fourth Dose Administration.",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE2",
+    "published_date": "2021-11-15",
+    "url": "https://clinicaltrials.gov/study/NCT05142553",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This Phase IIb clinical study aims to compare the immunogenicity and safety of a booster dose of recombinant protein RBD fusion dimer vaccine as a heterologous booster (to subjects who have received the second dose of the Pfizer-BioNTech (Comirnaty) COVID-19 vaccine at least 182 days prior to the booster dose in this study) versus a homologous booster (subjects who received the second dose of the Comirnaty COVID-19 vaccine at least 182 days prior to the booster dose in this study) will receive a third dose of the Comirnaty vaccine).\n\nThe extension part of the study aims to compare the immunoge",
+    "extra": {
+      "nct_id": "NCT05142553",
+      "status": "COMPLETED",
+      "phase": "PHASE2"
+    },
+    "date": "2021-11-15",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT05142514",
+    "title": "Safety and Immunogenicity of Recombinant Protein RBD Fusion Dimer Vaccine Against the Virus That Cause COVID-19, Known as Severe Acute Respiratoy Syndrome Coronavirus 2 (SARS-CoV-2)",
+    "authors": "Hipra Scientific, S.L.U",
+    "journal": "ClinicalTrials.gov · PHASE2",
+    "published_date": "2021-11-11",
+    "url": "https://clinicaltrials.gov/study/NCT05142514",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This is a Phase IIb, randomized, controlled, observer-blinded, clinical trial to evaluate safety and immunogenicity of COVID-19 Vaccine HIPRA in adult healthy volunteers in Vietnam",
+    "extra": {
+      "nct_id": "NCT05142514",
+      "status": "COMPLETED",
+      "phase": "PHASE2"
+    },
+    "date": "2021-11-11",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
     "reviewed": false,
     "pharma": false
   },
