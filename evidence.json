@@ -202,6 +202,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_43013717",
+    "title": "Effects of COVID-19 vaccination type and vaccination-infection interval on viral clearance dynamics in Omicron BA.5 patients at Guangzhou Fangcang shelter hospitals: A propensity score matched multicenter retrospective cohort study",
+    "authors": "Jiang Z, Wang Q, Kong X et al.",
+    "journal": "",
+    "published_date": "2026-11-11",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013717/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43013717",
+    "summary": "The Omicron BA.5 subvariant exhibited pronounced immune evasion and was associated with widespread breakthrough infections. Unlike settings where mRNA vaccines predominated, China mainly used inactivated vaccines, with the adenovirus type 5-vectored vaccine Ad5-nCoV also administered at scale. Real-world evidence on post-infection viral clearance associated with these platforms remains limited. This multicenter retrospective cohort study enrolled 16,533 mild or asymptomatic Omicron BA.5 cases from two Fangcang shelter hospitals in Guangzhou, China, from Novernber 5 to December 8, 2022. The pri",
+    "date": "2026-11-11",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1362976",
     "title": "COVID-19 vaccination, clinical presentation and 14-day outcomes in Cumilla, Bangladesh: a cross-sectional study",
     "authors": "Tasfia Q, Islam A, Maruf SA et al.",
@@ -378,6 +404,60 @@
     "pharma": false
   },
   {
+    "id": "pubmed_42932256",
+    "title": "Worldwide emergence of SARS-CoV-2 NB.1.8.1 sublineage with spike 420N and 478T dual substitution",
+    "authors": "Tsoi HW, Chan WM, Chu AW et al.",
+    "journal": "",
+    "published_date": "2026-11-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932256/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42932256",
+    "summary": "<h4>Background</h4>After a year of quiescence, SARS-CoV-2 activity increased rapidly in Hong Kong since June 2026. We sought to characterize the genomic profile of SARS-CoV-2 driving this COVID-19 surge in Hong Kong and to examine the global dissemination of the identified circulating lineages.<h4>Methods</h4>We performed SARS-CoV-2 whole-genome sequencing on archived respiratory specimens collected at Queen Mary Hospital, Hong Kong, between January 2025 and July 2026. Viral lineages were assigned via Nextclade. Global SARS-CoV-2 metadata downloaded from GISAID as of July 2026 were analysed to",
+    "date": "2026-11-09",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42891974",
+    "title": "Longitudinal BCR repertoire dynamics reveal the evolution of broadly binding antibodies following heterologous SARS-CoV-2 vaccination and breakthrough infection: a single-donor case study",
+    "authors": "Qiao R, Chen X, Zhang X et al.",
+    "journal": "",
+    "published_date": "2026-11-09",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42891974/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42891974",
+    "summary": "Continued SARS-CoV-2 antigenic drift and the persistent risk of zoonotic sarbecovirus spillover highlight the need for broadly protective countermeasures. Here, we longitudinally profiled the B cell receptor (BCR) repertoire of a single volunteer who received heterologous booster vaccination followed by Omicron BF.7 breakthrough infection, integrating bulk BCR sequencing with single B cell culture and antibody binding analysis. Breakthrough infection was associated with broadened serum neutralization across SARS-CoV-2 variants and related sarbecoviruses, consistent with recall of antibodies ta",
+    "date": "2026-11-09",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_806a3d8ed70226e6",
     "title": "COVID-19 vaccination: information for healthcare practitioners",
     "authors": "UKHSA",
@@ -550,6 +630,32 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43041964",
+    "title": "Twelve-month all-cause mortality after initial COVID-19 vaccination with Pfizer-BioNTech or mRNA-1273 among adults living in Florida: Statewide cohort study",
+    "authors": "Levi R, Mansuri F, Jordan MM et al.",
+    "journal": "",
+    "published_date": "2026-11-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041964/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43041964",
+    "summary": "<h4>Background</h4>Comparative effects of the mRNA COVID-19 vaccines on health outcomes are uncertain. The study objective was to compare all-cause and non-COVID-19 mortality between recipients of BNT162b2 (Pfizer) and mRNA-1273 (Moderna).<h4>Methods</h4>Matched cohort analysis of 1,962,822 adults living in Florida who received a first dose of either BNT162b2 or mRNA-1273 between December 18, 2020, and August 31, 2021, was used to examine 12-month risk of all-cause, cardiovascular, COVID-19, and non-COVID-19 mortality. Matching was performed on seven criteria, including age group, sex, race, e",
+    "date": "2026-11-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -3153,7 +3259,7 @@
     "summary": "The purpose of this study is to learn about the safety and effects of updated COVID-19 vaccines (called BNT162b2) in participants 5 Through 64 Years of Age with risk factors for Severe COVID-19, and Participants 65 Years of Age and Older.\n\nThis study is seeking participants who:\n\n* are medically stable\n* have not had a recent COVID-19 infection or a recent COVID-19 vaccination\n* have not received certain routine vaccines recently\n* participants that are 5 through 64 years of age will need to have at least 1 medical condition that increase their risk of complications from COVID-19.\n\nParticipant",
     "extra": {
       "nct_id": "NCT07798648",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "phase": "PHASE3"
     },
     "date": "2026-08-31",
@@ -5492,12 +5598,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-06",
+    "published_date": "2025-09-05",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-06",
+    "date": "2025-09-05",
     "policy_area": [
       "general_covid"
     ],
