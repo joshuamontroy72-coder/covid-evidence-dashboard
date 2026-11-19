@@ -1,5 +1,57 @@
 [
   {
+    "id": "rss_263cc63d9a5d64b5",
+    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-19",
+    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-19",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1370315",
+    "title": "Comparison of methodological approaches in COVID-19 vaccine effectiveness estimation using observational data",
+    "authors": "Huiberts AJ, Smagge B, Werkhoven Hv et al.",
+    "journal": "Research Square",
+    "published_date": "2026-11-18",
+    "url": "https://europepmc.org/article/PPR/PPR1370315",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>  <bold>Background:</bold>  Target trial emulation (TTE) is a framework to systematically address potential design-related biases in causal inference when using observational data. We estimated vaccine effectiveness (VE) of the Omicron XBB.1.5 booster vaccination against SARS-CoV-2 infection between 2 October 2023 and 2 April 2024 using four TTE approaches.  <bold>Methods:</bold>  A hypothetical target trial was designed where eligible participants would be randomly assigned to receive booster vaccination or not. Four approaches were used to emulate this hypothetica",
+    "date": "2026-11-18",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1368973",
     "title": "mRNA-Lipid Nanoparticle Vaccines for Infectious Diseases: Mechanisms of Action and Translational Progress",
     "authors": "Zhao Y, Cheng H, Zhou S et al.",
@@ -50,27 +102,27 @@
     "pharma": false
   },
   {
-    "id": "rss_263cc63d9a5d64b5",
-    "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-11-12",
-    "url": "https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2026-to-2027-season",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-11-12",
+    "id": "preprint_PPR1368043",
+    "title": "Routine Immunization Recovery After the COVID-19 Pandemic— Khyber Pakhtunkhwa, Pakistan, 2020 – 2023",
+    "authors": "Ullah K, Mbaeyi C, Hameed S et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-11-13",
+    "url": "https://europepmc.org/article/PPR/PPR1368043",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> The COVID-19 pandemic disrupted routine immunization services worldwide, leading to declines in childhood vaccination coverage and increased numbers of zero-dose (unimmunized) and under-immunized children. Khyber Pakhtunkhwa (KP) province, Pakistan, also experienced substantial reductions in vaccination coverage. This study assessed the recovery of childhood immunization services in KP following the COVID-19 pandemic. <h4>Methods:</h4> A cross-sectional study was conducted using aggregated administrative data from the Expanded Programme on Immunization (EPI) Management In",
+    "date": "2026-11-13",
     "policy_area": [
-      "booster_frequency"
+      "population_targeting"
     ],
     "policy_area_labels": [
-      "Booster frequency & intervals"
+      "Population targeting"
     ],
     "pregnancy_related": false,
     "canadian": false,
     "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
     "reviewed": false,
     "pharma": false
   },
@@ -1775,6 +1827,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_43022281",
+    "title": "Messenger RNA vaccines and beyond: Molecular design, delivery platforms, and emerging therapeutic applications",
+    "authors": "Lee KS, Park JY, Kim CU",
+    "journal": "",
+    "published_date": "2026-10-14",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022281/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43022281",
+    "summary": "Messenger RNA (mRNA) medicine has progressed from a conceptual nucleic acid modality to a clinically validated platform for transient protein expression, with SARS-CoV-2 vaccines providing population-scale proof of maturity. This review synthesizes the molecular and translational principles underlying this transition, emphasizing two determinants of mRNA performance: transcript engineering and delivery formulation. Transcript engineering integrates cap structure, untranslated regions, coding-sequence optimization, nucleoside chemistry, and poly(A) design, whereas formulation controls encapsula",
+    "date": "2026-10-14",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42869875",
     "title": "Safety and immunogenicity of Thailand Government Pharmaceutical Organization (GPO) produced, COVID-19 vaccine, 10 μg HXP-GPOVac: A Phase III, double-blind, randomized trial in comparison with VAXZEVRIA",
     "authors": "Prasert K, Nakphook S, Kittiwatanachod J et al.",
@@ -1901,6 +1979,36 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT07948395",
+    "title": "Improving Vaccine Efficacy for People With Helminth Infection: CORBEVAX in Ethiopia",
+    "authors": "University of Aarhus",
+    "journal": "ClinicalTrials.gov · PHASE2, PHASE3",
+    "published_date": "2026-10-10",
+    "url": "https://clinicaltrials.gov/study/NCT07948395",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "Helminth infections affect over 1.5 billion people and weaken the response to vaccination. CORBEVAX contains the TLR9-activating adjuvant CpG 1018, which may overcome this. This trial measures the immunogenicity of CORBEVAX in adults with and without Schistosoma mansoni or hookworm infection in Ethiopia. The primary measure is spike-specific serum IgG at Day 42; antibody subclass, T-cell, neutralisation and regulatory T-cell responses are measured as secondary outcomes up to Day 90. This is the first of two planned cohorts under a shared protocol; a second cohort receiving an mRNA COVID-19 vac",
+    "extra": {
+      "nct_id": "NCT07948395",
+      "status": "RECRUITING",
+      "phase": "PHASE2, PHASE3"
+    },
+    "date": "2026-10-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
     "reviewed": false,
     "pharma": false
   },
@@ -2157,6 +2265,32 @@
     "pregnancy_related": false,
     "canadian": false,
     "species": "animal",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43023058",
+    "title": "Comparative outcomes of influenza, severe acute respiratory syndrome coronavirus 2, and respiratory syncytial virus community-acquired pneumonia: insights from an Italian retrospective cohort study",
+    "authors": "Silani MS, Stainer A, Russo M et al.",
+    "journal": "",
+    "published_date": "2026-10-04",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023058/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43023058",
+    "summary": "Community-acquired pneumonia (CAP) is a leading cause of morbidity and mortality worldwide. Viral pathogens, particularly influenza, respiratory syncytial virus, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), are increasingly recognized as key contributors to CAP in hospitalized adults. This single-center, retrospective cohort study examined and compared the clinical characteristics and outcomes of adults hospitalized with viral CAP due to influenza, SARS-CoV-2, or respiratory syncytial virus between January 2022 and December 2023 in Milan, Italy. A total of 165 patients wit",
+    "date": "2026-10-04",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
     "reviewed": false,
@@ -5256,14 +5390,14 @@
   },
   {
     "id": "news_466722791dc44445",
-    "title": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 - The New England Journal of Medicine",
-    "authors": "The New England Journal of Medicine",
-    "journal": "The New England Journal of Medicine",
+    "title": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 - NEJM",
+    "authors": "NEJM",
+    "journal": "NEJM",
     "published_date": "2025-10-29",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HalZrYmp4S3VPVFptWWRtT1pDMl83eFMtU2wzNHpDX0FBTjdVNHZ4Z0RrX2R6QXNNN3FtUUZ3OWRqWkVld0g4UDdoT0IzaHNNbjJvWEZzMjVfRGx6UXRtaA?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; The New England Journal of Medicine",
+    "summary": "Updated Evidence for Covid-19, RSV, and Influenza Vaccines for 2025–2026 &nbsp;&nbsp; NEJM",
     "date": "2025-10-29",
     "policy_area": [
       "general_covid"
@@ -5867,14 +6001,14 @@
   },
   {
     "id": "news_778f02aaf56fc0aa",
-    "title": "An Evidence-Based Approach to Covid-19 Vaccination - The New England Journal of Medicine",
-    "authors": "The New England Journal of Medicine",
-    "journal": "The New England Journal of Medicine",
+    "title": "An Evidence-Based Approach to Covid-19 Vaccination - NEJM",
+    "authors": "NEJM",
+    "journal": "NEJM",
     "published_date": "2025-05-20",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ybE9SbVFHLTczcUNiTmRsdk4zWEptYWRqUnF6Z0RwZ3VPRHFoamwwRG1kLXdQWHNNckVXajdSbTNvbFAxRVBIclBWa1BjdWJUeXRHUEk5V0xEdzgtN21Ecw?oc=5",
     "source": "Google News",
     "source_type": "news",
-    "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; The New England Journal of Medicine",
+    "summary": "An Evidence-Based Approach to Covid-19 Vaccination &nbsp;&nbsp; NEJM",
     "date": "2025-05-20",
     "policy_area": [
       "general_covid"
