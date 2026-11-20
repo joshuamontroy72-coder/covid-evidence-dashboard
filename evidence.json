@@ -25,6 +25,82 @@
     "pharma": false
   },
   {
+    "id": "pubmed_43055634",
+    "title": "Transmission dynamics of pertussis in China (2015-2024): A SEIARV compartmental model with waning immunity, annual parameter fitting, and stochastic forecasting for 2025-2027. ",
+    "authors": "Zhou N, Zhao J",
+    "journal": "",
+    "published_date": "2026-11-19",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055634/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43055634",
+    "summary": "Reported pertussis cases in China surged from 6,658 in 2015 to 476,690 in 2024 (a 71.6-fold increase), with a sharp decline during COVID-19 (2020) and an explosive resurgence in 2023-2024 despite sustained DTaP3 coverage above 95%; the transmission dynamics behind this resurgence remain incompletely quantified. In this national surveillance-based modeling study, we fitted a seasonally forced SEIARV compartmental model with waning immunity to all reported monthly pertussis cases of all ages in China (January 2015 to December 2024), reconstructed the time-varying effective reproduction number Re",
+    "date": "2026-11-19",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1372219",
+    "title": "Glycoform Distributions and Heparan Sulfate Binding of Intact SARS-CoV-2 Spike Variants by DIA-ECCR Native Mass Spectrometry",
+    "authors": "Xu Z, Du C, Olmedillas E et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-11-19",
+    "url": "https://europepmc.org/article/PPR/PPR1372219",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "Glycosylation influences the structure, immunogenicity, and evolutionary selection of the SARS CoV 2 spike protein (S), but its extensive heterogeneity has hindered characterization of intact glycoform distributions. Here, we illustrate a data-independent analysis - electron capture charge reduction (DIA-ECCR) native mass spectrometry workflow for direct analysis of intact spike glycoforms across multiple variants. DIA-ECCR resolves variant-dependent differences in glycoform distributions and higher mass subpopulations. Monte Carlo simulations based on published site-specific bottom-up glycopr",
+    "date": "2026-11-19",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1371411",
+    "title": "Reactogenicity, persistent symptom clusters, causal attribution, and interference with daily activities after COVID-19 vaccination in Bangladesh",
+    "authors": "Ali MH, Akter S, Koasha FA et al.",
+    "journal": "Research Square",
+    "published_date": "2026-11-19",
+    "url": "https://europepmc.org/article/PPR/PPR1371411",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<title>Abstract</title>  <p>Concern about post-vaccination symptoms influences vaccine confidence, yet safety studies seldom examine how symptoms co-occur or how recipients interpret them. This study aimed to examine whether acute reactions, persistent symptom clusters, and attribution of symptoms to vaccination were associated with interference with daily activities. In a retrospective cross-sectional study, 450 vaccinated people in Tangail District, Bangladesh, were selected by purposive sampling with quotas and interviewed face-to-face between May and August 2026 using a pretested, structur",
+    "date": "2026-11-19",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1370315",
     "title": "Comparison of methodological approaches in COVID-19 vaccine effectiveness estimation using observational data",
     "authors": "Huiberts AJ, Smagge B, Werkhoven Hv et al.",
@@ -34,6 +110,33 @@
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
     "summary": "<title>Abstract</title>  <p>  <bold>Background:</bold>  Target trial emulation (TTE) is a framework to systematically address potential design-related biases in causal inference when using observational data. We estimated vaccine effectiveness (VE) of the Omicron XBB.1.5 booster vaccination against SARS-CoV-2 infection between 2 October 2023 and 2 April 2024 using four TTE approaches.  <bold>Methods:</bold>  A hypothetical target trial was designed where eligible participants would be randomly assigned to receive booster vaccination or not. Four approaches were used to emulate this hypothetica",
+    "date": "2026-11-18",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1372264",
+    "title": "SARS-CoV-2 antibody landscape following multiple vaccinations and infections during Omicron period",
+    "authors": "Yang Y, Juntila-Raymond C, Callear A et al.",
+    "journal": "medRxiv",
+    "published_date": "2026-11-18",
+    "url": "https://europepmc.org/article/PPR/PPR1372264",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Repeated COVID-19 vaccination effects on the immunogenicity, breadth, and durability of antibody responses across antigenically distinct SARS-CoV-2 variants remain incompletely understood. <h4>Method:</h4> Participants receiving >= five COVID-19 vaccine doses 2020-2025 were selected from a prospective cohort in Michigan. Serum IgG, IgM, and ACE2 percent inhibition were measured using multiplex assays. Baseline-adjusted immunogenicity, cross-reactivity, and formulation-specific antibody durability were evaluated using regression models. <h4>Result:</h4> Twenty-one particip",
     "date": "2026-11-18",
     "policy_area": [
       "booster_frequency",
@@ -98,6 +201,32 @@
     "species": "human",
     "channel": "nitag",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43036303",
+    "title": "Changes in full vaccination coverage and in the gap between poor and non-poor households among children aged 12-23 months in the Democratic Republic of the Congo, 2013-14 to 2023-24: a comparison of two Demographic and Health surveys",
+    "authors": "Tsala Dimbuene Z, Mabanza Matondo S, Muleka Ilunga B et al.",
+    "journal": "",
+    "published_date": "2026-11-16",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036303/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43036303",
+    "summary": "<h4>Background</h4>Immunisation coverage in the Democratic Republic of the Congo is far below global targets, and poorer children are less often vaccinated. Expanded outreach since 2013-14 could have narrowed this gap; COVID-19, outbreaks and conflict could have widened it.<h4>Objectives</h4>To estimate full vaccination, BCG and DPT3 coverage in 2013-14 and 2023-24, the change in the poor-non-poor gap in full vaccination (primary outcome), and its provincial variation.<h4>Methods</h4>Repeated cross-sectional analysis of the 2013-14 and 2023-24 Demographic and Health Surveys (3,443 and 4,208 ch",
+    "date": "2026-11-16",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -1502,7 +1631,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1344234",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike's receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS- CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naive human B ",
+    "summary": "The SARS-CoV-2 spike protein has evolved rapidly since the virus began circulating in the human population. This evolution has been strongly driven by pressure to escape neutralizing antibodies, which predominantly target the spike’s receptor-binding domain (RBD). Many studies have shown that mutations to the RBD during SARS-CoV-2 evolution have abrogated binding by neutralizing antibodies elicited by prior infections and vaccinations. Here we explore whether viral evolution has also reduced the inherent ability of human B cells to recognize the RBD by measuring the fraction of naïve human B c",
     "date": "2026-10-16",
     "policy_area": [
       "general_covid"
@@ -2039,6 +2168,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_74fb91ef07395742",
+    "title": "Prevention -Influenza and Covid-19: a new joint vaccination campaign this autumn - Service Public",
+    "authors": "Service Public",
+    "journal": "Service Public",
+    "published_date": "2026-10-09",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUh6YW5VU3ZkRVNkbjhxRVNRQmhJazFUSEUyRTVUeVdRTWF0SGdCQXBJbVdRUUV1UVQwd0p1dVhqQVB2SUF4RWxNbERfbjFFOXl3Mk1Vc2ZfUmRfekotc3lGRzJpWTJrYTU3UllrUmotNDA4MnJfUkFyTXhST29ITUJ6ZlQzNUp4NWxoekVUU0NaZmpLWlVwYmRiQ24za3JJS3Rrb3gwRE9PX1VmVTF1STF5Yks4QWhRTHRwdW5xMF9uOW91MWliZlNzcFlYYmtKejQ3QmtFUmNWQmNCdmJPWUtoSXRxUQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Prevention -Influenza and Covid-19: a new joint vaccination campaign this autumn &nbsp;&nbsp; Service Public",
+    "date": "2026-10-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -3071,6 +3225,31 @@
     "species": "human",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_5285dc345112d775",
+    "title": "Major evidence review confirms influenza, COVID-19 and RSV vaccines are safe and effective - Gavi, the Vaccine Alliance",
+    "authors": "Gavi, the Vaccine Alliance",
+    "journal": "Gavi, the Vaccine Alliance",
+    "published_date": "2026-09-09",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFM4WFgxRUUtcDRnWVNHUnNnRnpOX2stQ1NCNGdYdFBILVROb2xaVkxVOG4za2UxejhRc0dZMVVFbWhBMnpza0x1bXNGWkpzamRpSFVxWldRbUxhbVRBRnVGNk91Qm1qdXhSV3phWmhDQUpqV0g0eWNGWWNNbUktWTBqdURGTWp3eTU3a3U0MmxQYmk3OXZiZmVlN2o5MUVmOXhUUkFUbEFyYzctTU9xeGRaUQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Major evidence review confirms influenza, COVID-19 and RSV vaccines are safe and effective &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+    "date": "2026-09-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -4209,6 +4388,32 @@
     ],
     "policy_area_labels": [
       "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_42486961",
+    "title": "Challenges and Opportunities for Signal Detection During Public Health Emergencies: An Historical Re-evaluation of the Disproportionality Analysis of the ADR Reporting of Anti-COVID-19 Monoclonal Antibodies in Vigibase",
+    "authors": "Luxi N, Bellitto C, Ciccimarra F et al.",
+    "journal": "",
+    "published_date": "2026-07-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42486961/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "42486961",
+    "summary": "<h4>Introduction</h4>Anti-spike monoclonal antibodies (mAbs) for early treatment of COVID-19 represented a significant improvement in the pharmacological management of the SARS-COV-2 pandemic, especially in early phases, but the continuous emergence of novel virus variants of concern (VoC) required a rapid and continuous benefit-risk assessment.<h4>Objective</h4>To identify possible unexplored safety signals of anti-SARS-CoV-2 mAbs through disproportionality analysis using VigiBase, the World Health Organization (WHO) global pharmacovigilance database.<h4>Methods</h4>We conducted a disproporti",
+    "date": "2026-07-22",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
     ],
     "pregnancy_related": false,
     "canadian": false,
@@ -5653,6 +5858,31 @@
     "pharma": false
   },
   {
+    "id": "news_0bdb1c1e0d7f579c",
+    "title": "COVID-19 vaccines no longer free for everyone as fall campaign begins - qcna.qc.ca",
+    "authors": "qcna.qc.ca",
+    "journal": "qcna.qc.ca",
+    "published_date": "2025-09-22",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa21NUHUxcHE3eFJTWk5ZMHVWTDZTb1JkWUJpSFoyOXFnYk1pM3BRS1J6UVFhcUtqQmJSOEtFb3BvOEh3R19hbDlTNm9Sb3lDbllOZkFtQ1JqdXpSVkwzV2RXbFF3clpEZnBYMmR0NFF1dGJ0NGR0eHIzVzU2SzVMRTR5Y2VYemhWSzZQcm5xWjhRNEk?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "COVID-19 vaccines no longer free for everyone as fall campaign begins &nbsp;&nbsp; qcna.qc.ca",
+    "date": "2025-09-22",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_f24435e8fedec374",
     "title": "Quebec to stop offering free COVID-19 vaccines to the general population - CBC",
     "authors": "CBC",
@@ -6256,6 +6486,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_8a096ad6a63088f0",
+    "title": "WHO policy brief: COVID-19 vaccination - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2024-12-10",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlA5R0xZU05pQkk2ZXA2Y3FISHQ0X04xZXgwd0FmT0VhM1pWNVlyclRRNE5RYTE5ZG80UTVsYjc5Q0dHaEJNb2gyaDNxQ2w3TFhwV0RoWWZFUjFqb3ZRbFl2TDViV3lFRGloZll3djZFb1h3a1ItNlFNcGdPZjhpcGdsWQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "WHO policy brief: COVID-19 vaccination &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2024-12-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -8492,6 +8747,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT05321407",
+    "title": "COVID-19 Vaccine Responses in PIDD Subjects",
+    "authors": "Duke University",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2021-09-30",
+    "url": "https://clinicaltrials.gov/study/NCT05321407",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The goal of our study is to assess the cellular immune responses of participants with antibody deficiency disease before and after immunization with SARS-CoV-2 mRNA vaccines.",
+    "extra": {
+      "nct_id": "NCT05321407",
+      "status": "COMPLETED",
+      "phase": ""
+    },
+    "date": "2021-09-30",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "ct_NCT05028257",
     "title": "Allergy and COVID-19 Vaccines",
     "authors": "Assistance Publique - Hôpitaux de Paris",
@@ -8788,6 +9073,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_7d8551f93bc6b3fa",
+    "title": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine - NEJM",
+    "authors": "NEJM",
+    "journal": "NEJM",
+    "published_date": "2021-02-17",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90UXVtWUVvRHdWX21Ea2ozSGwyT3VXVlBSdm00Vy1RSkl2Y1lENnJpejF5ZjNORHF6a01HNnFZbU9BeEFzN3A4ZEZtMm10MnowcUhpX1gtTncydUpTWDYw?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine &nbsp;&nbsp; NEJM",
+    "date": "2021-02-17",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
