@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20T19:37:09.240826+00:00",
-  "total": 357,
+  "updated_at": "2026-11-21T18:42:41.363552+00:00",
+  "total": 359,
   "channels": [
     {
       "id": "journals",
       "label": "Journals (PubMed / Europe PMC)",
       "icon": "📄",
-      "count": 74
+      "count": 75
     },
     {
       "id": "preprints",
@@ -42,7 +42,7 @@
       "id": "news",
       "label": "News",
       "icon": "📰",
-      "count": 86
+      "count": 87
     },
     {
       "id": "press",
@@ -70,51 +70,51 @@
     {
       "id": "general_covid",
       "label": "General COVID-19 vaccines",
-      "count": 175
+      "count": 177
     }
   ],
   "fetcher_log": [
     {
       "source": "Europe PMC (journals)",
-      "fetched": 133,
-      "kept": 46,
+      "fetched": 96,
+      "kept": 34,
       "error": null,
-      "fetched_at": "2026-11-20T19:36:25.351858+00:00"
+      "fetched_at": "2026-11-21T18:41:46.736798+00:00"
     },
     {
       "source": "medRxiv / bioRxiv preprints",
-      "fetched": 80,
-      "kept": 59,
+      "fetched": 0,
+      "kept": 0,
       "error": null,
-      "fetched_at": "2026-11-20T19:36:32.613271+00:00"
+      "fetched_at": "2026-11-21T18:42:07.185547+00:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "fetched": 80,
       "kept": 69,
       "error": null,
-      "fetched_at": "2026-11-20T19:36:32.843609+00:00"
+      "fetched_at": "2026-11-21T18:42:07.402366+00:00"
     },
     {
       "source": "WHO IRIS",
       "fetched": 0,
       "kept": 0,
       "error": null,
-      "fetched_at": "2026-11-20T19:36:33.514949+00:00"
+      "fetched_at": "2026-11-21T18:42:08.182229+00:00"
     },
     {
       "source": "RSS feeds (NACI/ACIP/ECDC/PHO/WHO)",
       "fetched": 50,
       "kept": 10,
       "error": null,
-      "fetched_at": "2026-11-20T19:37:04.708213+00:00"
+      "fetched_at": "2026-11-21T18:42:38.840742+00:00"
     },
     {
       "source": "Google News",
-      "fetched": 76,
-      "kept": 39,
+      "fetched": 73,
+      "kept": 37,
       "error": null,
-      "fetched_at": "2026-11-20T19:37:07.100485+00:00"
+      "fetched_at": "2026-11-21T18:42:40.637244+00:00"
     }
   ]
 }

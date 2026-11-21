@@ -1338,6 +1338,32 @@
     "pharma": false
   },
   {
+    "id": "pubmed_43061512",
+    "title": "Covid and the coalfield: Impact of SARS-CoV-2 on the coalfield communities of Wales (United Kingdom) and Kentucky (United States)",
+    "authors": "Rumble M, Saville CWN, Lockard S et al.",
+    "journal": "",
+    "published_date": "2026-10-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061512/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43061512",
+    "summary": "There is growing evidence that de-industrialising communities have poorer health outcomes. This effect is observed in all members of the community, not just those directly employed in the declining industry. We investigate impact of the COVID-19 pandemic on coal mining communities and consider findings in the context of future pandemic preparedness. We calculate cumulative confirmed SARS-CoV-2 infection, COVID-19 hospitalisation and mortality proportions for small areas in Wales and Kentucky, two geographical regions with strong coal mining heritage. We grouped small areas by mining history an",
+    "date": "2026-10-24",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42966966",
     "title": "First evidence of an association between alexithymia and reduced humoral immunity following COVID-19 vaccination, independent of insomnia and metabolic factors in healthcare workers",
     "authors": "Petropoulou D, Petropoulou G, Karampela I et al.",
@@ -9328,6 +9354,31 @@
     "species": "human",
     "channel": "who_sage",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_e24fb7389a5f2153",
+    "title": "WHO SAGE values framework for the allocation and prioritization of COVID-19 vaccination - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2020-09-16",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUE1aZlh5RXM3bWFQVm9zdnVhamFuc09KMEhvRGl2TnAyWVloM3hqbUk3anBrN3BJQ1luN3FvVy1VdTcxNkFlQXdPN3JfTHZnNDVDTzNjYnFHbVM2RU01NHN4bjdEa0JsbkZOZDVqaTRHTzlQRlFaeDk1bi05WnB6eUtrNlRSZXhfc2lKRDZHU05FR3pnWjN6M1ZfXzNYc3JjWjhBYWdLQktYcDJNblNZSDdtNGRILUIyZ0toaC1IMS1lOUQwaTVn?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "WHO SAGE values framework for the allocation and prioritization of COVID-19 vaccination &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2020-09-16",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
