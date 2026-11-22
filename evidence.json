@@ -136,7 +136,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1372264",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "<h4>Background: </h4> Repeated COVID-19 vaccination effects on the immunogenicity, breadth, and durability of antibody responses across antigenically distinct SARS-CoV-2 variants remain incompletely understood. <h4>Method:</h4> Participants receiving >= five COVID-19 vaccine doses 2020-2025 were selected from a prospective cohort in Michigan. Serum IgG, IgM, and ACE2 percent inhibition were measured using multiplex assays. Baseline-adjusted immunogenicity, cross-reactivity, and formulation-specific antibody durability were evaluated using regression models. <h4>Result:</h4> Twenty-one particip",
+    "summary": "<h4>Background</h4>  Repeated COVID-19 vaccination effects on the immunogenicity, breadth, and durability of antibody responses across antigenically distinct SARS-CoV-2 variants remain incompletely understood. <h4>Method</h4>  Participants receiving ≥five COVID-19 vaccine doses 2020-2025 were selected from a prospective cohort in Michigan. Serum IgG, IgM, and ACE2 percent inhibition were measured using multiplex assays. Baseline-adjusted immunogenicity, cross-reactivity, and formulation-specific antibody durability were evaluated using regression models. <h4>Result</h4>  Twenty-one participant",
     "date": "2026-11-18",
     "policy_area": [
       "booster_frequency",
@@ -170,6 +170,31 @@
     ],
     "policy_area_labels": [
       "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1372563",
+    "title": "COVID-19 Mortality and Vaccination Coverage Among Older Adults in Tunisia, 2020–2022: A National Descriptive and Ecological Study",
+    "authors": "Zaier F, Dhaouadi S, Hechaichi A et al.",
+    "journal": "Preprints.org",
+    "published_date": "2026-11-17",
+    "url": "https://europepmc.org/article/PPR/PPR1372563",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "<h4>Background: </h4> Older adults experienced a disproportionate burden of COVID-19 mortality, but national evidence is limited. We described COVID-19 mortality among adults aged ≥65 years (March 2020–December 2022) and vaccination coverage among the campaign-eligible population aged ≥60 years (March 2021–December 2022). <h4>Methods:</h4> We conducted a retrospective national descriptive and ecological study using mortality surveillance data from the National Observatory of New and Emerging Diseases (ONMNE) and aggregated data from the national COVID-19 vaccination platform (EVAX). We calcula",
+    "date": "2026-11-17",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
     ],
     "pregnancy_related": false,
     "canadian": false,
