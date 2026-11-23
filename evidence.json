@@ -1,5 +1,30 @@
 [
   {
+    "id": "rss_b3ba3cbfad68f46d",
+    "title": "National flu and COVID-19 surveillance report, week 48 report: data to week 47 (data up to 22 November 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-23",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-48-report-data-to-week-47-data-up-to-22-november-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-23",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_263cc63d9a5d64b5",
     "title": "National flu and COVID-19 surveillance reports: 2026 to 2027 season",
     "authors": "UKHSA",
@@ -1205,31 +1230,6 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "id": "rss_b3ba3cbfad68f46d",
-    "title": "National flu and COVID-19 surveillance report, week 48 report: data to week 47 (data up to 22 November 2026)",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-10-26",
-    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-48-report-data-to-week-47-data-up-to-22-november-2026",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-10-26",
-    "policy_area": [
-      "booster_frequency"
-    ],
-    "policy_area_labels": [
-      "Booster frequency & intervals"
-    ],
-    "pregnancy_related": false,
-    "canadian": false,
-    "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
     "reviewed": false,
     "pharma": false
   },
@@ -3587,6 +3587,31 @@
     "pharma": false
   },
   {
+    "id": "news_5d7eeabcbc4c0766",
+    "title": "Doctors say they’re filling a void left by CDC on vaccines. Here’s what to know about flu, Covid-19 and RSV this fall - WKOW",
+    "authors": "WKOW",
+    "journal": "WKOW",
+    "published_date": "2026-09-02",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd0ZTYkJSZEhyYUtTeVVOaHVCbmZSRGdRWTJrUm1oREFsTGt3Q2lTVzhpZ2VJaEZXVnlpcEJZaTh5WVo3cGF6UGwzUUV1WmpTRThIREpRaXhVd2pxXzZ1NkxFQ3FpdTJhVkR3VVRmZTJLeFY2eGNveVl6S3Vmcl9wV3UwOUJLa0JxdElmeW5GTUt0RXppVGgxTWQ5a0tVMHVXS2t1SklYSnI1N3p1YWw4akhrMVFWQ3R2R3JRWndBWGYyT3ZCRjBsYkVGUUdmU3N6M0oxS21aTEE1cnpTTDVVZzFudWpRYnRJ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Doctors say they’re filling a void left by CDC on vaccines. Here’s what to know about flu, Covid-19 and RSV this fall &nbsp;&nbsp; WKOW",
+    "date": "2026-09-02",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1309141",
     "title": "Leave no one behind: Global Analysis on monitoring childhood vaccination timeliness and catch-up using data from the WHO/UNICEF joint reporting form on Immunization",
     "authors": "Danovaro-Holliday MC, Castro-Aguirre I, Koh M et al.",
@@ -4404,7 +4429,7 @@
     "summary": "The purpose of this study is to learn about the safety and effects of an updated COVID-19 vaccine (called BNT162b2) in adults 18 to 64 years of age.\n\nThis study is seeking participants who:\n\n* are medically stable\n* have not had a recent COVID-19 infection\n* have not had a recent vaccination\n* do not have medical conditions that increase their risk of complications from COVID-19\n\nAll participants in this study will randomly receive 1 injection into their arm of either:\n\n* BNT162b2 vaccine which targets COVID-19 and is selected for the 2026-2027 COVID-19 season, or\n* Tdap vaccine which targets ",
     "extra": {
       "nct_id": "NCT07730450",
-      "status": "RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
       "phase": "PHASE4"
     },
     "date": "2026-07-23",
@@ -4475,6 +4500,31 @@
     "pharma": false
   },
   {
+    "id": "news_2de79bacef466173",
+    "title": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years - CEPI",
+    "authors": "CEPI",
+    "journal": "CEPI",
+    "published_date": "2026-07-21",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWtwakhoUGFvNUFLc2ZxTEFvYjZueS1HeXlYczhzTFpZdkZ0VGpFcXFtMWp3WVFhTFJWQjlnQ2hLT0RxSDFScjY2LVVmbk54UFZVU3hnaEpnVGw3SUZoTzZpNTdVNDdFbFBIWG1Kbk1vMzMyUG9mWEtOQVZYTHBPQzBuR3dWUHJtZWFMdGVvRURLTTB0LUhZ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Smaller COVID-19 vaccine booster doses match full-dose protection for up to two years &nbsp;&nbsp; CEPI",
+    "date": "2026-07-21",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42820155",
     "title": "Uneven Protection at Work During COVID-19: Union Voice, Paid Sick Leave and Safety Regimes in Ontario",
     "authors": "Ferdosi M",
@@ -4527,6 +4577,31 @@
     "pharma": false
   },
   {
+    "id": "news_112adc66294d37ee",
+    "title": "RFK Jr. plans COVID-19 vaccine injury list - The Hill",
+    "authors": "The Hill",
+    "journal": "The Hill",
+    "published_date": "2026-07-09",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0lJYkNXMVN3WUNNT3AtZGRjam4zR21JNEM2bVB5QUNCTmp2OUd4eV8zdDRqaGlWbUViY09zNm0xYjU4LWJFYkhpMFRTcDVsblg5YjBGRktZZ1FHRjRjal83bU1leW9BV0dSZUhNdlRfY19kTFNNdzZrSDhVcmhWRnJNNHlkUdIBiwFBVV95cUxNVnREMEVveDVWZEV3VTdrUVJHWi1IZVFLaFZ5cUdnczBDbGtWeWp1aDhjQWhxZTlIejFNQkx0WTNPeDh5NUotVUJNV0dhTjlZNGlJMllVOE5SVjVSLWwyOFd5b3VJV1g0Ynh4NnpLeWN3aWdack5IMkxLWmppU3VIM0liY1llRDFaTjNz?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "RFK Jr. plans COVID-19 vaccine injury list &nbsp;&nbsp; The Hill",
+    "date": "2026-07-09",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_42424692",
     "title": "Lymph node-targeted mRNA delivery of fine-tuned peptide-nanocomplexes for SARS-CoV-2 Vaccination",
     "authors": "Jeong H, Yoon G, Lee DW et al.",
@@ -4549,6 +4624,31 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_4e9178aeef9f50fe",
+    "title": "Major COVID-19 vaccination changes are coming - Australian Pharmacist",
+    "authors": "Australian Pharmacist",
+    "journal": "Australian Pharmacist",
+    "published_date": "2026-07-06",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDFOTExBdElDYUFtUUNucnQzQnFWQTIyT0YwaDI3NGFaeTF6dGwzT01aYl9UaWdmTW4zb3duclkzR19CTVFXd0czSVcyZGJSVmZ4eUFtUGhwWWxjMHZmdnJhSlBObUpOd0pyQ25jbkl3Z3VqalNRSTVWZEdtbnc0OFB3dDhOTFRyUEJtM3lTVQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Major COVID-19 vaccination changes are coming &nbsp;&nbsp; Australian Pharmacist",
+    "date": "2026-07-06",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -6377,6 +6477,36 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT06923137",
+    "title": "A Study to Learn About How Well Yearly Updates to the COVID-19 Vaccine Work to Protect People From COVID-19 and How Much Money People Spend on Healthcare for COVID-19",
+    "authors": "Pfizer",
+    "journal": "ClinicalTrials.gov",
+    "published_date": "2025-04-16",
+    "url": "https://clinicaltrials.gov/study/NCT06923137",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The purpose of this study is to learn about how well the yearly updates to the COVID-19 vaccine work in adults (age 18 years and above) with a healthy immune system (the body's cells, tissues and organs that work together to protect your body) and in children (age 6 months to 17 years).\n\nThis study will use a collection of insurance claims and state vaccine registry data called HealthVerity. All patient names and other identifying information is removed.\n\nThis study will include children who:\n\n* Are 6 months of age to 17 years of age\n* Are enrolled for at least 6 months in a row in a health in",
+    "extra": {
+      "nct_id": "NCT06923137",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": ""
+    },
+    "date": "2025-04-16",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
     "reviewed": false,
     "pharma": false
   },
