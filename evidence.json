@@ -1,5 +1,31 @@
 [
   {
+    "id": "pubmed_43069718",
+    "title": "'We Have a Right to Know How It Will Affect Our Bodies': Vaccine Acceptance During the COVID-19 Pandemic in Fiji",
+    "authors": "Frawley J, Vodonaivalu L, Devi R et al.",
+    "journal": "",
+    "published_date": "2026-12-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069718/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43069718",
+    "summary": "<h4>Background</h4>The COVID-19 pandemic disrupted vaccination programmes globally, with concerns about impact on routine childhood immunisation uptake. This study examines barriers to COVID-19 and childhood vaccine uptake in Fiji during the pandemic.<h4>Methods</h4>Between September and October 2022, we conducted 12 focus group discussions (n = 141 participants) with community members and healthcare workers across urban, peri-urban and rural locations in Fiji's Central and Western divisions. Focus group questions were informed by the World Health Organization's Behavioural and Social Drivers ",
+    "date": "2026-12-01",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_b3ba3cbfad68f46d",
     "title": "National flu and COVID-19 surveillance report, week 48 report: data to week 47 (data up to 22 November 2026)",
     "authors": "UKHSA",
@@ -21,6 +47,32 @@
     "species": "human",
     "channel": "nitag",
     "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43068978",
+    "title": "Harnessing mucosal and systemic immunity against respiratory viruses: vaccine platforms, delivery strategies, and adjuvants",
+    "authors": "Zhu W, Heo D, Wang BZ et al.",
+    "journal": "",
+    "published_date": "2026-11-22",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068978/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43068978",
+    "summary": "<h4>Introduction</h4>Long-lasting immunity against respiratory viruses, including influenza, COVID-19, and respiratory syncytial virus, remains a challenge. Effective vaccines and vaccination strategies that confer durable protection against these viruses require the induction of both systemic and mucosal immunity.<h4>Area covered</h4>This review covers the latest trends in respiratory viral vaccine platforms, including modified virus-like particles and mRNA-based vaccines, as well as adjuvants, and new vaccination strategies that induce systemic and mucosal immunity and generate lung-resident",
+    "date": "2026-11-22",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -51,7 +103,7 @@
   },
   {
     "id": "pubmed_43055634",
-    "title": "Transmission dynamics of pertussis in China (2015-2024): A SEIARV compartmental model with waning immunity, annual parameter fitting, and stochastic forecasting for 2025-2027. ",
+    "title": "Transmission dynamics of pertussis in China (2015-2024): A SEIARV compartmental model with waning immunity, annual parameter fitting, and stochastic forecasting for 2025-2027",
     "authors": "Zhou N, Zhao J",
     "journal": "",
     "published_date": "2026-11-19",
@@ -59,7 +111,7 @@
     "source": "PubMed / Europe PMC",
     "source_type": "journal_article",
     "pmid": "43055634",
-    "summary": "Reported pertussis cases in China surged from 6,658 in 2015 to 476,690 in 2024 (a 71.6-fold increase), with a sharp decline during COVID-19 (2020) and an explosive resurgence in 2023-2024 despite sustained DTaP3 coverage above 95%; the transmission dynamics behind this resurgence remain incompletely quantified. In this national surveillance-based modeling study, we fitted a seasonally forced SEIARV compartmental model with waning immunity to all reported monthly pertussis cases of all ages in China (January 2015 to December 2024), reconstructed the time-varying effective reproduction number Re",
+    "summary": "Reported pertussis cases in China surged from 6,658 in 2015 to 476,690 in 2024 (a 71.6-fold increase), with a sharp decline during COVID-19 (2020) and an explosive resurgence in 2023-2024 despite sustained DTaP3 coverage above 95%; the transmission dynamics behind this resurgence remain incompletely quantified. In this national surveillance-based modeling study, we fitted a seasonally forced SEIARV compartmental model with waning immunity to all reported monthly pertussis cases of all ages in China (January 2015 to December 2024), reconstructed the time-varying effective reproduction number R<",
     "date": "2026-11-19",
     "policy_area": [
       "booster_frequency"
@@ -277,6 +329,31 @@
     "species": "human",
     "channel": "journals",
     "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_69823b7617fb75f4",
+    "title": "NHS warns four groups of people not to get Covid-19 booster jab this winter - AOL.co.uk",
+    "authors": "AOL.co.uk",
+    "journal": "AOL.co.uk",
+    "published_date": "2026-11-15",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SU01mTEtyRXFIajlfZWNJeFhJYk4xa3VTQkh3TXRqdnhiSllqRDQxSWIxLUtoWjBCeGRLdURLR0VELVVfeEZObC14MXZwZVZVLXI3OE5zTXc3NVNIQ1dtREJZbFBEVTNka1NIMVJqZVdtUktNa2c4TUs2Zjg0cFU?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "NHS warns four groups of people not to get Covid-19 booster jab this winter &nbsp;&nbsp; AOL.co.uk",
+    "date": "2026-11-15",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
@@ -1373,6 +1450,32 @@
     "source_type": "journal_article",
     "pmid": "43061512",
     "summary": "There is growing evidence that de-industrialising communities have poorer health outcomes. This effect is observed in all members of the community, not just those directly employed in the declining industry. We investigate impact of the COVID-19 pandemic on coal mining communities and consider findings in the context of future pandemic preparedness. We calculate cumulative confirmed SARS-CoV-2 infection, COVID-19 hospitalisation and mortality proportions for small areas in Wales and Kentucky, two geographical regions with strong coal mining heritage. We grouped small areas by mining history an",
+    "date": "2026-10-24",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43068050",
+    "title": "Epidemiological patterns of coronavirus disease 2019 in Bangladesh: analysis of national case-based surveillance data from March 2020 to December 2022",
+    "authors": "Hassan MM, Habib MA, Afrin S et al.",
+    "journal": "",
+    "published_date": "2026-10-24",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068050/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43068050",
+    "summary": "<h4>Objectives</h4>Bangladesh used the District Health Information Software, version 2-based National Case-Based coronavirus disease 2019 (COVID-19) Surveillance System to record severe acute respiratory syndrome coronavirus 2 testing and case information during the pandemic. This analysis aimed to describe demographic, geographic, temporal, exposure-related, outcome, and vaccination patterns in the national surveillance records from March 2020 to December 2022.<h4>Methods</h4>We conducted a retrospective analysis of secondary surveillance data from the national District Health Information Sof",
     "date": "2026-10-24",
     "policy_area": [
       "general_covid"
@@ -6169,6 +6272,31 @@
     "source_type": "news",
     "summary": "Albertans brace for province’s new COVID-19 vaccine program, requiring many to pay out of pocket &nbsp;&nbsp; The Globe and Mail",
     "date": "2025-08-18",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": true,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_773404314e8fec27",
+    "title": "What health experts are saying about Alberta's COVID-19 vaccination program - CBC",
+    "authors": "CBC",
+    "journal": "CBC",
+    "published_date": "2025-08-17",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWg2dHpaOUNGQzAxbnNsaVNEbUxzdV9UY1U1LTgwbzRaOUFSNTVVck5XaFN4Y2xhOU52Q2pPRGN1dWw3NkMzSWVjMTkxTG5hUml1dnJMU3BLR1RuenZWZjUzR0I4SkgyVkktZ1NuYmJhTlRzMGZxU3RtZkE3WE5iaERJOW9lWThLbTZPXzdWZld1aVhES1R6YVZ5bWh1NmdMdS12cHZrMEZJSGhYQWdUMnRaLXozS0lUV1hvRmEySHN3M1U?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "What health experts are saying about Alberta's COVID-19 vaccination program &nbsp;&nbsp; CBC",
+    "date": "2025-08-17",
     "policy_area": [
       "general_covid"
     ],
