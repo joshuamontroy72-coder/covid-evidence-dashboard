@@ -26,6 +26,31 @@
     "pharma": false
   },
   {
+    "id": "news_7e468955557559ad",
+    "title": "With the emergence of a new Covid-19 variant, the Ministry of Health recommends proactive disease prevention measures. - Vietnam.vn",
+    "authors": "Vietnam.vn",
+    "journal": "Vietnam.vn",
+    "published_date": "2026-11-24",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFdGUG9iYlRPQ2c5Y3h2UldpbHF4ZG1DSTdOOWF0emV1R25BWW5DcXUzSVdaQlpzM0xycWg0bUFneFlYVGtRWXNvRUc3TXdRMHdXSXAyYjFNNjhqc1BnY21OdGlkS2xkSnoxWFpIQkROX09FODZDM2JiVjhzOS1aZVlYUm5lTVhlbWRoZkNFRGo4NllVMUtnbm1pUG0?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "With the emergence of a new Covid-19 variant, the Ministry of Health recommends proactive disease prevention measures. &nbsp;&nbsp; Vietnam.vn",
+    "date": "2026-11-24",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "rss_b3ba3cbfad68f46d",
     "title": "National flu and COVID-19 surveillance report, week 48 report: data to week 47 (data up to 22 November 2026)",
     "authors": "UKHSA",
@@ -71,6 +96,32 @@
     "pregnancy_related": false,
     "canadian": false,
     "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43062807",
+    "title": "Modelling severe COVID-19 by adaptation of SARS-CoV-2 in Syrian hamsters",
+    "authors": "Tang K, Yan B, Ong CP et al.",
+    "journal": "",
+    "published_date": "2026-11-20",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062807/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43062807",
+    "summary": "While most patients infected with recent Omicron subvariants develop milder disease than those infected with preceding SARS-CoV-2 strains, some patients remain susceptible to developing severe disease and/or long-term complications. The pathogenesis of and optimal countermeasures for severe COVID-19 remain incompletely understood. Readily available small animal models closely mimicking severe COVID-19 are lacking. We have previously established a Syrian hamster model for COVID-19 that mimics mild-to-moderate disease in humans. In this study, we established a new Syrian hamster model resembling",
+    "date": "2026-11-20",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
     "channel": "journals",
     "source_type_label": "Journal article",
     "reviewed": false,
@@ -136,7 +187,7 @@
     "url": "https://europepmc.org/article/PPR/PPR1372219",
     "source": "medRxiv / bioRxiv",
     "source_type": "preprint",
-    "summary": "Glycosylation influences the structure, immunogenicity, and evolutionary selection of the SARS CoV 2 spike protein (S), but its extensive heterogeneity has hindered characterization of intact glycoform distributions. Here, we illustrate a data-independent analysis - electron capture charge reduction (DIA-ECCR) native mass spectrometry workflow for direct analysis of intact spike glycoforms across multiple variants. DIA-ECCR resolves variant-dependent differences in glycoform distributions and higher mass subpopulations. Monte Carlo simulations based on published site-specific bottom-up glycopr",
+    "summary": "Glycosylation influences the structure, immunogenicity, and evolutionary selection of the SARS-CoV-2 spike protein (S), but its extensive heterogeneity has hindered characterization of intact glycoform distributions. Here, we illustrate a data-independent analysis - electron capture charge reduction (DIA-ECCR) native mass spectrometry workflow for direct analysis of intact spike glycoforms across multiple variants. DIA-ECCR resolves variant-dependent differences in glycoform distributions and higher mass subpopulations. Monte Carlo simulations based on published site-specific bottom-up glycopr",
     "date": "2026-11-19",
     "policy_area": [
       "general_covid"
@@ -3559,6 +3610,36 @@
     "pharma": false
   },
   {
+    "id": "ct_NCT07790523",
+    "title": "Effectiveness of An Influenza/COVID-19 Vaccine (mCombriax [mRNA-1083]) in Adults ≥ 65 Years",
+    "authors": "Tor Biering-Sørensen",
+    "journal": "ClinicalTrials.gov · PHASE4",
+    "published_date": "2026-09-04",
+    "url": "https://clinicaltrials.gov/study/NCT07790523",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "The purpose of this pragmatic randomized trials is to evaluate the comparative vaccine effectiveness (cVE) of mCombriax® (mRNA-1083) versus same day co-administration of the active comparators (i.e., high-dose influenza vaccine/Efluelda® and mRNA-1273/Spikevax®) among adults aged 65 years and older.",
+    "extra": {
+      "nct_id": "NCT07790523",
+      "status": "RECRUITING",
+      "phase": "PHASE4"
+    },
+    "date": "2026-09-04",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1311435",
     "title": "Reducing immunization inequities among zero-dose and under-vaccinated children through catch-up vaccination in Burkina Faso: findings from a mixed-method evaluation of the Big Catch-Up initiative, 2023–2025",
     "authors": "ZONGO A, DIALLO H, DADJO CH et al.",
@@ -6216,12 +6297,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-05",
+    "published_date": "2025-09-06",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "policy_area": [
       "general_covid"
     ],
@@ -8139,6 +8220,40 @@
     "species": "human",
     "channel": "news",
     "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "ct_NCT05658523",
+    "title": "COVID-19 Booster Study in Healthy Adults in Australia",
+    "authors": "Murdoch Childrens Research Institute",
+    "journal": "ClinicalTrials.gov · PHASE3",
+    "published_date": "2023-02-28",
+    "url": "https://clinicaltrials.gov/study/NCT05658523",
+    "source": "ClinicalTrials.gov",
+    "source_type": "clinical_trial",
+    "summary": "This is a double-blinded, randomised study to determine the safety, reactogenicity, and immunogenicity of a bivalent mRNA Moderna COVID-19 vaccine or a protein-based Novavax COVID-19 vaccine given as a fourth dose in healthy adults in Australia.",
+    "extra": {
+      "nct_id": "NCT05658523",
+      "status": "COMPLETED",
+      "phase": "PHASE3"
+    },
+    "date": "2023-02-28",
+    "policy_area": [
+      "booster_frequency",
+      "population_targeting",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Population targeting",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "trials",
+    "source_type_label": "Clinical trial",
     "reviewed": false,
     "pharma": false
   },
