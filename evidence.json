@@ -26,6 +26,83 @@
     "pharma": false
   },
   {
+    "id": "rss_a2ba892c245b731f",
+    "title": "National flu and COVID-19 surveillance report, week 52 report: data to week 51 (data up to 20 December 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-26",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-52-report-data-to-week-51-data-up-to-20-december-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-26",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "rss_bc995c5cce1f0d0e",
+    "title": "National flu and COVID-19 surveillance report, week 51 report: data to week 50 (data up to 13 December 2026)",
+    "authors": "UKHSA",
+    "journal": "UKHSA",
+    "published_date": "2026-11-26",
+    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-51-report-data-to-week-50-data-up-to-13-december-2026",
+    "source": "UKHSA",
+    "source_type": "guideline",
+    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+    "date": "2026-11-26",
+    "policy_area": [
+      "booster_frequency"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "nitag",
+    "source_type_label": "Guideline / policy document",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "preprint_PPR1378078",
+    "title": "mRNA-1273.262 and mRNA-1283.262 Vaccines Expressing XFG Antigens Neutralize Relevant Circulating Variants",
+    "authors": "Nasir A, Ogega C, Lee DW et al.",
+    "journal": "bioRxiv",
+    "published_date": "2026-11-25",
+    "url": "https://europepmc.org/article/PPR/PPR1378078",
+    "source": "medRxiv / bioRxiv",
+    "source_type": "preprint",
+    "summary": "SARS-CoV-2 continues to circulate and causes substantial disease burden as an endemic respiratory pathogen. Vaccination is a key public health measure to ameliorate the effects of COVID-19 disease but requires annual update to match strains that are circulating. Monitoring of circulating virus and characterization of matched candidate vaccines helps to inform which antigens will provide the greatest benefit to public well-being. The 2026-2027 season will leverage XFG as the variant of interest for vaccine production and in vitro and in vivo data was generated preclinically to support this sele",
+    "date": "2026-11-25",
+    "policy_area": [
+      "booster_frequency",
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Booster frequency & intervals",
+      "Vaccine strain selection"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "animal",
+    "channel": "preprints",
+    "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "news_7e468955557559ad",
     "title": "With the emergence of a new Covid-19 variant, the Ministry of Health recommends proactive disease prevention measures. - Vietnam.vn",
     "authors": "Vietnam.vn",
@@ -1053,31 +1130,6 @@
     "journal": "UKHSA",
     "published_date": "2026-11-02",
     "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-49-report-data-to-week-48-data-up-to-29-november-2026",
-    "source": "UKHSA",
-    "source_type": "guideline",
-    "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
-    "date": "2026-11-02",
-    "policy_area": [
-      "booster_frequency"
-    ],
-    "policy_area_labels": [
-      "Booster frequency & intervals"
-    ],
-    "pregnancy_related": false,
-    "canadian": false,
-    "species": "human",
-    "channel": "nitag",
-    "source_type_label": "Guideline / policy document",
-    "reviewed": false,
-    "pharma": false
-  },
-  {
-    "id": "rss_a2ba892c245b731f",
-    "title": "National flu and COVID-19 surveillance report, week 52 report: data to week 51 (data up to 20 December 2026)",
-    "authors": "UKHSA",
-    "journal": "UKHSA",
-    "published_date": "2026-11-02",
-    "url": "https://www.gov.uk/government/statistics/announcements/national-flu-and-covid-19-surveillance-report-week-52-report-data-to-week-51-data-up-to-20-december-2026",
     "source": "UKHSA",
     "source_type": "guideline",
     "summary": "National influenza and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
@@ -3796,6 +3848,31 @@
     "pharma": false
   },
   {
+    "id": "news_49278a2ef4df8322",
+    "title": "Doctors release vaccine recommendations for RSV, influenza, COVID-19 - upi",
+    "authors": "upi",
+    "journal": "upi",
+    "published_date": "2026-09-02",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGoxeFBjbVJTa1FZSWR0a2xqZXlZT0taRWk2RmpRejZMcjVOYnVwRGxMM3IyNkxhVm1BSFFGcnlyNG1IanFmZGtqNzY3aG1nSThqN0JjQnJhd0FyMVVNWEtYVlV6TUwyQ0hjOHNEel9sdm5sNGs5WnhXNDBOUUliTU96Mi03aFpnOW42bNIBkgFBVV95cUxOd05MX1FyenR6dHhmUFFOVHFWRUZJdmIyMDN0WTZWdGM2SXU0dDJaQm5nb1RXdGhGeWltaTJuRjJYNlNsNE1kdFlwQnlMaU5CbnZVWnAwV0RyV2JhdEtTWVlLLXc2WWI3XzFlX0djeFRiU2htNEg4LTlZTERiMGl4VjBRQ3pWRHdscHZ3cllQZGl2QQ?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "Doctors release vaccine recommendations for RSV, influenza, COVID-19 &nbsp;&nbsp; upi",
+    "date": "2026-09-02",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "preprint_PPR1309141",
     "title": "Leave no one behind: Global Analysis on monitoring childhood vaccination timeliness and catch-up using data from the WHO/UNICEF joint reporting form on Immunization",
     "authors": "Danovaro-Holliday MC, Castro-Aguirre I, Koh M et al.",
@@ -6297,12 +6374,12 @@
     "title": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines - CBC",
     "authors": "CBC",
     "journal": "CBC",
-    "published_date": "2025-09-06",
+    "published_date": "2025-09-05",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEJKREtEelI2SlFTQmRtNlBfd3BFT0c1RXNFR2xvWmk2N1RNOElnY3dyZ1NzblBnNzFTUnpVQ2ZhQTQyM1I3UlNxeEk4aWhZZEs3Z0IwSUROako3aDRuN080aUtVSG1obDhYUUxEZXliM2dyS3dIMUFBR2dteXNKblZsR1pERHM?oc=5",
     "source": "Google News",
     "source_type": "news",
     "summary": "Minister defends Alberta's plan to charge some people for COVID-19 vaccines &nbsp;&nbsp; CBC",
-    "date": "2025-09-06",
+    "date": "2025-09-05",
     "policy_area": [
       "general_covid"
     ],
