@@ -1,5 +1,31 @@
 [
   {
+    "id": "pubmed_43094063",
+    "title": "Social identities as conduits for harm: Inequality and secondary stressors among minority ethnic mothers during the COVID-19 pandemic",
+    "authors": "Ntontis E, Malovic A, Myers R et al.",
+    "journal": "",
+    "published_date": "2027-01-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094063/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43094063",
+    "summary": "Research on the mental health impacts of extreme events has traditionally examined the prevalence of stressors and the macro-level factors that shape outcomes. However, it says little about the psychosocial processes through which secondary stressors, rooted in pre-existing inequalities and institutional arrangements or in inadequate responses to extreme events, become distressing. In response to calls for psychosocial systems thinking, we examine how mothers from minority ethnic backgrounds experienced the COVID-19 pandemic in the UK. Reflexive thematic analysis of semi-structured interviews ",
+    "date": "2027-01-01",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
     "id": "pubmed_43069718",
     "title": "'We Have a Right to Know How It Will Affect Our Bodies': Vaccine Acceptance During the COVID-19 Pandemic in Fiji",
     "authors": "Frawley J, Vodonaivalu L, Devi R et al.",
@@ -16,6 +42,58 @@
     ],
     "policy_area_labels": [
       "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43096661",
+    "title": "Coronavirus Infection Across COVID-19 Pandemic Periods: An Integrated Analysis of Laboratory and Immunophenotypic Profiles",
+    "authors": "Cipriani C, Petrone V, Fanelli M et al.",
+    "journal": "",
+    "published_date": "2026-12-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096661/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43096661",
+    "summary": "During the COVID-19 pandemic, we investigated whether laboratory and immunophenotypic profiles of hospitalized patients varied across successive pandemic periods and in association with coronavirus positivity. We integrated these parameters with reference interval-based interpretation and multivariable modeling to identify non-redundant and persistent host response. The study included 1016 patients hospitalized at an Infectious Diseases Clinic for suspected acute respiratory infection (ARI) based on clinical symptoms from January 2021 to November 2023. Respiratory panel testing was available f",
+    "date": "2026-12-01",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43094293",
+    "title": "Antibody Quantity and Strain Specificity Following SARS-CoV-2 KP.3 Breakthrough Infection: Implications for Persistent Immune Imprinting After XBB Monovalent Vaccination",
+    "authors": "Sato T, Goto T, Tani N et al.",
+    "journal": "",
+    "published_date": "2026-12-01",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43094293/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43094293",
+    "summary": "<h4>Background</h4>Immune imprinting, characterized by preferential recall of preexisting vaccine-induced immunity, has been reported following breakthrough infection (BTI) with SARS-CoV-2 Omicron variants up to XBB. However, whether this phenomenon persists after vaccination with an updated XBB monovalent vaccine lacking the wild-type (WT) antigen and subsequent BTI with the antigenically divergent KP.3 variant remains unclear.<h4>Methods</h4>Convalescent sera were obtained during the KP.3-predominant period in Japan from individuals with KP.3 infection without prior vaccination and from indi",
+    "date": "2026-12-01",
+    "policy_area": [
+      "strain_selection"
+    ],
+    "policy_area_labels": [
+      "Vaccine strain selection"
     ],
     "pregnancy_related": false,
     "canadian": false,
@@ -99,6 +177,32 @@
     "species": "animal",
     "channel": "preprints",
     "source_type_label": "Preprint",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "pubmed_43095330",
+    "title": "Autoimmunity after immunization: a case of insulin resistance due to insulin antibodies following COVID-19 vaccination",
+    "authors": "Chaudhry Z, Harber I, Variar V et al.",
+    "journal": "",
+    "published_date": "2026-11-25",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095330/",
+    "source": "PubMed / Europe PMC",
+    "source_type": "journal_article",
+    "pmid": "43095330",
+    "summary": "Autoimmune insulin resistance due to insulin autoantibodies (IAAs) is a rare phenomenon. Exogenous insulin autoimmune syndrome, a type of autoimmune insulin resistance triggered by exogenous insulin, has been reported after coronavirus disease 2019 (COVID-19) infection or vaccination, starting days to weeks after the event. Here, we present a case of autoimmune insulin resistance occurring months after COVID-19 vaccination. A 58-year-old male patient with type 1 diabetes presented with worsening hyperglycemia a few months following his second COVID-19 vaccine. He exhibited glycemic variability",
+    "date": "2026-11-25",
+    "policy_area": [
+      "population_targeting"
+    ],
+    "policy_area_labels": [
+      "Population targeting"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "journals",
+    "source_type_label": "Journal article",
     "reviewed": false,
     "pharma": false
   },
@@ -7849,6 +7953,31 @@
     "species": "human",
     "channel": "trials",
     "source_type_label": "Clinical trial",
+    "reviewed": false,
+    "pharma": false
+  },
+  {
+    "id": "news_7e398a32f333dd98",
+    "title": "WHO SAGE Roadmap for prioritizing uses of COVID-19 vaccines: An approach to optimize the global impact of COVID-19 vaccines, based on public health goals, global and national equity, and vaccine access and coverage scenarios - World Health Organization (WHO)",
+    "authors": "World Health Organization (WHO)",
+    "journal": "World Health Organization (WHO)",
+    "published_date": "2023-11-10",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG5hVWMyR3M2dlVFN3VydnpVZklnaFB3RUJJbjdRaThzc096cUhmZzFGOHRaVWpCNk1XQ0o4cmxVbmNtWWRFZ2p4TTZjSlNyVU1NaGFncWxHNF9QSFVJTXdfb0NERHRHTnR1YzhuQ09HSDVFbUFBMGt1MnpnNW9uaWRFU3ppSUlPU1ROTG9LMFdKZW8?oc=5",
+    "source": "Google News",
+    "source_type": "news",
+    "summary": "WHO SAGE Roadmap for prioritizing uses of COVID-19 vaccines: An approach to optimize the global impact of COVID-19 vaccines, based on public health goals, global and national equity, and vaccine access and coverage scenarios &nbsp;&nbsp; World Health Organization (WHO)",
+    "date": "2023-11-10",
+    "policy_area": [
+      "general_covid"
+    ],
+    "policy_area_labels": [
+      "General COVID-19 vaccines"
+    ],
+    "pregnancy_related": false,
+    "canadian": false,
+    "species": "human",
+    "channel": "news",
+    "source_type_label": "News article",
     "reviewed": false,
     "pharma": false
   },
